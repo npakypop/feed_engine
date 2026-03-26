@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-26 14:04">
+<yml_catalog date="2026-03-26 14:14">
   <shop>
     <categories>
       <category id="1152" portal_id="562">Горіхи</category>
@@ -15,9 +15,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/27/fistashka-kaliforniiska-250h-82802782287642_+6f8e580c6e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/27/fistashka-kaliforniiska-250h-60005313949197_+ee4a21d820.png</picture>
-        <param name="Вес, г">250</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
       </offer>
       <offer id="NT-00005" available="">
         <name_ua>Кеш'ю смажений, 250г</name_ua>
@@ -29,9 +26,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/31/keshiu-smazhenyi-250h-45540079164213_+8a0d3291ef.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/31/keshiu-smazhenyi-250h-97844083134123_+9bbf332850.png</picture>
-        <param name="Вес, г">250</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
       </offer>
       <offer id="NT-00009" available="">
         <name_ua>Кеш'ю сирий, 250г</name_ua>
@@ -43,9 +37,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/35/keshiu-syryi-250h-22897114647943_+24dd234c8e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/35/keshiu-syryi-250h-90329384955494_+65c64eb04e.png</picture>
-        <param name="Вес, г">250</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
       </offer>
       <offer id="NT-00013" available="true">
         <name_ua>Мигдаль смажений, 250г</name_ua>
@@ -57,9 +48,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/39/myhdal-smazhenyi-250h-56182103397752_+3822a10f7d.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/39/myhdal-smazhenyi-250h-98985596569650_+eae7ff5120.png</picture>
-        <param name="Вес, г">250</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
       </offer>
       <offer id="NT-00017" available="true">
         <name_ua>Насіння гарбузове сире очищене, 250г</name_ua>
@@ -71,9 +59,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/43/nasinnia-harbuzove-250h-36175591156043_+2bc68a1062.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/nasinnia-harbuzove-250h-74218175890794_+bc4df65271.png</picture>
-        <param name="Вес, г">250</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
       </offer>
       <offer id="NT-00021" available="">
         <name_ua>Фундук бланшований, 250г</name_ua>
@@ -85,9 +70,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/47/funduk-blanshovanyi-250h-66451377441295_+6a77923880.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/47/funduk-blanshovanyi-250h-55310763419483_+84741b3556.png</picture>
-        <param name="Вес, г">250</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
       </offer>
       <offer id="nt-00025" available="true">
         <name_ua>Волоський горіх, 200г</name_ua>
@@ -99,11 +81,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/36/voloskyihorikh-200h-35140365175275_+94c87f6f3b.png</picture>
-        <param name="Вес, г">200</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
-        <param name="БЖУ">Жиры: 60-65,2 г Белки: 15–16,2 г Углеводы: 7-13,7 г Клетчатка: ~6,7 г</param>
-        <param name="Энергетическая ценность, 100 г">Калорийность: 650–680 ккал</param>
       </offer>
       <offer id="nt-00026" available="">
         <name_ua>Насіння Чіа, 350г</name_ua>
@@ -115,11 +92,6 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/37/nasinnia-chia-350h-47025153736543_+b878b062a3.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/37/nasinnia-chia-350h-36652579855667_+045a67916e.png</picture>
-        <param name="Вес, г">350</param>
-        <param name="Срок хранения, м">12</param>
-        <param name="Условия хранения">В прохладном и сухом месте</param>
-        <param name="БЖУ">Белки: 16,5 – 23,1 г Жиры: 30,7 – 31,9 г</param>
-        <param name="Энергетическая ценность, 100 г">Калорийность: 379 – 512 ккал</param>
       </offer>
       <offer id="nt-00027" available="true">
         <name_ua>Макадамія очищена, 100 г</name_ua>
