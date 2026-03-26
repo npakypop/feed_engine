@@ -1,40 +1,66 @@
+# Назва всього процесу, яку ти бачиш у вкладці Actions на GitHub
 name: Update Maudau Feed
 
+# Визначаємо "тригери" — події, на які реагує робот
 on:
+  push:
+    branches:
+      - main # Запускати робота щоразу, коли ти зберігаєш зміни в гілку main
   schedule:
-    - cron: '0 */6 * * *' 
-  workflow_dispatch: 
+    - cron: '0 */6 * * *' # Автозапуск кожні 6 годин (00:00, 06:00, 12:00, 18:00 за UTC)
+  workflow_dispatch: # Додає кнопку "Run workflow" для запуску вручну в будь-який момент
 
+# Глобальні налаштування середовища
+env:
+  # Змушуємо GitHub використовувати Node.js 24, щоб прибрати попередження про застарілі версії
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+# Дозволи для робота
 permissions:
-  contents: write # Обов'язково для виправлення помилки 128
+  contents: write # Даємо роботу ПРАВО ЗАПИСУВАТИ файли назад у твій репозиторій
 
+# Основний список завдань (робота)
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest # Робот орендує віртуальний комп'ютер на Linux (Ubuntu)
+    
     steps:
+      # Крок 1: Копіюємо твій код із репозиторію на віртуальну машину робота
       - name: Checkout code
-        uses: actions/checkout@v4 # Оновлено з v3 на v4 (вирішує Node.js warning)
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Завантажує всю історію, щоб Git не "губився" при пуші
+          fetch-depth: 0 # Завантажуємо всю історію змін (потрібно для надійного збереження файлів)
 
+      # Крок 2: Встановлюємо Python на віртуальну машину
       - name: Set up Python
-        uses: actions/setup-python@v5 # Оновлено з v4 на v5 (вирішує Node.js warning)
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.x' # Використовувати найсвіжішу стабільну версію Python 3
 
+      # Крок 3: Встановлюємо бібліотеки (pandas, lxml тощо), які ти вказав у requirements.txt
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Крок 4: Запускаємо  Python-скрипт
       - name: Run script
         env:
-          MASTER_FEED_URL: ${{ secrets.MASTER_FEED_URL }} # Передаємо секретне посилання в код
+          # Передаємо приховане посилання із Secrets у твій код як змінну оточення
+          MASTER_FEED_URL: ${{ secrets.MASTER_FEED_URL }}
         run: python main.py
 
+      # Крок 5: Зберігаємо створений файл maudau_feed.xml назад у репозиторій
       - name: Commit and Push changes
         run: |
+          # Налаштовуємо Git від імені системного бота GitHub
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Додаємо файл у список для збереження
           git add maudau_feed.xml
-          # Додаємо перевірку, щоб не падати, якщо файл не змінився
+          
+          # Робимо "знімок" змін (коміт) з поточною датою. 
+          # Якщо файл не змінився, команда просто виведе повідомлення "No changes", а не помилку.
           git commit -m "Auto-update feed: $(date)" || echo "No changes to commit"
-          git push origin main # Чітко вказуємо куди пушити
+          
+          # Відправляємо зміни назад на сервер GitHub у гілку main
+          git push origin main
