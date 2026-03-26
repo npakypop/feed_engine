@@ -131,13 +131,13 @@ def generate_maudau_xml(df, output_filename="maudau_feed.xml"):
                 etree.SubElement(offer, "picture").text = p.strip()
 
         # Параметри
-        param_cols = [c for c in df.columns if c.startswith('param_')]
-        for col in param_cols:
-            val = row[col]
-            if pd.notna(val) and str(val).strip() != "":
-                p_name = col.replace('param_', '')
-                param = etree.SubElement(offer, "param", name=p_name)
-                param.text = str(val).strip()
+        # param_cols = [c for c in df.columns if c.startswith('param_')]
+        # for col in param_cols:
+        #     val = row[col]
+        #     if pd.notna(val) and str(val).strip() != "":
+        #         p_name = col.replace('param_', '')
+        #         param = etree.SubElement(offer, "param", name=p_name)
+        #         param.text = str(val).strip()
 
     # Збереження
     tree = etree.ElementTree(root)
