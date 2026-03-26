@@ -1,35 +1,40 @@
-name: Update Maudau Feed # Назва нашого процесу
+name: Update Maudau Feed
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Робот прокидатиметься кожні 6 годин (за UTC)
-  workflow_dispatch: # Додає кнопку "запустити вручну" в інтерфейсі GitHub
+    - cron: '0 */6 * * *' 
+  workflow_dispatch: 
 
-permissions: # Даємо роботу права записувати файл назад у твій репозиторій
-  contents: write
+permissions:
+  contents: write # Обов'язково для виправлення помилки 128
 
 jobs:
   build:
-    runs-on: ubuntu-latest # Використовуємо Linux як віртуальну машину
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3 # Робот "скачує" твій код собі на віртуальний диск
+        uses: actions/checkout@v4 # Оновлено з v3 на v4 (вирішує Node.js warning)
+        with:
+          fetch-depth: 0 # Завантажує всю історію, щоб Git не "губився" при пуші
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Оновлено з v4 на v5 (вирішує Node.js warning)
         with:
-          python-version: "3.x" # Встановлюємо Python
+          python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt # Встановлюємо бібліотеки зі списку
+        run: pip install -r requirements.txt
 
       - name: Run script
-        run: python main.py # Запускаємо твій головний скрипт
+        env:
+          MASTER_FEED_URL: ${{ secrets.MASTER_FEED_URL }} # Передаємо секретне посилання в код
+        run: python main.py
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name "FeedBot"
-          git config --global user.email "bot@github.com"
-          git add maudau_feed.xml # Кажемо Git помітити оновлений файл
-          git commit -m "Auto-update feed: $(date)" || exit 0 # Зберігаємо зміни з поточною датою
-          git push # Відправляємо оновлений файл назад у твій репозиторій на GitHub
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add maudau_feed.xml
+          # Додаємо перевірку, щоб не падати, якщо файл не змінився
+          git commit -m "Auto-update feed: $(date)" || echo "No changes to commit"
+          git push origin main # Чітко вказуємо куди пушити
