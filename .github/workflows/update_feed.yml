@@ -1,0 +1,35 @@
+name: Update Maudau Feed # Назва нашого процесу
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Робот прокидатиметься кожні 6 годин (за UTC)
+  workflow_dispatch: # Додає кнопку "запустити вручну" в інтерфейсі GitHub
+
+permissions: # Даємо роботу права записувати файл назад у твій репозиторій
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Використовуємо Linux як віртуальну машину
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3 # Робот "скачує" твій код собі на віртуальний диск
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x" # Встановлюємо Python
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt # Встановлюємо бібліотеки зі списку
+
+      - name: Run script
+        run: python main.py # Запускаємо твій головний скрипт
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "FeedBot"
+          git config --global user.email "bot@github.com"
+          git add maudau_feed.xml # Кажемо Git помітити оновлений файл
+          git commit -m "Auto-update feed: $(date)" || exit 0 # Зберігаємо зміни з поточною датою
+          git push # Відправляємо оновлений файл назад у твій репозиторій на GitHub
