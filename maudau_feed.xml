@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-03-30 19:01">
+<yml_catalog date="2026-03-31 02:28">
   <shop>
     <categories>
       <category id="1085">Фрукти Сублімовані</category>
@@ -1762,7 +1762,7 @@
         <name_ru>Протеиновый батончик, вкус яблоко-корица, 40 г</name_ru>
         <description_ua>&lt;h2&gt;Протеїновий батончик зі смаком яблуко-кориця&lt;/h2&gt;    &lt;p&gt;Натуральний протеїновий батончик зі смаком яблуко-кориця Vitberry — це поживний перекус із натуральних інгредієнтів. Ми поєднали сублімоване яблуко з корицею, щоб створити збалансований смак без цукру, без консервантів та без штучних добавок.&lt;/p&gt;    &lt;h2&gt;Кому підійде&lt;/h2&gt;    &lt;p&gt;Батончик підійде для тих, хто шукає протеїновий снек у дорогу, швидке відновлення після тренування або корисний перекус до кави. Це також чудовий варіант для тих, хто уникає цукру й обирає здорову альтернативу звичайним солодощам.&lt;/p&gt;    &lt;h2&gt;Склад продукту&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;фінік&lt;/li&gt;   &lt;li&gt;сироватковий протеїн&lt;/li&gt;   &lt;li&gt;сублімоване яблуко&lt;/li&gt;   &lt;li&gt;мигдаль&lt;/li&gt;   &lt;li&gt;кориця&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Натуральність і користь&lt;/h2&gt;    &lt;p&gt;Ми використовуємо лише натуральні інгредієнти, включно із сублімованими фруктами — вони зберігають максимум користі, яку дає нам природа.&lt;/p&gt;    &lt;h2&gt;Де купити&lt;/h2&gt;    &lt;p&gt;Купити протеїновий батончик Vitberry без цукру можна вже сьогодні в нашому інтернет-магазині. Оформіть замовлення онлайн і отримайте швидку доставку по всій Україні за приємною ціною.&lt;/p&gt;</description_ua>
         <description_ru>&lt;h2&gt;Протеиновый батончик со вкусом яблоко-корица&lt;/h2&gt;    &lt;p&gt;Натуральный протеиновый батончик со вкусом яблоко-корица Vitberry – это питательный перекус из натуральных ингредиентов. Мы объединили сублимированное яблоко с корицей, чтобы создать сбалансированный вкус без сахара, без консервантов и искусственных добавок.&lt;/p&gt;    &lt;h2&gt;Кому подойдет&lt;/h2&gt;    &lt;p&gt;Батончик подойдет для ищущих протеиновый снек в дорогу, быстрое восстановление после тренировки или полезный перекус к кофе. Это также отличный вариант для тех, кто избегает сахара и выбирает здоровую альтернативу обычным сладостям.&lt;/p&gt;    &lt;h2&gt;Состав продукта&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;финик&lt;/li&gt;   &lt;li&gt;сывороточный протеин&lt;/li&gt;   &lt;li&gt;сублимированное яблоко&lt;/li&gt;   &lt;li&gt;миндаль&lt;/li&gt;   &lt;li&gt;корица&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Естественность и польза&lt;/h2&gt;    &lt;p&gt;Мы используем только натуральные ингредиенты, включая сублимированные фрукты — они сохраняют максимум пользы, которую дает нам природа.&lt;/p&gt;    &lt;h2&gt;Где купить&lt;/h2&gt;    &lt;p&gt;Купить протеиновый батончик без сахара Vitberry можно уже сегодня в нашем интернет-магазине. Оформите заказ онлайн и получите скорую доставку по всей Украине по приятной цене.&lt;/p&gt;</description_ru>
-        <price>69</price>
+        <price>45</price>
         <categoryId>1118</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/28/batonchyk-proteinovyi-smak-yabluko-korytsia-40-h-52448115360317_+2aac0db790.jpg</picture>
@@ -2199,7 +2199,9 @@
         <price>64</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-28578470966586_+1e5cc58293.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-77185220877697_+5411640657.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-63064654269934_+51732cb425.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-62866822604196_+288d49deb0.jpg</picture>
       </offer>
       <offer id="sv-00002" available="true">
         <name_ua>Гарбуз сублімований, кубики, 30 г</name_ua>
@@ -2209,7 +2211,9 @@
         <price>159</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-28578470966586_+1e5cc58293.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-77185220877697_+5411640657.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-63064654269934_+51732cb425.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-62866822604196_+288d49deb0.jpg</picture>
       </offer>
       <offer id="sv-00003" available="true">
         <name_ua>Гарбуз сублімований, кубики, 100 г</name_ua>
@@ -2219,7 +2223,9 @@
         <price>449</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-28578470966586_+1e5cc58293.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-77185220877697_+5411640657.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-63064654269934_+51732cb425.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-62866822604196_+288d49deb0.jpg</picture>
       </offer>
       <offer id="sv-00004" available="true">
         <name_ua>Гарбуз сублімований, кубики, 500 г</name_ua>
@@ -2229,7 +2235,9 @@
         <price>1990</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-28578470966586_+1e5cc58293.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-77185220877697_+5411640657.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-63064654269934_+51732cb425.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovanyi-harbuz-62866822604196_+288d49deb0.jpg</picture>
       </offer>
       <offer id="sv-00005" available="true">
         <name_ua>Батат сублімований, слайси, 10 г</name_ua>
@@ -2239,7 +2247,9 @@
         <price>64</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-75431726423334_+9509327383.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-50479250496333_+1624c84576.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-20061798045240_+96fcdeb229.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-69457938882404_+2774516ad7.jpg</picture>
       </offer>
       <offer id="sv-00006" available="true">
         <name_ua>Батат сублімований, слайси, 30 г</name_ua>
@@ -2249,7 +2259,9 @@
         <price>159</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-75431726423334_+9509327383.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-50479250496333_+1624c84576.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-20061798045240_+96fcdeb229.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-69457938882404_+2774516ad7.jpg</picture>
       </offer>
       <offer id="sv-00007" available="true">
         <name_ua>Батат сублімований, слайси, 100 г</name_ua>
@@ -2259,7 +2271,9 @@
         <price>449</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-75431726423334_+9509327383.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-50479250496333_+1624c84576.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-20061798045240_+96fcdeb229.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-69457938882404_+2774516ad7.jpg</picture>
       </offer>
       <offer id="sv-00008" available="true">
         <name_ua>Батат сублімований, слайси, 500 г</name_ua>
@@ -2269,7 +2283,9 @@
         <price>1990</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-75431726423334_+9509327383.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-50479250496333_+1624c84576.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-20061798045240_+96fcdeb229.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/29/batat-sublimovanyi-slaisy-69457938882404_+2774516ad7.jpg</picture>
       </offer>
       <offer id="sv-00009" available="true">
         <name_ua>Цвітна капуста сублімована, 10 г</name_ua>
@@ -2279,7 +2295,9 @@
         <price>64</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-25257510647606_+40709e8ee8.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-27217790140596_+79b413bd39.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-64025081506705_+835b74a523.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-89450614886274_+10b9fe40a2.jpg</picture>
       </offer>
       <offer id="sv-00010" available="true">
         <name_ua>Цвітна капуста сублімована, 30 г</name_ua>
@@ -2289,7 +2307,9 @@
         <price>159</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-25257510647606_+40709e8ee8.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-27217790140596_+79b413bd39.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-64025081506705_+835b74a523.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-89450614886274_+10b9fe40a2.jpg</picture>
       </offer>
       <offer id="sv-00011" available="false">
         <name_ua>Цвітна капуста сублімована, 100 г</name_ua>
@@ -2299,7 +2319,9 @@
         <price>449</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-25257510647606_+40709e8ee8.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-27217790140596_+79b413bd39.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-64025081506705_+835b74a523.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-89450614886274_+10b9fe40a2.jpg</picture>
       </offer>
       <offer id="sv-00012" available="false">
         <name_ua>Цвітна капуста сублімована, 500 г</name_ua>
@@ -2309,7 +2331,9 @@
         <price>1990</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-25257510647606_+40709e8ee8.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-27217790140596_+79b413bd39.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-64025081506705_+835b74a523.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/tsvitna-kapusta-sublimovana-89450614886274_+10b9fe40a2.jpg</picture>
       </offer>
       <offer id="sv-00013" available="true">
         <name_ua>Кукурудза сублімована , зерна, 10 г</name_ua>
@@ -2319,7 +2343,9 @@
         <price>64</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-81548652405659_+4598c61ccf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-12887735891221_+b7db5af93c.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-35125525694034_+41fac48c61.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-83557133995368_+4be35a1102.jpg</picture>
       </offer>
       <offer id="sv-00014" available="true">
         <name_ua>Кукурудза сублімована , зерна, 30 г</name_ua>
@@ -2329,7 +2355,9 @@
         <price>159</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-81548652405659_+4598c61ccf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-12887735891221_+b7db5af93c.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-35125525694034_+41fac48c61.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-83557133995368_+4be35a1102.jpg</picture>
       </offer>
       <offer id="sv-00015" available="true">
         <name_ua>Кукурудза сублімована , зерна, 100 г</name_ua>
@@ -2339,7 +2367,9 @@
         <price>449</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-81548652405659_+4598c61ccf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-12887735891221_+b7db5af93c.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-35125525694034_+41fac48c61.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-83557133995368_+4be35a1102.jpg</picture>
       </offer>
       <offer id="sv-00016" available="true">
         <name_ua>Кукурудза сублімована , зерна, 500 г</name_ua>
@@ -2349,7 +2379,9 @@
         <price>1990</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-81548652405659_+4598c61ccf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-12887735891221_+b7db5af93c.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-35125525694034_+41fac48c61.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/37/kukurudza-sublimovana-zerna-83557133995368_+4be35a1102.jpg</picture>
       </offer>
       <offer id="sv-00017" available="true">
         <name_ua>Морква-бебі сублімована ціла, 10 г</name_ua>
@@ -2359,7 +2391,9 @@
         <price>64</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-68919379939789_+72e2ca38e1.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-43576864409780_+e7041f8610.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-90331745913622_+b022fa3f4b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-88444013351689_+9c34dd3ea6.jpg</picture>
       </offer>
       <offer id="sv-00018" available="true">
         <name_ua>Морква-бебі сублімована ціла, 30 г</name_ua>
@@ -2369,7 +2403,9 @@
         <price>159</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-68919379939789_+72e2ca38e1.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-43576864409780_+e7041f8610.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-90331745913622_+b022fa3f4b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-88444013351689_+9c34dd3ea6.jpg</picture>
       </offer>
       <offer id="sv-00019" available="true">
         <name_ua>Морква-бебі сублімована ціла, 100 г</name_ua>
@@ -2379,7 +2415,9 @@
         <price>449</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-68919379939789_+72e2ca38e1.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-43576864409780_+e7041f8610.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-90331745913622_+b022fa3f4b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-88444013351689_+9c34dd3ea6.jpg</picture>
       </offer>
       <offer id="sv-00020" available="true">
         <name_ua>Морква-бебі сублімована ціла, 500 г</name_ua>
@@ -2389,7 +2427,9 @@
         <price>1990</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-68919379939789_+72e2ca38e1.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-43576864409780_+e7041f8610.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-90331745913622_+b022fa3f4b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/41/morkva-bebi-sublimovana-tsila-88444013351689_+9c34dd3ea6.jpg</picture>
       </offer>
       <offer id="sv-00021" available="true">
         <name_ua>Броколі сублімована, 10 г</name_ua>
@@ -2399,7 +2439,9 @@
         <price>64</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-60233067414974_+9ddd6c9a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-24723262866707_+3bf7e9f384.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-32575974260345_+702664bcc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-47514152587670_+eaf83f7671.jpg</picture>
       </offer>
       <offer id="sv-00022" available="true">
         <name_ua>Броколі сублімована, 30 г</name_ua>
@@ -2409,7 +2451,9 @@
         <price>159</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-60233067414974_+9ddd6c9a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-24723262866707_+3bf7e9f384.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-32575974260345_+702664bcc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-47514152587670_+eaf83f7671.jpg</picture>
       </offer>
       <offer id="sv-00023" available="false">
         <name_ua>Броколі сублімована, 100 г</name_ua>
@@ -2419,7 +2463,9 @@
         <price>449</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-60233067414974_+9ddd6c9a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-24723262866707_+3bf7e9f384.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-32575974260345_+702664bcc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-47514152587670_+eaf83f7671.jpg</picture>
       </offer>
       <offer id="sv-00024" available="false">
         <name_ua>Броколі сублімована, 500 г</name_ua>
@@ -2429,7 +2475,9 @@
         <price>1990</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-60233067414974_+9ddd6c9a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-24723262866707_+3bf7e9f384.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-32575974260345_+702664bcc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/45/brokoli-sublimovana-47514152587670_+eaf83f7671.jpg</picture>
       </offer>
       <offer id="sv-00025" available="true">
         <name_ua>Горох сублімований цілий, 10 г</name_ua>
@@ -2439,7 +2487,9 @@
         <price>64</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-19559870702492_+8b44396a75.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-74723269335042_+bce8d2c215.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-33796305932976_+e3af68f28b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-21301852177893_+e8b39ddca4.jpg</picture>
       </offer>
       <offer id="sv-00026" available="true">
         <name_ua>Горох сублімований цілий, 30 г</name_ua>
@@ -2449,7 +2499,9 @@
         <price>159</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-19559870702492_+8b44396a75.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-74723269335042_+bce8d2c215.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-33796305932976_+e3af68f28b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-21301852177893_+e8b39ddca4.jpg</picture>
       </offer>
       <offer id="sv-00027" available="true">
         <name_ua>Горох сублімований цілий, 100 г</name_ua>
@@ -2459,7 +2511,9 @@
         <price>449</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-19559870702492_+8b44396a75.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-74723269335042_+bce8d2c215.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-33796305932976_+e3af68f28b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-21301852177893_+e8b39ddca4.jpg</picture>
       </offer>
       <offer id="sv-00028" available="true">
         <name_ua>Горох сублімований цілий, 500 г</name_ua>
@@ -2469,7 +2523,9 @@
         <price>1990</price>
         <categoryId>1182</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-19559870702492_+8b44396a75.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-74723269335042_+bce8d2c215.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-33796305932976_+e3af68f28b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/49/horokh-sublimovanyi-tsilyi-21301852177893_+e8b39ddca4.jpg</picture>
       </offer>
       <offer id="sv-00029" available="true">
         <name_ua>Морква сублімована порошок, 100 г</name_ua>
