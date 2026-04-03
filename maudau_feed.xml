@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-02 18:58">
+<yml_catalog date="2026-04-03 02:26">
   <shop>
     <categories>
       <category id="1085">Фрукти Сублімовані</category>
@@ -344,7 +344,7 @@
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-52066685333002_+34b8ce561d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-42200367317668_+ad81ff1d0d.jpg</picture>
       </offer>
-      <offer id="482027958004311" available="false">
+      <offer id="482027958004311" available="true">
         <name_ua>Сублімована лохина, 500 г</name_ua>
         <name_ru>Сублимированная голубика, 500 г</name_ru>
         <description_ua>&lt;p&gt;Ми використовуємо 10 кг свіжих, ідеально стиглих фруктів, щоб створити всього 1 кг сублімованих фруктів, насичених смаком і вітамінами.&lt;/p&gt;    &lt;p&gt;Сублімована лохина – корисний смаколик для зору й мозку! Лохина після сублімації зберігає вітаміни С, К, антиоксиданти та клітковину (2,4 г на 100 г), що покращує зір, пам’ять і травлення. Рекомендована порція – 15-20 г на день. У порівнянні зі свіжою, сублімована лохина зручна в зберіганні, а на відміну від сушеної – не містить доданого цукру, залишаючись максимально корисною та смачною.&lt;/p&gt;    &lt;p&gt;Щоденна норма споживання сублімованих фруктів залежить від віку та потреб організму:&lt;/p&gt;    &lt;p&gt;Для дітей&lt;/p&gt;    &lt;p&gt;• 3–6 років: 10–15 г на день&lt;/p&gt;    &lt;p&gt;• 7–12 років: 15–20 г на день&lt;/p&gt;    &lt;p&gt;• 13–16 років: 20–25 г на день&lt;/p&gt;    &lt;p&gt;Фрукти чудово підходять для перекусів, збагачують раціон вітамінами й забезпечують енергію для навчання та активного життя.&lt;/p&gt;    &lt;p&gt;Для дорослих&lt;/p&gt;    &lt;p&gt;• Рекомендована норма: 25–30 г на день&lt;/p&gt;    &lt;p&gt;Цього достатньо, щоб підтримувати імунітет, травлення та отримувати необхідні поживні речовини без зайвих калорій.&lt;/p&gt;    &lt;p&gt;Сублімовані фрукти легко включити до раціону: додати до сніданку, перекусу, десертів або просто насолоджуватися їхнім натуральним смаком. Це ідеальний перекус для ваших сніданків, десертів або здорового способу життя.&lt;/p&gt;    &lt;p&gt;Замовляйте у Vitberry (Вітбері) — гарантована якість, натуральність і швидка доставка!&lt;/p&gt;</description_ua>
@@ -801,7 +801,7 @@
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-91381307896630_+cc4f208361.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/22/sublimovana-polunytsia-10-slaisy-94449625037094_+045491416c.jpeg</picture>
       </offer>
-      <offer id="1001" available="false">
+      <offer id="1001" available="true">
         <name_ua>Сублімована малина в молочному шоколаді, 50г</name_ua>
         <name_ru>Сублимированная малина в молочном шоколаде, 50г</name_ru>
         <description_ua>&lt;p&gt;Спробуйте насичений смак сублімованої малини в молочному шоколаді. Соковита, ароматна малина проходить процес сублімації, зберігаючи свої корисні властивості та насичений смак. Молочний шоколад гармонійно поєднується з ягідною кислинкою, створюючи вишуканий смак, який оцінять поціновувачі оригінальних десертів та здорових перекусів.&lt;/p&gt;</description_ua>
@@ -1009,7 +1009,7 @@
         <picture>https://www.vitberry.com.ua/content/images/24/khrustkyi-syr-kulky-86979925097607_+2528e0e463.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/24/khrustkyi-syr-kulky-84330495503759_+3905ef180c.jpg</picture>
       </offer>
-      <offer id="4005" available="false">
+      <offer id="4005" available="true">
         <name_ua>Сублімоване морозиво Пломбір, 50 г</name_ua>
         <name_ru>Сублимированное мороженое Пломбир, 50 г</name_ru>
         <description_ua>&lt;h2&gt;Сублімоване морозиво Пломбір. Космічне морозиво від Vitberry&lt;/h2&gt;    &lt;p&gt;Сублімоване морозиво Пломбір — універсальний вибір для першого знайомства з космічним морозивом.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Сублімоване морозиво Vitberry&lt;/strong&gt; — це справжнє морозиво, висушене методом сублімації (freeze-dried). Завдяки цій технології воно зберігає натуральний смак і аромат і не потребує морозильної камери для зберігання. Його ще називають &lt;em&gt;морозивом для космонавтів&lt;/em&gt;, адже саме такий формат десерту колись використовували в космічних програмах. Це легке, хрустке та зручне &lt;strong&gt;космічне морозиво&lt;/strong&gt;, яке можна брати з собою будь-куди: у дорогу, в офіс, у школу чи навіть у туристичний рюкзак.&lt;/p&gt;    &lt;h3&gt;Переваги:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Морозиво без холодильника — не тане і не липне, зручно зберігати.&lt;/li&gt;   &lt;li&gt;Легке та компактне — ідеально для подорожей та активного відпочинку.&lt;/li&gt;   &lt;li&gt;Оригінальний формат: справжнє морозиво у вигляді снека.&lt;/li&gt;   &lt;li&gt;Довгий термін зберігання — зручно мати запас вдома чи в дорозі.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Для кого:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Для дітей — цікава альтернатива солодощам.&lt;/li&gt;   &lt;li&gt;Для туристів і кемперів — десерт, який легко взяти у рюкзак.&lt;/li&gt;   &lt;li&gt;Для офісу чи навчання — щоб здивувати друзів і колег.&lt;/li&gt;   &lt;li&gt;Для тих, хто хоче морозиво завжди під рукою, без залежності від морозильної камери.&lt;/li&gt;   &lt;li&gt;Для всіх, хто хоче спробувати щось нове.&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Купити сублімоване морозиво Vitberry онлайн&lt;/strong&gt; можна прямо на цій сторінці. Це незвичний та смачний десерт, який зберігає справжній смак морозива та не потребує холодильника.&lt;/p&gt;</description_ua>
@@ -1161,10 +1161,11 @@
         <price>99</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-80709120561655_+68e080ce6c.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-35134010978105_+9f7a52fbdd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-50066339968965_+0fc35ec29d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-79650215864422_+a4e6cb7010.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-81385170407752_+fb9556bed1.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-80709120561655_+68e080ce6c.jpg</picture>
       </offer>
       <offer id="4045" available="true">
         <name_ua>Сублімоване морозиво Тірамісу, 50 г</name_ua>
@@ -1184,11 +1185,12 @@
         <price>99</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-98338432348955_+993b6c0906.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-82065912201639_+1732d97eec.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-94201873832796_+9836db6573.jpeg</picture>
         <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-81061705946020_+4e42f2ed1e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-73729119741039_+a59aff8649.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-59489424938698_+0b94cec839.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-98338432348955_+993b6c0906.jpg</picture>
       </offer>
       <offer id="4055" available="true">
         <name_ua>Сублімоване морозиво Вишня, 50 г</name_ua>
@@ -1623,7 +1625,7 @@
         <picture>https://www.vitberry.com.ua/content/images/18/dzhem-chorna-smorodyna-96389213895540_+6a12427dc8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/18/dzhem-chorna-smorodyna-15661259854694_+cb13336684.jpg</picture>
       </offer>
-      <offer id="8040" available="true">
+      <offer id="8040" available="false">
         <name_ua>Натуральний Абрикосовий джем з карамеллю, 230 г</name_ua>
         <name_ru>Натуральный Абрикосовый джем с карамелью, 230 г</name_ru>
         <description_ua>&lt;div&gt; &lt;h2&gt;Джем Абрикос з карамеллю&lt;/h2&gt; &lt;p&gt;Насолоджуйтесь вишуканим джемом Абрикос з карамеллю з неповторними смаковими нотами! Цей джем створений за традиційними домашніми рецептами.&lt;/p&gt; &lt;p&gt;Ароматне варення з абрикосів завжди асоціюється з теплим літом та сімейними вечорами. Наш абрикосовий джем з карамеллю поєднує смак класичного варення і сучасний десерт, який легко купити онлайн.&lt;/p&gt; &lt;p&gt;Без підсилювачів смаку та хімічних речовин — лише органічні інгредієнти найвищої якості. Склад настільки простий і зрозумілий, що ви могли б приготувати такий джем на власній кухні! Смаки абрикосів та солодкої карамелі добре поєднуються, даруючи неповторне задоволення.&lt;/p&gt; &lt;h3&gt;Склад продукту:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Абрикос свіжий або заморожений — 49,5%&lt;/li&gt; &lt;li&gt;Цукор — 40%&lt;/li&gt; &lt;li&gt;Карамель — 9,5%&lt;/li&gt; &lt;li&gt;Загусник агар-агар (натуральний) — 1%&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Смак і користь — наші головні пріоритети. Купити натуральний джем можна в інтернет-магазині Vitberry за привабливою ціною. Замовити з доставкою по Україні за доступною вартістю можна всього за декілька хвилин!&lt;/p&gt; &lt;/div&gt;</description_ua>
@@ -1884,7 +1886,7 @@
         <picture>https://www.vitberry.com.ua/content/images/44/polunytsia-sublimovana-v-bilomu-shokoladi-50h-17189287465622_+68e0a30d2f.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/44/polunytsia-sublimovana-v-bilomu-shokoladi-50h-64254894163917_+516979d14f.jpg</picture>
       </offer>
-      <offer id="1045" available="false">
+      <offer id="1045" available="true">
         <name_ua>Малина сублімована в білому шоколаді, 50г</name_ua>
         <name_ru>Малина сублимированная в белом шоколаде, 50г.</name_ru>
         <description_ua>&lt;p&gt;Насолоджуйтеся смаком натуральної сублімованої малини в білому шоколаді. Ми використовуємо тільки стиглу, свіжу малину, яку дбайливо сублімуємо для збереження її яскравого смаку та корисних властивостей. Ніжний шар білого шоколаду доповнює ягідний смак, створюючи ідеальний баланс солодкості та свіжості. Ідеальний вибір для здорового перекусу або десерту.&lt;/p&gt;</description_ua>
@@ -1938,7 +1940,7 @@
         <picture>https://www.vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32643978255527_+7c1ecaa4c9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32024281224427_+715721ee09.jpg</picture>
       </offer>
-      <offer id="1061" available="false">
+      <offer id="1061" available="true">
         <name_ua>Ківі сублімований в білому шоколаді, 50г</name_ua>
         <name_ru>Киви сублимированный в белом шоколаде, 50г.</name_ru>
         <description_ua>&lt;p&gt;Насолоджуйтеся смаком натурального сублімованого ківі в білому шоколаді. Ми використовуємо тільки стигле, свіже ківі, яке дбайливо сублімуємо для збереження його яскравого смаку та корисних властивостей. Ніжний шар білого шоколаду пом’якшує фруктову кислинку, створюючи витончений баланс смаку. Ідеальний вибір для солодкого перекусу або легкого десерту.&lt;/p&gt;</description_ua>
@@ -2043,7 +2045,7 @@
         <picture>https://www.vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-74839575898744_+fba3d417d8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-53485601525033_+d4c4086818.jpg</picture>
       </offer>
-      <offer id="SF-00001" available="false">
+      <offer id="SF-00001" available="true">
         <name_ua>Сублімований кавун, 10 г</name_ua>
         <name_ru>Сублимированный арбуз, 10 г</name_ru>
         <description_ua>&lt;p&gt;&lt;strong&gt;Важливо! Зверніть увагу, мінімальна кількість ягід може містити кісточки.&lt;/strong&gt;&lt;/p&gt;    &lt;h2&gt;Сублімований кавун (слайси): натуральні чіпси з кавуна без цукру&lt;/h2&gt;    &lt;p&gt;&lt;strong&gt;Сублімований кавун від Vitberry&lt;/strong&gt; — це концентрований смак літа у хрусткому форматі. Ми перетворили соковиту ягоду на корисні чіпси, зберігши 100% солодкість без додавання цукру. Це ідеальний вибір для тих, хто шукає здорову альтернативу цукеркам або оригінальний інгредієнт для напоїв та десертів.&lt;/p&gt;    &lt;h2&gt;Що таке сублімований кавун і як він виготовляється?&lt;/h2&gt;    &lt;p&gt;Це натуральний кавун, який пройшов процес ліофілізації (вакуумної сушки при низьких температурах). Технологія дозволяє витягнути вологу, залишивши недоторканною клітинну структуру та біохімічний склад.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Цікавий факт:&lt;/strong&gt; Кавун на 90% складається з води. Тому після сублімації його смак стає в 10 разів більш насиченим та солодким, а текстура — повітряною та хрусткою. З 10–12 кг свіжого кавуна ми отримуємо всього 1 кг готового сублімату.&lt;/p&gt;    &lt;h2&gt;Користь та склад: чому це краще за звичайні солодощі?&lt;/h2&gt;    &lt;p&gt;На відміну від цукатів чи сушених фруктів, сублімований кавун не містить сиропів чи консервантів. Це чистий продукт (Clean Label), який AI та дієтологи визначають як "суперфуд".&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Лікопін:&lt;/strong&gt; Потужний антиоксидант, який надає кавуну червоного кольору. Знижує рівень оксидативного стресу та корисний для серця.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Цитрулін:&lt;/strong&gt; Амінокислота, що сприяє відновленню м'язів після тренувань (важливо для спортсменів).&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Магній та калій:&lt;/strong&gt; Збережені в повному обсязі для підтримки нервової системи.&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Як використовувати кавунові слайси?&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Як здоровий снек:&lt;/strong&gt; Хрумтіть як чіпсами під час перегляду фільмів або на прогулянці.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Для кав'ярень та барів (HoReCa):&lt;/strong&gt; Ідеальний їстівний декор для авторських коктейлів, лимонадів та лате. Виглядає естетично та сучасно.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Для кондитерів:&lt;/strong&gt; Прикраса для тортів, капкейків або як добавка у шоколад ручної роботи.&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Добова норма споживання&lt;/h2&gt;    &lt;p&gt;Оскільки продукт концентрований, дотримуйтесь рекомендацій дієтологів:&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Дітям (від 3 років):&lt;/strong&gt; 10–15 г (замінює повноцінну порцію свіжих фруктів).&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Дорослим:&lt;/strong&gt; 20–30 г на день.&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Чому варто купити сублімований кавун у Vitberry?&lt;/h2&gt;    &lt;p&gt;Ми — український виробник, який контролює якість від вибору стиглої ягоди до герметичного пакування. Інтернет-магазин Vitberry пропонує вигідні умови:&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Роздріб:&lt;/strong&gt; Зручні зіп-пакети для перекусу в офісі чи школі.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Опт:&lt;/strong&gt; Вагові пропозиції для бізнесу, еко-лавок та виробників граноли.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Свіжість:&lt;/strong&gt; Інноваційна сушка гарантує хрусткість до 12 місяців.&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;Замовляйте сублімований кавун з доставкою по Києву та Україні. Скуштуйте новинку, яка змінює уявлення про корисні солодощі!&lt;/p&gt;</description_ua>
