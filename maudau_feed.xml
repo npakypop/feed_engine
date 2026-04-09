@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-08 19:17">
+<yml_catalog date="2026-04-09 02:25">
   <shop>
     <categories>
       <category id="1085">Фрукти Сублімовані</category>
@@ -2724,7 +2724,9 @@
         <price>64</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-48149719428611_+2432eb9960.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-76815476393617_+91798e82c7.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-53344357005279_+1bba6b6e8c.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-44166014582992_+e78f337ef0.jpg</picture>
       </offer>
       <offer id="sf-00016" available="true">
         <name_ua>Інжир сублімований половинки, 30 г</name_ua>
@@ -2734,7 +2736,9 @@
         <price>159</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-48149719428611_+2432eb9960.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-76815476393617_+91798e82c7.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-53344357005279_+1bba6b6e8c.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-44166014582992_+e78f337ef0.jpg</picture>
       </offer>
       <offer id="sf-00017" available="true">
         <name_ua>Інжир сублімований половинки, 100 г</name_ua>
@@ -2744,7 +2748,9 @@
         <price>449</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-48149719428611_+2432eb9960.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-76815476393617_+91798e82c7.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-53344357005279_+1bba6b6e8c.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-44166014582992_+e78f337ef0.jpg</picture>
       </offer>
       <offer id="sf-00018" available="true">
         <name_ua>Інжир сублімований половинки, 500 г</name_ua>
@@ -2754,7 +2760,9 @@
         <price>1990</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-48149719428611_+2432eb9960.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-76815476393617_+91798e82c7.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-53344357005279_+1bba6b6e8c.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/inzhyr-sublimovanyi-polovynky-44166014582992_+e78f337ef0.jpg</picture>
       </offer>
       <offer id="sf-00019" available="true">
         <name_ua>Сублімований ківі, 10 г, З цукром</name_ua>
