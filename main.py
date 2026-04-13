@@ -233,7 +233,6 @@ def generate_maudau_xml(df, output_filename="maudau_feed.xml"):
 
 # --- ГОЛОВНИЙ ЗАПУСК ---
 if __name__ == "__main__":
-    XML_URL = "https://www.vitberry.com.ua/content/export/32a59534f1502626737630acf454425c.xml"
     df_master = get_master_data(XML_URL)
     
     if df_master is not None:
