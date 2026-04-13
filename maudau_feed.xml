@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-13 14:14">
+<yml_catalog date="2026-04-13 19:15">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -4295,7 +4295,7 @@
         <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-92667248591081_+e7e60bdae7.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-27010446445217_+d5a8b1d33b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-60392289604801_+5fbed18936.jpg</picture>
-        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), какао терте, емульгатор: соєвий лецитин, натуральна ваніль), сублімований манго.</param>
+        <param name="Склад">Молочный шоколад (сахар, какао-масло, сухое цельное молоко (22,4%), тертое какао, эмульгатор: соевый лецитин, натуральная ваниль), сублимированный манго.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">Білки-5,3 г; жирів-26,1 г; їх насичені — 15,9 р; вуглеводи-43,1 г, з них цукру -38,8 г, сіль - 0,15 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -4315,7 +4315,7 @@
         <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-68994162627030_+3a3ef5ab44.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32643978255527_+7c1ecaa4c9.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32024281224427_+715721ee09.jpg</picture>
-        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), терте какао, емульгатор: соєвий лецитин, натуральна ваніль), сублімований ківі. Може утримувати горіхи.</param>
+        <param name="Склад">Молочный шоколад (сахар, какао-масло, сухое цельное молоко (22,4%), тертое какао, эмульгатор: соевый лецитин, натуральная ваниль), сублимированный киви. Может содержать орехи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">Білки-5,4 г; жирів-26,1 г; їх насичені — 15,9 р; вуглеводи-43,1 г, їх цукру —38,8 г, сіль — 0,15 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -4410,8 +4410,8 @@
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-60924506934390_+20901ccbcb.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-85103634888800_+c78c8a2102.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-74248406559808_+b05089e7c2.jpg</picture>
-        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука незбиране смажене (49%), поглинаючий агент (гуміарабік, сахароза, глюкозний сироп, рослинна паль</param>
-        <param name="БЖВ">білків-11,1 г; жирів – 51,7 г; їх насичені – 10,8 р; вуглеводів-28,7 г, із них цукру – 22,0 г, сіль – 0,004 г.</param>
+        <param name="Склад">Состав: шоколад черный (какао тертое, сахар, какао-масло, эмульгатор: соевый лецитин, ваниль натуральная), ядро ​​ореха фундука цельное жареное (49%), глазующий агент (гумиарабик, сахароза, глюкозный сироп, растительная пальма) глазующий агент (шеллак, ра</param>
+        <param name="БЖВ">белков-11,1 г; жиров – 51,7 г; из них насыщенные – 10,8 г; углеводов-28,7 г, из них сахара – 22,0 г, соль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2658 кДж 635 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4431,7 +4431,7 @@
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-77496964170980_+8829a4da66.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-41286830537782_+dce9ab5425.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-38867492776965_+603326c5bb.jpg</picture>
-        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), глазующий агент (гуміарабік, сахароза, глюкозний сироп, рослинна пальма)</param>
+        <param name="Склад">Состав: шоколад черный (какао тертое, сахар, какао-масло, эмульгатор: соевый лецитин, ваниль натуральная), ядро ​​ореха миндаля цельное жареное (49%), глазующий агент (гумиарабик, сахароза, глюкозный сироп, растительная пальма) глазующий агент (шеллак, ра</param>
         <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, їх цукру – 22,0 г, сіль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2446 кДж/585 ккал;</param>
@@ -4474,7 +4474,7 @@
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
         <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
-        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, із них цукру – 25,9 г, сіль – 0,10 г.</param>
+        <param name="БЖВ">белков – 12,1 г; жиров – 38,3 г; из них насыщенные – 10,6 г; углеводов – 41,7 г, из них сахара – 25,9 г, соль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -4731,7 +4731,7 @@
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-83790387914497_+78971692d3.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-30149572896763_+e151815faf.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-51936538339880_+4887e7473e.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %)</param>
+        <param name="Склад">шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4 %), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), мороженое сублимированное «Пломбир» (молоко ультрапастеризованное (63,13 %), сахар, сливки (10 %) глюкоза, стабилизирующая</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -4875,7 +4875,7 @@
         <picture>https://vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-70269485964462_+61ad71aca3.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-97709263598935_+4e5257d81e.png</picture>
         <param name="Склад">Ліпаріс сушений, сіль, цукор, глутамат натрію</param>
-        <param name="БЖВ">Білки-57,6г, Жири-5,5г, Вуглеводи-0,0г</param>
+        <param name="БЖВ">Белки-57,6г, Жиры-5,5г, Углеводы-0,0г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-287,0/1200кДж</param>
         <param name="Країна виробник">Україна</param>
@@ -4894,7 +4894,7 @@
         <picture>https://vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-64176363094093_+c07cd270eb.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-74783975660042_+c1f1b3b05f.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-25154380922183_+f8146e741b.png</picture>
-        <param name="Склад">Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль.</param>
+        <param name="Склад">Морские водоросли сушеные 22,3%, арахис 32,2%, васаби, мальтодекстрин, соль.</param>
         <param name="БЖВ">Білки-14,8г, Жири 7,4г, Вуглеводи 67,1г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
@@ -4991,7 +4991,7 @@
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-88885924189299_+f04de41608.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-61518537819363_+be1d30e25f.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-99818768526741_+a8d35d70c7.jpg</picture>
-        <param name="Склад">Молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій гранулянт 94-97%, харчовий барвник натуральний аннато, бактеріальна закваска та культура</param>
+        <param name="Склад">Молоко коровье нормализованное пастеризованное, соль, хлористый калий гранулянт 94-97%, пищевой краситель натуральный аннато, бактериальная закваска и культура</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 28г, білки 23г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5077,7 +5077,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/36/voloskyihorikh-200h-35140365175275_+94c87f6f3b.png</picture>
-        <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
+        <param name="БЖВ">Жиры: 60-65,2 г Белки: 15–16,2 г Углеводы: 7-13,7 г Клетчатка: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
@@ -5159,7 +5159,7 @@
         <picture>https://vitberry.com.ua/content/images/40/35111406469095_+47a43ee567.jpg</picture>
         <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), манго сублімоване. Може містити</param>
         <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">білків – 6,4 g (г); жирів – 26,8 g(г), їх насичені – 14,5 g(г); вуглеводів – 23,1 g(г), їх цукру – 3,2 g(г); сіль - 0,02 g (г).</param>
+        <param name="БЖВ">белков – 6,4 g (г); жиров – 26,8 g(г), из них насыщены – 14,5 g(г); углеводов – 23,1 g(г), из них сахара – 3,2 g(г); соль – 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1638 kJ(кДж)/392 kcal(ккал);</param>
         <param name="Термін зберігання, міс.">6</param>
@@ -5202,7 +5202,7 @@
         <picture>https://vitberry.com.ua/content/images/42/nabir-sublimovanoho-morozyva-v-shokoladi-6-smakiv-24267426148640_+e289dd70ea.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/42/nabir-sublimovanoho-morozyva-v-shokoladi-6-smakiv-69283993720782_+2a2eee502d.jpg</picture>
         <param name="Тип">Набір</param>
-        <param name="БЖВ">Білок: 4,20 г / Жири: 14,04 г / Вуглеводи: 27,00 г</param>
+        <param name="БЖВ">Белок: 4,20 г / Жиры: 14,04 г / Углеводы : 27,00 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">250,8 ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
