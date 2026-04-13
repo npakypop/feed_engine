@@ -5,8 +5,66 @@ from datetime import datetime
 import re
 import os
 import html
+import translators as ts
+
+PARAM_MAP = {
+    "Вес": "Вага",
+    "Вес, г": "Вага",
+    "Вес пакетиков": "Вага",
+    "Тип": "Тип",
+    "Упаковка": "Упаковка",
+    "Склад": "Склад",
+    "Особенности": "Особливості",
+    "Страна производитель": "Країна виробник",
+    "БЖУ": "БЖВ", 
+    "Вид шоколаду": "Вид шоколаду",
+    "Вкус": "Смак",
+    "Наявність цукру": "Наявність цукру",
+    "Содержание сахара": "Вміст цукру",
+    "Срок хранения, м": "Термін зберігання, міс.",
+    "Условия хранения": "Умови зберігання",
+    "Форма": "Форма",
+    "Энергетическая ценность, 100 г": "Енергетична цінність, 100 г"
+}
+
+# Словарь соответствия категорий: "мой id": "id maudau"
+CATEGORY_MAP = {
+    "1100": "567", #М'ясні снеки
+    "1157": "561", #Рибні снкеки
+    "1087": "1776", #Порошки Сублімовані
+    "1085": "1776", #Фрукти Сублімовані
+    "1088": "1776", #Морозиво Сублімоване
+    "1086": "1776", #Дег наборі
+    "1098": "1776", #Фрукти в Шоколаді
+    "1101": "2124", #Сирні снеки
+    "1115": "528", #Джеми
+    "1116": "1215", #Соуси
+    "1118": "1236", #Батончики
+    "1137": "559", #Горіхи в шоколаді
+    "1152": "559", #Горіхи
+    "1182": "1776", #Овочі Сублімовані
+}
 
 XML_URL = os.getenv("MASTER_FEED_URL")
+
+translation_cache = {} #cache для збереження вже перекладених текстів, щоб не звертатися до API повторно.
+def translate_text(text):
+    if not text or str(text).strip() == "" or str(text).isdigit():
+        return text
+    
+    if text in translation_cache:
+        return translation_cache[text]
+    
+    try:
+        # Використовуємо Google через сервер 'google'
+        # Або можна замінити на 'bing' чи 'alibaba'
+        translated = ts.translate_text(text, from_language='ru', to_language='uk', translator='google')
+        translation_cache[text] = translated
+        return translated
+    except Exception as e:
+        print(f"⚠️ Помилка: {e}")
+        return text
+
 
 # --- КРОК 1: Функція парсингу ---
 def get_master_data(xml_source, is_url=True):
@@ -92,6 +150,8 @@ def generate_maudau_xml(df, output_filename="maudau_feed.xml"):
     root = etree.Element("yml_catalog", date=datetime.now().strftime("%Y-%m-%d %H:%M"))
     shop = etree.SubElement(root, "shop")
 
+
+    # --- КАТЕГОРІЇ ---
     categories_node = etree.SubElement(shop, "categories")
     unique_cats = df[['categoryId', 'category_name']].drop_duplicates()
     
@@ -99,12 +159,12 @@ def generate_maudau_xml(df, output_filename="maudau_feed.xml"):
         cat_id = str(row['categoryId'])
         cat_elem = etree.SubElement(categories_node, "category", id=cat_id)
         
-        if 'maudau_portal_id' in df.columns:
-            p_id = row.get('maudau_portal_id')
-            if pd.notna(p_id) and str(p_id).strip() != "":
-                cat_elem.set("portal_id", str(int(float(p_id)))) 
+        # ПРЯМЕ ПРИСВОЄННЯ З ТВОГО СЛОВНИКА
+        if cat_id in CATEGORY_MAP:
+            cat_elem.set("portal_id", CATEGORY_MAP[cat_id])
         
         cat_elem.text = final_clean_text(row['category_name'])
+
 
     offers_node = etree.SubElement(shop, "offers")
 
@@ -146,6 +206,26 @@ def generate_maudau_xml(df, output_filename="maudau_feed.xml"):
                 if url.startswith("http"): 
                     etree.SubElement(offer, "picture").text = url
 
+        # Усередині циклу генерації офферів (offers)
+        param_cols = [c for c in df.columns if c.startswith('param_')]
+
+        for col in param_cols:
+            val = row[col]
+            if pd.notna(val) and str(val).strip() != "":
+                # 1. Отримуємо чисту назву з колонки (напр. "Вес")
+                p_name_ru = col.replace('param_', '')
+                
+                # 2. ПЕРЕКЛАД НАЗВИ: Шукаємо в нашому словнику PARAM_MAP
+                # Якщо знайдено — беремо переклад, якщо ні — пускаємо через авто-перекладач
+                p_name_ua = PARAM_MAP.get(p_name_ru, translate_text(p_name_ru))
+                
+                # 3. ПЕРЕКЛАД ЗНАЧЕННЯ: Пускаємо через функцію перекладу (з кешем)
+                p_value_ua = translate_text(str(val).strip())
+                
+                # 4. Створюємо елемент у фіді
+                param_elem = etree.SubElement(offer, "param", name=p_name_ua)
+                param_elem.text = p_value_ua
+
     tree = etree.ElementTree(root)
     tree.write(output_filename, encoding="UTF-8", xml_declaration=True, pretty_print=True)
     print(f"✅ Готово! Файл {output_filename} створено. Використано VendorCode як ID.")
@@ -156,5 +236,5 @@ if __name__ == "__main__":
     df_master = get_master_data(XML_URL)
     
     if df_master is not None:
-        df_master['maudau_portal_id'] = "562" 
+        # df_master['maudau_portal_id'] = "562" 
         generate_maudau_xml(df_master)

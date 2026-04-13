@@ -2,3 +2,4 @@ pandas
 lxml
 requests
 openpyxl
+translators
