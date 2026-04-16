@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-15 19:19">
+<yml_catalog date="2026-04-16 02:42">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -2055,7 +2055,7 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
-      <offer id="1005" available="false">
+      <offer id="1005" available="true">
         <name_ua>Сублімований ананас в молочному шоколаді, 50г</name_ua>
         <name_ru>Сублимированный ананас в молочном шоколаде, 50г</name_ru>
         <description_ua>&lt;p&gt;Побалуйте себе екзотичним смаком сублімованого ананаса в молочному шоколаді. Соковиті скибочки ананаса проходять процес сублімації, який зберігає їхню натуральну солодкість і свіжий аромат. Покриті шаром молочного шоколаду, вони стають ще більш вишуканими. Цей продукт - ідеальний вибір для тих, хто шукає незвичайні та корисні солодощі.&lt;/p&gt;</description_ua>
@@ -4493,7 +4493,7 @@
         <param name="Упаковка">Пластикова баночка</param>
         <param name="Вага">100 г</param>
       </offer>
-      <offer id="SW-00017" available="true">
+      <offer id="SW-00017" available="false">
         <name_ua>Кеш'ю в молочному шоколаді, 100 г</name_ua>
         <name_ru>Кешью в молочном шоколаде, 100 г</name_ru>
         <description_ua>&lt;div&gt; &lt;h2&gt;Кеш'ю в молочному шоколаді — ніжність, від якої неможливо відірватися&lt;/h2&gt; &lt;p&gt;Пориньте у світ кремової насолоди з нашим кеш'ю в молочному шоколаді. М'який, ледь солодкуватий смак добірного горіха кеш'ю ідеально поєднується з оксамитовою текстурою ніжного молочного шоколаду (34% какао). Це не просто драже, а справжній десерт, що дарує відчуття затишку та тепла. Кожен шматочок просто тане в роті, залишаючи приємний вершково-горіховий післясмак.&lt;/p&gt; &lt;h2&gt;Чому ви закохаєтесь у наш кеш'ю в шоколаді?&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Ніжний смак кеш'ю:&lt;/strong&gt; Ми використовуємо цільні смажені горіхи кеш'ю (49%), які мають унікальну м'яку текстуру та делікатний солодкуватий присмак.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Кремовий молочний шоколад:&lt;/strong&gt; Якісна шоколадна глазур (34% какао) огортає кожен горішок, створюючи ідеальну смакову композицію.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ідеально для всієї родини:&lt;/strong&gt; Завдяки своєму м'якому смаку, цей смаколик подобається як дорослим, так і найменшим ласунам.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Зроблено в Україні:&lt;/strong&gt; Свіжий та якісний продукт від українського виробника, виготовлений з дотриманням найвищих стандартів.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Детальні характеристики:&lt;/h2&gt; &lt;p&gt;Вся інформація, яка допоможе вам зробити вибір:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Склад:&lt;/strong&gt; шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро горіха кеш'ю цільне смажене (49%), глазуруючі агенти.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Енергетична цінність на 100 г:&lt;/strong&gt; 2293 кДж / 548 ккал.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Поживна цінність на 100 г:&lt;/strong&gt; білки - 12,1 г; жири - 38,3 г (з них насичені – 10,6 г); вуглеводи - 41,7 г (з них цукри – 25,9 г); сіль – 0,10 г.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Термін зберігання:&lt;/strong&gt; 7 місяців у сухому прохолодному місці.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Країна виробник:&lt;/strong&gt; Україна.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Вага:&lt;/strong&gt; 100 г.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Додайте ніжності у свій день! Замовляйте кеш'ю в молочному шоколаді та насолоджуйтесь кожним шматочком.&lt;/p&gt; &lt;h3&gt;Часті питання:&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Чому кеш'ю в шоколаді здається м'якшим за інші горіхи?&lt;/strong&gt;&lt;br /&gt; Горіх кеш'ю від природи має більш м'яку та маслянисту структуру порівняно з фундуком чи мигдалем . У поєднанні з ніжним молочним шоколадом це створює унікальну, майже кремову текстуру, що тане в роті.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Чи сильно виражений смак самого горіха?&lt;/strong&gt;&lt;br /&gt; Кеш'ю має делікатний, ледь солодкуватий вершковий смак, який не перебиває, а гармонійно доповнює смак молочного шоколаду. Разом вони створюють дуже ніжне поєднання.&lt;/p&gt; &lt;/div&gt;</description_ua>
@@ -4506,7 +4506,7 @@
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
         <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
-        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
+        <param name="БЖВ">белков – 12,1 г; жиров – 38,3 г; из них насыщенные – 10,6 г; углеводов – 41,7 г, из них сахара – 25,9 г, соль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -4526,7 +4526,7 @@
         <picture>https://www.vitberry.com.ua/content/images/7/drazhe-funduk-v-bilomu-shokoladi-100h-tm-vitberry-62276210047443_+795dc597ff.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/drazhe-funduk-v-bilomu-shokoladi-100h-tm-vitberry-52502186782336_+dab9b59f2b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/drazhe-funduk-v-bilomu-shokoladi-100h-tm-vitberry-49025279516040_+47e3ccf408.jpg</picture>
-        <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука незбиране смажене (49%), глазуруючий агент (гуміараб)</param>
+        <param name="Склад">Состав: шоколад белый (сахар, какао-масло, молоко сухое цельное (22,4%), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), ядро ​​ореха фундука цельное жареное (49%), глазурирующий агент (гумиарабик, сахароза, сахароза) лимонная кислота, сорб</param>
         <param name="БЖВ">білків-11,7г; жирів – 51,7 г; їх насичені – 10,7 р; вуглеводів-31,8 г, із них цукру – 26,1 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2690 кДж/643 ккал;</param>
@@ -4548,7 +4548,7 @@
         <picture>https://www.vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-74839575898744_+fba3d417d8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-53485601525033_+d4c4086818.jpg</picture>
         <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), сахароза, цуміноза</param>
-        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
+        <param name="БЖВ">белков – 12,1 г; жиров – 38,3 г; из них насыщенные – 10,6 г; углеводов – 41,7 г, из них сахара – 25,9 г, соль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -4845,7 +4845,7 @@
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-50318368949181_+7e46ac0f66.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-57130884160959_+060f045008.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-96147814590158_+751842487c.png</picture>
-        <param name="Склад">Склад: Кальмар сушений, сіль, цукор, глутамат натрію.</param>
+        <param name="Склад">Состав: Кальмар сушеный, соль, сахар, глутамат натрия.</param>
         <param name="БЖВ">Білки-70,0г, Жири-1,0г, Вуглеводи-3,0г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-301,0/1259кДж.</param>
@@ -4866,7 +4866,7 @@
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-95487085073283_+ff60e48496.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-43206378043102_+2a3f6a2a05.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-52428799132965_+39a5f36534.png</picture>
-        <param name="Склад">Склад: жовтий смугастик, сіль, цукор, глутамат натрію.</param>
+        <param name="Склад">Состав: желтый смугастик, соль, сахар, глутамат натрия.</param>
         <param name="БЖВ">Білки-54,4, Жири-13,2 г, Вуглеводи-0,0 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-247,0/1033кДж.</param>
@@ -4907,14 +4907,14 @@
         <picture>https://www.vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-70269485964462_+61ad71aca3.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-97709263598935_+4e5257d81e.png</picture>
         <param name="Склад">Ліпаріс сушений, сіль, цукор, глутамат натрію</param>
-        <param name="БЖВ">Білки-57,6г, Жири-5,5г, Вуглеводи-0,0г</param>
+        <param name="БЖВ">Белки-57,6г, Жиры-5,5г, Углеводы-0,0г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-287,0/1200кДж</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">200г</param>
       </offer>
-      <offer id="fs-00017" available="true">
+      <offer id="fs-00017" available="false">
         <name_ua>Норі, Васабі</name_ua>
         <name_ru>Нори, Васаби</name_ru>
         <description_ua>&lt;h2&gt;Чіпси з Норі Grillz з арахісом та васабі: екзотичний хрускіт&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція для тих, хто шукає нові смаки. Наші чіпси з норі поєднують у собі легкість морських водоростей, поживність арахісу та пікантну гостроту васабі. Це ідеальна закуска для любителів азіатської кухні, яка чудово доповнить бокал пінного або стане оригінальним перекусом протягом дня.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;398 ккал / 1667 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;14,8 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;7,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;67,1 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
@@ -5001,7 +5001,7 @@
         <picture>https://www.vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-51686059495996_+f42c480e7a.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-42255656938413_+865e5fcfad.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-34780851506910_+00884f4c8e.jpg</picture>
-        <param name="Склад">Молоко коров'яче незбиране, чорнило каракатиці (0,1%), сіль харчова, закваска стартових культур, фермент сичужний.</param>
+        <param name="Склад">Молоко коровье цельное, чернила каракатицы (0,1%), соль пищевая, закваска стартовых культур, фермент сычужный.</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5025,7 +5025,7 @@
         <picture>https://www.vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-99818768526741_+a8d35d70c7.jpg</picture>
         <param name="Склад">Молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій гранулянт 94-97%, харчовий барвник натуральний аннато, бактеріальна закваска та культура</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 28г, білки 23г, вуглеводи 1,5г</param>
+        <param name="БЖВ">Жиры 28г, белки 23г, углеводы 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -5109,7 +5109,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-35140365175275_+94c87f6f3b.png</picture>
-        <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
+        <param name="БЖВ">Жиры: 60-65,2 г Белки: 15–16,2 г Углеводы: 7-13,7 г Клетчатка: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
@@ -5193,7 +5193,7 @@
         <picture>https://www.vitberry.com.ua/content/images/40/16530776474250_+71336ed4c2.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/40/17001870696058_+e237ba6edb.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/40/35111406469095_+47a43ee567.jpg</picture>
-        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), манго сублімоване. Може містити</param>
+        <param name="Склад">шоколад молочный (пищевые волокна (олигофруктоза), какао-масло, молоко сухое цельное, молоко сухое обезжиренное, какао тертое, эмульгатор подсолнечный лецитин, ароматизатор «Ваниль», подсластитель гликозиды стевиола), манго сублимированное. Может содержат</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків – 6,4 g (г); жирів – 26,8 g(г), їх насичені – 14,5 g(г); вуглеводів – 23,1 g(г), їх цукру – 3,2 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -5878,6 +5878,18 @@
         <param name="БЖВ">320 ккал; Білки: 14.5 г; Жири: 2.1 г; Вуглеводи: 58.4 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Термін зберігання, міс.">24</param>
+      </offer>
+      <offer id="mx-00019" available="true">
+        <name_ua>Мікс горіхів, 125г</name_ua>
+        <name_ru>Микс орехов, 125г</name_ru>
+        <description_ua>&lt;p&gt;  &lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;  &lt;/style&gt;  Мікс горіхів: волоський горіх 25г, кеш'ю смажений 25г, кеш'ю сирий 25г, фундук бланшований 25г, мигдаль смажений 25г&lt;/p&gt;</description_ua>
+        <description_ru>&lt;p&gt;  &lt;style type="text/css"&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;  &lt;/style&gt;  Микс орехов: грецкий орех 25г, кешью жареный 25г, кешью сырой 25г, фундук бланшированный 25г, миндаль жареный 25г&lt;/p&gt;</description_ru>
+        <price>129</price>
+        <categoryId>1086</categoryId>
+        <vendor>Vitberry</vendor>
+        <param name="Тип">Набір</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Термін зберігання, міс.">1 год</param>
       </offer>
     </offers>
   </shop>
