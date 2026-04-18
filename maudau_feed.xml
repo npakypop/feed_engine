@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-18 07:09">
+<yml_catalog date="2026-04-18 13:04">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -4932,7 +4932,7 @@
         <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">12</param>
-        <param name="Смак">Васаби</param>
+        <param name="Смак">Васабі</param>
       </offer>
       <offer id="fs-00021" available="true">
         <name_ua>Норі, Кунжут</name_ua>
@@ -5109,7 +5109,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-35140365175275_+94c87f6f3b.png</picture>
-        <param name="БЖВ">Жиры: 60-65,2 г Белки: 15–16,2 г Углеводы: 7-13,7 г Клетчатка: ~6,7 г</param>
+        <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
@@ -5125,7 +5125,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/37/nasinnia-chia-350h-47025153736543_+b878b062a3.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/37/nasinnia-chia-350h-36652579855667_+045a67916e.png</picture>
-        <param name="БЖВ">Белки: 16,5 – 23,1 г Жиры: 30,7 – 31,9 г</param>
+        <param name="БЖВ">Білки: 16,5 – 23,1 г Жири: 30,7 – 31,9 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">Калорійність: 379 – 512 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
@@ -5195,7 +5195,7 @@
         <picture>https://www.vitberry.com.ua/content/images/40/35111406469095_+47a43ee567.jpg</picture>
         <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), манго сублімоване. Може містити</param>
         <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">белков – 6,4 g (г); жиров – 26,8 g(г), из них насыщены – 14,5 g(г); углеводов – 23,1 g(г), из них сахара – 3,2 g(г); соль – 0,02 g (г).</param>
+        <param name="БЖВ">білків – 6,4 g (г); жирів – 26,8 g(г), їх насичені – 14,5 g(г); вуглеводів – 23,1 g(г), їх цукру – 3,2 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1638 kJ(кДж)/392 kcal(ккал);</param>
         <param name="Країна виробник">Україна</param>
