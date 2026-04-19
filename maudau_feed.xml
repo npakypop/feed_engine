@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-19 13:03">
+<yml_catalog date="2026-04-19 18:53">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -5023,7 +5023,7 @@
         <picture>https://www.vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-88885924189299_+f04de41608.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-61518537819363_+be1d30e25f.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-99818768526741_+a8d35d70c7.jpg</picture>
-        <param name="Склад">Молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій гранулянт 94-97%, харчовий барвник натуральний аннато, бактеріальна закваска та культура</param>
+        <param name="Склад">Молоко коровье нормализованное пастеризованное, соль, хлористый калий гранулянт 94-97%, пищевой краситель натуральный аннато, бактериальная закваска и культура</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 28г, білки 23г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5147,7 +5147,7 @@
         <picture>https://www.vitberry.com.ua/content/images/38/90096199988680_+fd8c0159b2.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/38/62930806457271_+0f048bd88b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/38/30067262694502_+5d1c8e84e0.jpg</picture>
-        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), малина сублімована. Може утримувати</param>
+        <param name="Склад">шоколад молочный (пищевые волокна (олигофруктоза), какао-масло, молоко сухое цельное, молоко сухое обезжиренное, какао тертое, эмульгатор подсолнечный лецитин, ароматизатор «Ваниль», подсластитель гликозиды стевиола), малина сублимированная. Может содержа</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків – 7,4 g (г); жирів – 27,3 g(г), їх насичені – 14,5 g(г); вуглеводів – 40,3 g(г), їх цукру – 16,4 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
