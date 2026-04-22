@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-04-22 08:07">
+<yml_catalog date="2026-04-22 13:29">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -4785,7 +4785,7 @@
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-43206378043102_+2a3f6a2a05.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-52428799132965_+39a5f36534.png</picture>
         <param name="Склад">Склад: жовтий смугастик, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Белки-54,4, Жиры-13,2 г, Углеводы-0,0 г.</param>
+        <param name="БЖВ">Білки-54,4, Жири-13,2 г, Вуглеводи-0,0 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-247,0/1033кДж.</param>
         <param name="Країна виробник">Україна</param>
@@ -4804,7 +4804,7 @@
         <picture>https://www.vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-69265952235551_+ab3d327604.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-94243966694773_+324769930d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-87013175859414_+f26b6be6af.png</picture>
-        <param name="Склад">Минтай, соль, сахар, глутамат натрия.</param>
+        <param name="Склад">Мінтай, сіль, цукор, глутамат натрію.</param>
         <param name="БЖВ">Білки-54,0г, Жири-1,4г, Вуглеводи-0,0г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-229,0/958кДж.</param>
@@ -4845,7 +4845,7 @@
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-74783975660042_+c1f1b3b05f.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-25154380922183_+f8146e741b.png</picture>
         <param name="Склад">Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль.</param>
-        <param name="БЖВ">Белки-14,8г, Жиры 7,4г, Углеводы 67,1г</param>
+        <param name="БЖВ">Білки-14,8г, Жири 7,4г, Вуглеводи 67,1г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
         <param name="Країна виробник">Україна</param>
@@ -4985,7 +4985,7 @@
         <picture>https://www.vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-87064701029278_+3059ba15f5.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-24954441200708_+2987feae83.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-43425763616063_+ca6de11584.jpg</picture>
-        <param name="Склад">Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий, гранулянт 94-97% пищевой, краситель натуральный аннато, бактериальная закваска и культура, молокоосаждающий фермент)</param>
+        <param name="Склад">Сир (молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій, гранулянт 94-97% харчовий, барвник натуральний аннато, бактеріальна закваска та культура, молокоосаджувальний фермент)</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 50г, білки 58г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5045,7 +5045,7 @@
         <picture>https://www.vitberry.com.ua/content/images/37/nasinnia-chia-350h-36652579855667_+045a67916e.png</picture>
         <param name="БЖВ">Білки: 16,5 – 23,1 г Жири: 30,7 – 31,9 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорийность: 379 – 512 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорійність: 379 – 512 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">350</param>
       </offer>
@@ -5067,7 +5067,7 @@
         <picture>https://www.vitberry.com.ua/content/images/38/30067262694502_+5d1c8e84e0.jpg</picture>
         <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), малина сублімована. Може утримувати</param>
         <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">белков – 7,4 g (г); жиров – 27,3 g(г), из них насыщены – 14,5 g(г); углеводов – 40,3 g(г), из них сахара – 16,4 g(г); соль – 0,02 g (г).</param>
+        <param name="БЖВ">білків – 7,4 g (г); жирів – 27,3 g(г), їх насичені – 14,5 g(г); вуглеводів – 40,3 g(г), їх цукру – 16,4 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1967 kJ(кДж)/470 kcal(ккал);</param>
         <param name="Країна виробник">Україна</param>
@@ -5111,9 +5111,9 @@
         <picture>https://www.vitberry.com.ua/content/images/40/16530776474250_+71336ed4c2.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/40/17001870696058_+e237ba6edb.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/40/35111406469095_+47a43ee567.jpg</picture>
-        <param name="Склад">шоколад молочный (пищевые волокна (олигофруктоза), какао-масло, молоко сухое цельное, молоко сухое обезжиренное, какао тертое, эмульгатор подсолнечный лецитин, ароматизатор «Ваниль», подсластитель гликозиды стевиола), манго сублимированное. Может содержат</param>
+        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), манго сублімоване. Може містити</param>
         <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">белков – 6,4 g (г); жиров – 26,8 g(г), из них насыщены – 14,5 g(г); углеводов – 23,1 g(г), из них сахара – 3,2 g(г); соль – 0,02 g (г).</param>
+        <param name="БЖВ">білків – 6,4 g (г); жирів – 26,8 g(г), їх насичені – 14,5 g(г); вуглеводів – 23,1 g(г), їх цукру – 3,2 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1638 kJ(кДж)/392 kcal(ккал);</param>
         <param name="Країна виробник">Україна</param>
