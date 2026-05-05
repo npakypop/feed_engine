@@ -46,6 +46,8 @@ CATEGORY_MAP = {
 }
 
 XML_URL = os.getenv("MASTER_FEED_URL")
+PRICE_MULTIPLIER = 1.11 # Коефіцієнт для коригування цін
+
 
 translation_cache = {} #cache для збереження вже перекладених текстів, щоб не звертатися до API повторно.
 def translate_text(text):
@@ -56,8 +58,7 @@ def translate_text(text):
         return translation_cache[text]
     
     try:
-        # Використовуємо Google через сервер 'google'
-        # Або можна замінити на 'bing' чи 'alibaba'
+        # Використовуємо Google через сервер 'google', який не вимагає ключа API, але має обмеження на кількість запитів. Кеш допомагає зменшити кількість запитів.
         translated = ts.translate_text(text, from_language='ru', to_language='uk', translator='google')
         translation_cache[text] = translated
         return translated
@@ -119,7 +120,7 @@ def get_master_data(xml_source, is_url=True):
 
         df = pd.DataFrame(offers_data)
         df['price'] = pd.to_numeric(df['price'], errors='coerce')
-        
+        df['price'] = (df['price'] * PRICE_MULTIPLIER).round(1) # Коригування цін за потреби
         return df 
 
     except Exception as e:
@@ -159,7 +160,7 @@ def generate_maudau_xml(df, output_filename="maudau_feed.xml"):
         cat_id = str(row['categoryId'])
         cat_elem = etree.SubElement(categories_node, "category", id=cat_id)
         
-        # ПРЯМЕ ПРИСВОЄННЯ З ТВОГО СЛОВНИКА
+        # ПРЯМЕ ПРИСВОЄННЯ З СЛОВНИКА
         if cat_id in CATEGORY_MAP:
             cat_elem.set("portal_id", CATEGORY_MAP[cat_id])
         
@@ -169,7 +170,7 @@ def generate_maudau_xml(df, output_filename="maudau_feed.xml"):
     offers_node = etree.SubElement(shop, "offers")
 
     for _, row in df.iterrows():
-        # --- ЗМІНА ТУТ: Беремо vendorCode замість системного id ---
+        # Беремо vendorCode замість системного id 
         # 1. Отримуємо артикул. Якщо він порожній, залишаємо старий id (як запасний план)
         offer_id = str(row.get('vendorCode', '')).strip()
         if not offer_id:
