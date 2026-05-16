@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-16 13:23">
+<yml_catalog date="2026-05-16 19:05">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -2238,7 +2238,7 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
-        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка Закарпатською" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
+        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка по Закарпатськи" 45г, курка "Соломка Гриль" 45г, курка "Соломка па2 сир Original 30г</param>
       </offer>
       <offer id="2015" available="false">
         <name_ua>Джерки з яловичини "Ultimate" 250 г</name_ua>
@@ -4750,7 +4750,7 @@
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-57130884160959_+060f045008.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-96147814590158_+751842487c.png</picture>
         <param name="Склад">Склад: Кальмар сушений, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Білки-70,0г, Жири-1,0г, Вуглеводи-3,0г</param>
+        <param name="БЖВ">Белки-70,0г, Жиры-1,0г, Углеводы-3,0г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-301,0/1259кДж.</param>
         <param name="Країна виробник">Україна</param>
@@ -4885,7 +4885,7 @@
         <picture>https://www.vitberry.com.ua/content/images/18/syr-hauda-green-pesto-100h-40858771589172_+9816de9ec2.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, базилік (0,2%), пажитник (0,5%), сіль харчова, закваска, фермент сичужний, часник (0,1%), хлорофіл Е141.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
+        <param name="БЖВ">Жиры 33,5 г, белки 18,9 г, углеводы 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4993,7 +4993,7 @@
         <picture>https://www.vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-32343874937279_+a534435261.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-34519712567300_+231fa4e8ac.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-51421055964154_+757c51c35c.jpg</picture>
-        <param name="Склад">Молоко коров'яче незбиране, квіти лаванди (0,5%), сіль харчова, закваска, фермент сичужний, антоціанін Е163</param>
+        <param name="Склад">Молоко коровье цельное, цветы лаванды (0,5%), соль пищевая, закваска, фермент сычужный, антоцианин Е163</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5015,7 +5015,7 @@
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
         <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорийность: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">200</param>
       </offer>
@@ -5506,7 +5506,7 @@
         <picture>https://www.vitberry.com.ua/content/images/15/sublimovane-morozyvo-8-smakiv2214-94889847505161_+622775b069.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/15/sublimovane-morozyvo-8-smakiv2214-37676296193199_+995b793919.jpg</picture>
         <param name="Тип">Набір</param>
-        <param name="БЖВ">320 ккал; Білки: 14.5 г; Жири: 2.1 г; Вуглеводи: 58.4 г</param>
+        <param name="БЖВ">320 ккал; Белки: 14.5 г; Жиры: 2.1 г; Углеводы: 58.4 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Термін зберігання, міс.">24</param>
         <param name="Розмір набору">Середній</param>
@@ -5810,11 +5810,11 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-69055644726888_+df15b51f59.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
-        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- та дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
+        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- і дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 12 гЖири: 36 гВуглеводи: 60 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">2640,0 кДж/630 ккал</param>
+        <param name="Енергетична цінність, 100 г">2640,0 кДж/ 630 ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">24</param>
@@ -5830,7 +5830,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-69055644726888_+df15b51f59.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
-        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- та дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
+        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- і дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 12 гЖири: 36 гВуглеводи: 60 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
