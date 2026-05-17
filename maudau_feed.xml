@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-17 08:22">
+<yml_catalog date="2026-05-17 13:21">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -4451,8 +4451,8 @@
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-60789240602408_+5d7fb26911.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
-        <param name="Склад">Состав: шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4%), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), ядро ​​ореха кешью цельное жареное (49%), глазурирующий агент (гумиарабик, сахароза, сахароза лимонная кислота, сорб</param>
-        <param name="БЖВ">белков – 12,1 г; жиров – 38,3 г; из них насыщенные – 10,6 г; углеводов – 41,7 г, из них сахара – 25,9 г, соль – 0,10 г.</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
+        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -4667,7 +4667,7 @@
         <picture>https://www.vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-83790387914497_+78971692d3.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-30149572896763_+e151815faf.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-51936538339880_+4887e7473e.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %)</param>
+        <param name="Склад">шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4 %), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), мороженое сублимированное «Пломбир» (молоко ультрапастеризованное (63,13 %), сахар, сливки (10 %) глюкоза, стабилизирующая</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -4749,7 +4749,7 @@
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-50318368949181_+7e46ac0f66.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-57130884160959_+060f045008.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-96147814590158_+751842487c.png</picture>
-        <param name="Склад">Склад: Кальмар сушений, сіль, цукор, глутамат натрію.</param>
+        <param name="Склад">Состав: Кальмар сушеный, соль, сахар, глутамат натрия.</param>
         <param name="БЖВ">Білки-70,0г, Жири-1,0г, Вуглеводи-3,0г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-301,0/1259кДж.</param>
@@ -4770,7 +4770,7 @@
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-95487085073283_+ff60e48496.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-43206378043102_+2a3f6a2a05.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-52428799132965_+39a5f36534.png</picture>
-        <param name="Склад">Состав: желтый смугастик, соль, сахар, глутамат натрия.</param>
+        <param name="Склад">Склад: жовтий смугастик, сіль, цукор, глутамат натрію.</param>
         <param name="БЖВ">Білки-54,4, Жири-13,2 г, Вуглеводи-0,0 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-247,0/1033кДж.</param>
@@ -4830,13 +4830,13 @@
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-64176363094093_+c07cd270eb.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-74783975660042_+c1f1b3b05f.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-25154380922183_+f8146e741b.png</picture>
-        <param name="Склад">Морские водоросли сушеные 22,3%, арахис 32,2%, васаби, мальтодекстрин, соль.</param>
+        <param name="Склад">Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль.</param>
         <param name="БЖВ">Білки-14,8г, Жири 7,4г, Вуглеводи 67,1г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">12</param>
-        <param name="Смак">Васабі</param>
+        <param name="Смак">Васаби</param>
       </offer>
       <offer id="fs-00021" available="true">
         <name_ua>Норі, Кунжут</name_ua>
@@ -4851,7 +4851,7 @@
         <picture>https://www.vitberry.com.ua/content/images/45/nori-z-kunzhutom-83229150015425_+844226f916.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/45/nori-z-kunzhutom-26715377079203_+89770e4f7e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/45/nori-z-kunzhutom-51167924182885_+1e4309aa67.png</picture>
-        <param name="Склад">Морские водоросли сушеные 22,3%, арахис 32,2%, васаби, мальтодекстрин, соль.</param>
+        <param name="Склад">Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль.</param>
         <param name="БЖВ">Білки-14,8г, Жири 7,4г, Вуглеводи 67,1г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
@@ -4885,7 +4885,7 @@
         <picture>https://www.vitberry.com.ua/content/images/18/syr-hauda-green-pesto-100h-40858771589172_+9816de9ec2.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, базилік (0,2%), пажитник (0,5%), сіль харчова, закваска, фермент сичужний, часник (0,1%), хлорофіл Е141.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
+        <param name="БЖВ">Жиры 33,5 г, белки 18,9 г, углеводы 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4907,7 +4907,7 @@
         <picture>https://www.vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-34780851506910_+00884f4c8e.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, чорнило каракатиці (0,1%), сіль харчова, закваска стартових культур, фермент сичужний.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
+        <param name="БЖВ">Жиры 33,5 г, белки 18,9 г, углеводы 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4973,7 +4973,7 @@
         <picture>https://www.vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-43425763616063_+ca6de11584.jpg</picture>
         <param name="Склад">Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий, гранулянт 94-97% пищевой, краситель натуральный аннато, бактериальная закваска и культура, молокоосаждающий фермент)</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 50г, білки 58г</param>
+        <param name="БЖВ">Жиры 50г, белки 58г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">3001 кДж, 676 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4993,9 +4993,9 @@
         <picture>https://www.vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-32343874937279_+a534435261.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-34519712567300_+231fa4e8ac.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-51421055964154_+757c51c35c.jpg</picture>
-        <param name="Склад">Молоко коров'яче незбиране, квіти лаванди (0,5%), сіль харчова, закваска, фермент сичужний, антоціанін Е163</param>
+        <param name="Склад">Молоко коровье цельное, цветы лаванды (0,5%), соль пищевая, закваска, фермент сычужный, антоцианин Е163</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">жиры 33,5 г, белки 18,9 г, углеводы 1,5 г</param>
+        <param name="БЖВ">жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1465 кДж, 330 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -5013,7 +5013,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-35140365175275_+94c87f6f3b.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
-        <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
+        <param name="БЖВ">Жиры: 60-65,2 г Белки: 15–16,2 г Углеводы: 7-13,7 г Клетчатка: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">Калорийность: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
@@ -5031,7 +5031,7 @@
         <picture>https://www.vitberry.com.ua/content/images/37/nasinnia-chia-350h-47025153736543_+b878b062a3.jpg</picture>
         <param name="БЖВ">Белки: 16,5 – 23,1 г Жиры: 30,7 – 31,9 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорійність: 379 – 512 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорийность: 379 – 512 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">350</param>
       </offer>
@@ -5076,7 +5076,7 @@
         <picture>https://www.vitberry.com.ua/content/images/39/85417989039139_+3b682d54b1.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/51465279807788_+62a0fc5308.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/12423316131722_+27ba26ad62.jpg</picture>
-        <param name="Склад">шоколад молочный (пищевые волокна (олигофруктоза), какао-масло, молоко сухое цельное, молоко сухое обезжиренное, какао тертое, эмульгатор подсолнечный лецитин, ароматизатор «Ваниль», подсластитель гликозиды стевиола), клубника сублимированная. Может содер</param>
+        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), полуниця сублімована. Може вміст</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків – 7,4 g (г); жирів – 27,3 g(г), їх насичені – 14,5 g(г); вуглеводів – 40,3 g(г), їх цукру – 16,4 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -5488,7 +5488,7 @@
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Особливості">Не тане і готове до вживання</param>
         <param name="Термін зберігання, міс.">24</param>
-        <param name="Розмір набору">Великий</param>
+        <param name="Розмір набору">Большой</param>
       </offer>
       <offer id="mx-00017" available="false">
         <name_ua>Сублімовані овочі - Набір з 6 смаків "Середній"</name_ua>
@@ -5536,7 +5536,7 @@
         <param name="Особливості">Без глютену, vegan friendly, без доданого цукру, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
         <param name="Країна виробник">Україна</param>
         <param name="Форма">Ціла</param>
-        <param name="Наявність цукру">З цукром</param>
+        <param name="Наявність цукру">С сахаром</param>
       </offer>
       <offer id="sf-00012" available="true">
         <name_ua>Сублімована полуниця, Ціла, 30 г, З цукром</name_ua>
@@ -5563,7 +5563,7 @@
         <param name="Особливості">Без глютену, vegan friendly, без доданого цукру, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
         <param name="Країна виробник">Україна</param>
         <param name="Форма">Ціла</param>
-        <param name="Наявність цукру">З цукром</param>
+        <param name="Наявність цукру">С сахаром</param>
       </offer>
       <offer id="sf-00013" available="true">
         <name_ua>Сублімована полуниця, Ціла, 100 г, З цукром</name_ua>
@@ -5810,7 +5810,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-69055644726888_+df15b51f59.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
-        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- і дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
+        <param name="Склад">Молоко обезжиренное, кокосовое масло, сахар белый кристаллический, вода питьевая, молоко сухое обезжиренное, патока крахмальная, стабилизатор (камедь рожкового дерева, моно- и диглицериды жирных кислот, карбоксиметилцеллюлоза, пектин, гуаровая камедь, кар</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 12 гЖири: 36 гВуглеводи: 60 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5850,7 +5850,7 @@
         <vendor>Vitberry</vendor>
         <param name="Склад">Молоко знежирене, цукор, олія кокосова, вода питна, вода питна, крохмаль, декстроза, желатин, ароматизатори-барвники (кармін, куркумін), кислота винна харчова, молоко знежирене сухе, сироп глюкозно-фруктозний, емульгатор моно- та дигліцериди</param>
         <param name="Вага">20 г</param>
-        <param name="БЖВ">Жири 30 гБілки 12,0 гВуглеводи 75 г</param>
+        <param name="БЖВ">Жиры 30 гБелки 12,0 гУглеводы 75 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2538,0 кДж / 606,0 ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
@@ -5868,7 +5868,7 @@
         <vendor>Vitberry</vendor>
         <param name="Склад">Молоко знежирене, цукор, олія кокосова, вода питна, вода питна, крохмаль, декстроза, желатин, ароматизатори-барвники (кармін, куркумін), кислота винна харчова, молоко знежирене сухе, сироп глюкозно-фруктозний, емульгатор моно- та дигліцериди</param>
         <param name="Вага">50 г</param>
-        <param name="БЖВ">Жири 30 гБілки 12,0 гВуглеводи 75 г</param>
+        <param name="БЖВ">Жиры 30 гБелки 12,0 гУглеводы 75 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2538,0 кДж / 606,0 ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
@@ -5884,9 +5884,9 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <param name="Склад">Молоко знежирене, цукор, вода питна, наповнювач "Фісташка" 8% (цукор, вода питна, олія кокосова, паста фісташкова 2%, паста насіння соняшника, модифікований кукурудзяний крохмаль, ароматизатор "Фісташка", барвник бета комплекси хлорофіл</param>
+        <param name="Склад">Молоко обезжиренное, сахар, вода питьевая, наполнитель "Фисташка" 8% (сахар, вода питьевая, , масло кокосовое, паста фисташковая 2%, паста семян подсолнечника, модифицированный кукурузный крахмал, ароматизатор "Фисташка", краситель бета комплексы хлорофил</param>
         <param name="Вага">20 г</param>
-        <param name="БЖВ">Белки: 12 г Жиры: 24 г Углеводы: 75 г Соль: 0,3 г</param>
+        <param name="БЖВ">Білки: 12 г Жири: 24 г Вуглеводи: 75 г Сіль: 0,3 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">555 ккал / 2334 кДж</param>
         <param name="Особливості">Не тане і готове до вживання</param>
@@ -5904,7 +5904,7 @@
         <vendor>Vitberry</vendor>
         <param name="Склад">Молоко знежирене, цукор, вода питна, наповнювач "Фісташка" 8% (цукор, вода питна, олія кокосова, паста фісташкова 2%, паста насіння соняшника, модифікований кукурудзяний крохмаль, ароматизатор "Фісташка", барвник бета комплекси хлорофіл</param>
         <param name="Вага">50 г</param>
-        <param name="БЖВ">Белки: 12 г Жиры: 24 г Углеводы: 75 г Соль: 0,3 г</param>
+        <param name="БЖВ">Білки: 12 г Жири: 24 г Вуглеводи: 75 г Сіль: 0,3 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">555 ккал / 2334 кДж</param>
         <param name="Особливості">Не тане і готове до вживання</param>
