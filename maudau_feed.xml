@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-05-27 20:18">
+<yml_catalog date="2026-05-28 03:39">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -2138,7 +2138,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/25/sublimovane-morozyvo-plombir724-83750278836582_+dc5f73b00d.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/25/sublimovane-morozyvo-plombir724-91869562023341_+c59d7a098f.jpg</picture>
         <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, сухе молоко знежирене, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 8,7-11,6 г / Жири: 34,8 г / Вуглеводи: 58-72,5 г</param>
@@ -2249,7 +2249,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-18289266893138_+85a8e7ce36.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-41859267717618_+1db5bf57ff.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-74117217211637_+8de1ffd391.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-12233258165694_+5ba4b4c014.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-88975068628000_+54bc6276ac.jpg</picture>
@@ -2274,7 +2274,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/5/sublimovane-morozyvo-kivi-polunytsia1504-64142642940030_+1d7333ba9a.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/5/sublimovane-morozyvo-kivi-polunytsia1504-16276106768812_+5136a35eda.jpg</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Полуниця» 20% (ягоди 50%, сік, цукор, стабілізатор, ароматизатор), цукор, кокосове масло, вода, наповнювач «Ківі» 6% (пюре 40%, цукор, сироп, барвники, ароматизатор), сухе молоко, сироватка, стабілізатори.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 5,51 г / Жири: 17,4 г / Вуглеводи: 67,28 г</param>
@@ -2293,7 +2293,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-70048569797339_+44b463ecbf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-77395800436919_+42b7c60916.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-50297457608912_+cff65210af.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-14813277043331_+20d0c1b7e0.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-42967961631331_+e29ef6673f.jpg</picture>
@@ -2318,7 +2318,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/7/sublimovane-morozyvo-ananas1506-38369048732241_+11755749fb.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/7/sublimovane-morozyvo-ananas1506-32731283403947_+8b4d90f286.jpg</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Ананас» 15% (ананас, цукор, стабілізатори, ароматизатор, барвник), цукор, вода, кокосове масло, основа «Ананас» 4% (сік, стабілізатори, ароматизатор), сухе молоко, гліцерин, глюкозний сироп, стабілізатори, барвник.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 4,93 г / Жири: 15,08 г / Вуглеводи: 77,14 г</param>
@@ -2337,7 +2337,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/9/sublimovane-morozyvo-abrykos-khurma1508-62209355676636_+786c70212c.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/9/sublimovane-morozyvo-abrykos-khurma1508-47480593119682_+99b78998a4.jpg</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Хурма» 18,6% (сік, цукор, стабілізатори, ароматизатор, барвники), абрикос у сиропі 20,8%, печиво 7%, кокосове масло, вода, сухе молоко, патока, стабілізатори, ароматизатор «Абрикос», регулятор кислотності, барвники.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 6,96 г / Жири: 23,49 г / Вуглеводи: 82,07 г</param>
@@ -2356,7 +2356,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-35134010978105_+9f7a52fbdd.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-58801481300748_+766ca260bb.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-50066339968965_+0fc35ec29d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-79650215864422_+a4e6cb7010.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-81385170407752_+fb9556bed1.png</picture>
@@ -2379,7 +2379,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/11/sublimovane-morozyvo-tiramisu1510-26319586745423_+d5a26e3c99.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/11/sublimovane-morozyvo-tiramisu1510-48162274721054_+5d3841f866.jpg</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосова олія, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
@@ -2398,7 +2398,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-82065912201639_+1732d97eec.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-86169011642380_+3a5ee3d243.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-94201873832796_+9836db6573.jpeg</picture>
         <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-81061705946020_+4e42f2ed1e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-73729119741039_+a59aff8649.jpg</picture>
@@ -2422,7 +2422,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/13/sublimovane-morozyvo-vyshnia1512-38926408411604_+911f3890e4.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/13/sublimovane-morozyvo-vyshnia1512-23843432539991_+4c51ac89c7.jpg</picture>
         <param name="Склад">Знежирене молоко, цукор, фруктовий наповнювач «Вишня» 13% (протерта вишня, цукор, стабілізатор, ароматизатор, барвники натуральні), вода, кокосова олія, сухе знежирене молоко, стабілізатори, ароматизатор «Ванілін».</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 8,99 г / Жири: 31,03 г / Вуглеводи: 68,73 г</param>
@@ -2441,7 +2441,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-23346858589064_+20e4b741af.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-78131407543262_+efac423d0d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-98398606092214_+f4bf3e22c4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-17830138407639_+b4cad4500b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-52572403477107_+e28bcf302a.jpg</picture>
@@ -2465,7 +2465,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/17/sublimovane-morozyvo-fistashka1516-88836840662677_+027c76e2c1.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/17/sublimovane-morozyvo-fistashka1516-48763348457806_+f272c32503.jpg</picture>
         <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
@@ -2484,7 +2484,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-12827461132700_+d58c1b6e6b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-71206733847119_+5a04ea72a3.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-63833752226838_+f272eca9af.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-50157859398698_+533413252b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-36685529203340_+8b172ab989.jpg</picture>
@@ -2507,7 +2507,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-12827461132700_+d58c1b6e6b.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-71206733847119_+5a04ea72a3.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-63833752226838_+f272eca9af.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-50157859398698_+533413252b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-36685529203340_+8b172ab989.jpg</picture>
@@ -2530,7 +2530,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-36292263838451_+dea8968f08.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-44488339028618_+38b2417ae3.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-69136211349916_+76604bdde5.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-95855682631714_+d85a0b327d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-12319318635780_+c775041b3a.jpg</picture>
@@ -2554,7 +2554,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/21/sublimovane-morozyvo-shokolad1520-35522334517657_+b86931050e.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/21/sublimovane-morozyvo-shokolad1520-44476030046282_+4deafc65a5.jpg</picture>
         <param name="Склад">Знежирене молоко, вода, цукор, кокосове масло, чорна кондитерська глазур 6%, какао-порошок 3,3%, шоколадна маса 2,8%, сухе знежирене молоко, глюкозний сироп, гліцерин, стабілізатори, барвник «Шоколад».</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 11,31 г / Жири: 41,47 г / Вуглеводи: 83,81 г</param>
@@ -2573,7 +2573,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-64516254336893_+1c96290dea.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-24039565449385_+23de5a96fc.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-36834924076827_+462bd84a2a.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-97536164366390_+3e6be41827.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-23182877501737_+3c8ca4362a.jpg</picture>
@@ -3411,7 +3411,7 @@
         <picture>https://www.vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-75991081592357_+204a951889.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-71215322887195_+56a98104ba.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-32363561740607_+bb9b7a8d0c.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука незбиране смажене (49%), сахароза, сахароза,</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука цільне смажене (49%), сахароза, сахароза,</param>
         <param name="БЖВ">білків-11,7г; жирів – 51,7 г; їх насичені – 10,7 р; вуглеводів-31,8 г, із них цукру – 26,1 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2690 кДж/643 ккал;</param>
@@ -4463,7 +4463,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-69055644726888_+df15b51f59.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-90375185298263_+77d6fdff75.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
@@ -4485,7 +4485,7 @@
         <price>87</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-26315219449535_+9cec8228f8.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-86322110569346_+50cdf70880.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-28557287203796_+8f3d2b376d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-90542751131120_+66db050b46.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-32547961777943_+d7479332a9.png</picture>
@@ -4508,7 +4508,7 @@
         <price>176</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/morozyvo-sublimovane-colodka-vata2282-20912565670025_+efc085737a.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/morozyvo-sublimovane-colodka-vata2282-44734598343466_+745f20520e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-28557287203796_+8f3d2b376d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-90542751131120_+66db050b46.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/32/morozyvo-sublimovane-colodka-vata-32547961777943_+d7479332a9.png</picture>
@@ -4531,10 +4531,9 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-16218403853277_+7f61bf11e6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-42022619111602_+f7178c9c37.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-98900176701532_+b04a4dcfb5.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-67504535748583_+8373e64ce8.png</picture>
-        <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-69393701065950_+7b5fb89433.png</picture>
         <param name="Склад">Молоко знежирене, цукор, вода питна, наповнювач "Фісташка" 8% (цукор, вода питна, олія кокосова, паста фісташкова 2%, паста насіння соняшника, модифікований кукурудзяний крохмаль, ароматизатор "Фісташка", барвник бета комплекси хлорофіл</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 12 г Жири: 24 г Вуглеводи: 75 г Сіль: 0,3 г</param>
@@ -4553,9 +4552,8 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/35/morozyvo-fistashka-shokolad2284-95894235599133_+10f06cca19.png</picture>
+        <picture>https://www.vitberry.com.ua/content/images/35/morozyvo-fistashka-shokolad2284-95210013864234_+9d31d36c6c.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-67504535748583_+8373e64ce8.png</picture>
-        <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-69393701065950_+7b5fb89433.png</picture>
         <param name="Склад">Молоко знежирене, цукор, вода питна, наповнювач "Фісташка" 8% (цукор, вода питна, олія кокосова, паста фісташкова 2%, паста насіння соняшника, модифікований кукурудзяний крохмаль, ароматизатор "Фісташка", барвник бета комплекси хлорофіл</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 12 г Жири: 24 г Вуглеводи: 75 г Сіль: 0,3 г</param>
@@ -4880,7 +4878,7 @@
         <price>109</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-92374031965102_+0bdba6dad5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-93181369008211_+20acd1eb25.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-29212138482856_+103bf9d722.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-99900346487345_+b5a0cd1e30.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-35688293754215_+e8ed1daffb.jpg</picture>
@@ -4905,7 +4903,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/23/sublimovane-morozyvo-polunytsia1522-22073087361198_+620b0c9331.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/23/sublimovane-morozyvo-polunytsia1522-83162580614842_+45682b7542.jpg</picture>
         <param name="Склад">Наповнювач «Полуниця» (ягоди, цукор, вода, стабілізатори, барвники, ароматизатор), кокосова олія, сухе знежирене молоко, глюкозний сироп, основа «Полуниця» (пюре, ароматизатори, барвники, антиоксидант), гліцерин, стабілізатори.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 0,58 г / Жири: 0,0 г / Вуглеводи: 96,86 г</param>
@@ -5932,7 +5930,7 @@
         <price>220</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-69055644726888_+df15b51f59.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-90375185298263_+77d6fdff75.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
