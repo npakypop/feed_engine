@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-01 21:33">
+<yml_catalog date="2026-06-02 04:01">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -25,6 +25,8 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-57167699508847_+359214e674.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-63707856395712_+a01e5ceff9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-20282371288357_+915f070143.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-59568626813493_+33f5c42b22.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-37349378219839_+d5c4c97025.jpg</picture>
@@ -48,6 +50,8 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-57167699508847_+359214e674.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-63707856395712_+a01e5ceff9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-20282371288357_+915f070143.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-59568626813493_+33f5c42b22.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-37349378219839_+d5c4c97025.jpg</picture>
@@ -71,7 +75,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-47461861523153_+ac713e27cf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-68762556622674_+8b1e856600.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-62781060323986_+6960de7d7d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-24268727885163_+54ff8b6c26.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-16808922043519_+fa4c4c7f68.png</picture>
@@ -94,7 +98,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-47461861523153_+ac713e27cf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-68762556622674_+8b1e856600.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-62781060323986_+6960de7d7d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-24268727885163_+54ff8b6c26.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-16808922043519_+fa4c4c7f68.png</picture>
@@ -117,7 +121,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-18133281966397_+2b18599213.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-75101286192506_+e6ab1ca1f6.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/65226597973584_+133aaf01e9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-34617840026639_+58c467c447.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-58783564608206_+558c2335f0.jpg</picture>
@@ -141,7 +145,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-18133281966397_+2b18599213.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-75101286192506_+e6ab1ca1f6.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/65226597973584_+133aaf01e9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-34617840026639_+58c467c447.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-58783564608206_+558c2335f0.jpg</picture>
@@ -165,7 +169,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-11754893770585_+35d1a77a62.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-77890903841858_+b89ab023e4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-22896177223634_+b6eace04f4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-43365043351399_+a1d337becd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-50325646572357_+2b4bdf03c6.jpg</picture>
@@ -189,7 +193,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-11754893770585_+35d1a77a62.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-77890903841858_+b89ab023e4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-22896177223634_+b6eace04f4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-43365043351399_+a1d337becd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-50325646572357_+2b4bdf03c6.jpg</picture>
@@ -213,7 +217,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-19040478517513_+c7e856f1bb.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-82066846026927_+874fdda9ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-43496978881101_+36d95799ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-80102400498363_+e67896ea2c.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-87934949102296_+a88da1e1c7.jpg</picture>
@@ -237,7 +241,7 @@
         <price>143</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-19040478517513_+c7e856f1bb.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-82066846026927_+874fdda9ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-43496978881101_+36d95799ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-80102400498363_+e67896ea2c.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-87934949102296_+a88da1e1c7.jpg</picture>
@@ -261,7 +265,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-11810091454254_+6fd54417c9.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-40562075426499_+653e77aeb7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/47270459981196_+4ad24fcb3d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-84653642518557_+8d2d8acc4b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-37233495991455_+f1c46ec922.jpg</picture>
@@ -284,7 +288,7 @@
         <price>187</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-11810091454254_+6fd54417c9.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-40562075426499_+653e77aeb7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/47270459981196_+4ad24fcb3d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-84653642518557_+8d2d8acc4b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-37233495991455_+f1c46ec922.jpg</picture>
@@ -307,7 +311,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-93194791714087_+6489e00dff.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-52538153715263_+85bbff5e03.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-65672971849653_+9ac9cc86de.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-43535411114477_+8d5767f61e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-91204821820184_+bc314da956.jpg</picture>
@@ -332,7 +336,7 @@
         <price>143</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-93194791714087_+6489e00dff.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-52538153715263_+85bbff5e03.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-65672971849653_+9ac9cc86de.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-43535411114477_+8d5767f61e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-91204821820184_+bc314da956.jpg</picture>
@@ -357,7 +361,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-18176561376358_+c22f1f3d13.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-17127940281532_+86f3c7ef38.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-82478200455925_+a049869d33.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-83423995822779_+bdb62c2a77.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-20003478081774_+827c485afa.jpg</picture>
@@ -380,7 +384,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-18176561376358_+c22f1f3d13.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-17127940281532_+86f3c7ef38.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-82478200455925_+a049869d33.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-83423995822779_+bdb62c2a77.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-20003478081774_+827c485afa.jpg</picture>
@@ -403,7 +407,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-70147928796739_+c0511e7a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-21592691570525_+e384b19603.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-19383821765773_+ade76dba43.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-44813358490342_+b173fd14a1.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-87601958467625_+511d5f9ac1.jpg</picture>
@@ -427,7 +431,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-70147928796739_+c0511e7a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-21592691570525_+e384b19603.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-19383821765773_+ade76dba43.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-44813358490342_+b173fd14a1.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-87601958467625_+511d5f9ac1.jpg</picture>
@@ -451,7 +455,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-85431707303769_+b71d09c705.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-50002367875439_+21325da628.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-42696891271522_+3f537830e2.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-32047740895929_+d468d4d8c7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-96073811905986_+dc828c52d6.jpg</picture>
@@ -476,7 +480,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-85431707303769_+b71d09c705.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-50002367875439_+21325da628.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-42696891271522_+3f537830e2.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-32047740895929_+d468d4d8c7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-96073811905986_+dc828c52d6.jpg</picture>
@@ -501,6 +505,8 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-57167699508847_+359214e674.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-63707856395712_+a01e5ceff9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-20282371288357_+915f070143.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-59568626813493_+33f5c42b22.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-37349378219839_+d5c4c97025.jpg</picture>
@@ -524,7 +530,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-47461861523153_+ac713e27cf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-68762556622674_+8b1e856600.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-62781060323986_+6960de7d7d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-24268727885163_+54ff8b6c26.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-16808922043519_+fa4c4c7f68.png</picture>
@@ -547,7 +553,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-18133281966397_+2b18599213.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-75101286192506_+e6ab1ca1f6.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/65226597973584_+133aaf01e9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-34617840026639_+58c467c447.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-58783564608206_+558c2335f0.jpg</picture>
@@ -571,7 +577,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-11754893770585_+35d1a77a62.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-77890903841858_+b89ab023e4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-22896177223634_+b6eace04f4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-43365043351399_+a1d337becd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-50325646572357_+2b4bdf03c6.jpg</picture>
@@ -595,7 +601,7 @@
         <price>1764</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-19040478517513_+c7e856f1bb.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-82066846026927_+874fdda9ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-43496978881101_+36d95799ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-80102400498363_+e67896ea2c.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-87934949102296_+a88da1e1c7.jpg</picture>
@@ -619,7 +625,7 @@
         <price>1764</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-93194791714087_+6489e00dff.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-52538153715263_+85bbff5e03.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-65672971849653_+9ac9cc86de.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-43535411114477_+8d5767f61e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-91204821820184_+bc314da956.jpg</picture>
@@ -644,7 +650,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-18176561376358_+c22f1f3d13.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-17127940281532_+86f3c7ef38.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-82478200455925_+a049869d33.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-83423995822779_+bdb62c2a77.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-20003478081774_+827c485afa.jpg</picture>
@@ -667,7 +673,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-70147928796739_+c0511e7a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-21592691570525_+e384b19603.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-19383821765773_+ade76dba43.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-44813358490342_+b173fd14a1.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-87601958467625_+511d5f9ac1.jpg</picture>
@@ -691,7 +697,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-85431707303769_+b71d09c705.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-50002367875439_+21325da628.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-42696891271522_+3f537830e2.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-32047740895929_+d468d4d8c7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-96073811905986_+dc828c52d6.jpg</picture>
@@ -1290,6 +1296,8 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-57167699508847_+359214e674.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-63707856395712_+a01e5ceff9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-20282371288357_+915f070143.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-59568626813493_+33f5c42b22.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/27/sublimovana-malyna-10-37349378219839_+d5c4c97025.jpg</picture>
@@ -1313,7 +1321,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-47461861523153_+ac713e27cf.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-68762556622674_+8b1e856600.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-62781060323986_+6960de7d7d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-24268727885163_+54ff8b6c26.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/sublimovana-lokhyna-10-16808922043519_+fa4c4c7f68.png</picture>
@@ -1336,7 +1344,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-18133281966397_+2b18599213.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-75101286192506_+e6ab1ca1f6.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/65226597973584_+133aaf01e9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-34617840026639_+58c467c447.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/sublimovanyi-persyk-10-58783564608206_+558c2335f0.jpg</picture>
@@ -1360,7 +1368,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-11754893770585_+35d1a77a62.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-77890903841858_+b89ab023e4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-22896177223634_+b6eace04f4.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-43365043351399_+a1d337becd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/sublimovana-dynia-10-50325646572357_+2b4bdf03c6.jpg</picture>
@@ -1384,7 +1392,7 @@
         <price>398</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-19040478517513_+c7e856f1bb.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-82066846026927_+874fdda9ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-43496978881101_+36d95799ca.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-80102400498363_+e67896ea2c.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/sublimovane-yabluko-10-87934949102296_+a88da1e1c7.jpg</picture>
@@ -1408,7 +1416,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-11810091454254_+6fd54417c9.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-40562075426499_+653e77aeb7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/47270459981196_+4ad24fcb3d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-84653642518557_+8d2d8acc4b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-37233495991455_+f1c46ec922.jpg</picture>
@@ -1431,7 +1439,7 @@
         <price>398</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-93194791714087_+6489e00dff.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-52538153715263_+85bbff5e03.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-65672971849653_+9ac9cc86de.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-43535411114477_+8d5767f61e.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/sublimovanyi-banan-10-91204821820184_+bc314da956.jpg</picture>
@@ -1456,7 +1464,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-18176561376358_+c22f1f3d13.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-17127940281532_+86f3c7ef38.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-82478200455925_+a049869d33.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-83423995822779_+bdb62c2a77.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/1/sublimovan-manho-10-20003478081774_+827c485afa.jpg</picture>
@@ -1479,7 +1487,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-70147928796739_+c0511e7a56.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-21592691570525_+e384b19603.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-19383821765773_+ade76dba43.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-44813358490342_+b173fd14a1.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/4/sublimovana-hrusha-10-87601958467625_+511d5f9ac1.jpg</picture>
@@ -1503,7 +1511,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-85431707303769_+b71d09c705.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-50002367875439_+21325da628.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-42696891271522_+3f537830e2.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-32047740895929_+d468d4d8c7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/7/sublimovanyi-ananas-10-96073811905986_+dc828c52d6.jpg</picture>
@@ -1528,7 +1536,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -1555,7 +1563,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -1582,7 +1590,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -1609,7 +1617,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -1958,32 +1966,6 @@
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Особливості">Без глютену, vegan friendly, без доданого цукру, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
         <param name="Термін зберігання, міс.">24</param>
-      </offer>
-      <offer id="1006" available="true">
-        <name_ua>Сублімована малина в чорному шоколаді, 50г</name_ua>
-        <name_ru>Сублимированная малина в черном шоколаде, 50г</name_ru>
-        <description_ua>&lt;p&gt;Спробуйте насичений смак сублімованої малини в чорному шоколаді. Соковита, ароматна малина проходить процес сублімації, зберігаючи свої корисні властивості та насичений смак. Чорний шоколад гармонійно поєднується з ягідною кислинкою, створюючи вишуканий смак, який оцінять поціновувачі оригінальних десертів та здорових перекусів.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;p&gt;Попробуйте насыщенный вкус сублимированной малины в черном шоколаде. Сочная, ароматная малина проходит процесс сублимации, сохраняя свои полезные свойства и насыщенный вкус. Черный шоколад гармонично сочетается с ягодной кислинкой, создавая изысканный вкус, который оценят любители оригинальных десертов и полезных перекусов.&lt;/p&gt;</description_ru>
-        <price>187</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-26663958319381_+047ebb4b82.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-30551563302829_+587f87f7f6.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-50402626871206_+75497253d0.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-91206954049471_+c6dedd3b7f.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-70461657956491_+f0136ab895.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-34240626486336_+123f2122a0.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-63088068865989_+bc1d57fc4d.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-25264446638779_+26b4d007e3.jpg</picture>
-        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина.</param>
-        <param name="Тип">У чорному шоколаді</param>
-        <param name="БЖВ">білки – 5,1 г; жири – 31,0 г; їх насичені – 19,1 р; вуглеводи – 42,8 г, із них цукру – 38,9 г</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">487 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
       </offer>
       <offer id="1008" available="true">
         <name_ua>Сублімована полуниця в чорному шоколаді, 50г</name_ua>
@@ -2734,7 +2716,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-45619582652403_+addcd93cc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-22512262340192_+6e790da1a0.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
@@ -2755,7 +2737,7 @@
         <price>176</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-45619582652403_+addcd93cc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-22512262340192_+6e790da1a0.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
@@ -2776,7 +2758,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-45619582652403_+addcd93cc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-22512262340192_+6e790da1a0.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
@@ -2797,7 +2779,7 @@
         <price>71</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-62339754097778_+cf93e3cd7f.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-60429310101888_+32a90792bc.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-26845717486629_+ea36ed302a.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-29029668084567_+7117fef34f.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-80319597808277_+e39516e2a5.jpg</picture>
@@ -2818,7 +2800,7 @@
         <price>187</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-62339754097778_+cf93e3cd7f.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-60429310101888_+32a90792bc.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-26845717486629_+ea36ed302a.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-29029668084567_+7117fef34f.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-80319597808277_+e39516e2a5.jpg</picture>
@@ -2839,7 +2821,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-62339754097778_+cf93e3cd7f.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-60429310101888_+32a90792bc.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-26845717486629_+ea36ed302a.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-29029668084567_+7117fef34f.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-80319597808277_+e39516e2a5.jpg</picture>
@@ -2860,7 +2842,7 @@
         <price>498</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-62339754097778_+cf93e3cd7f.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-60429310101888_+32a90792bc.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-26845717486629_+ea36ed302a.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-29029668084567_+7117fef34f.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/31/sublimovana-vyshnia-80319597808277_+e39516e2a5.jpg</picture>
@@ -3541,6 +3523,20 @@
         <param name="Термін зберігання, міс.">6</param>
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
+      </offer>
+      <offer id="1560" available="true">
+        <name_ua>Джеми та соуси, 6 смаків х 230г</name_ua>
+        <name_ru>Джемы и соусы, 6 вкусов x 230г</name_ru>
+        <description_ua>&lt;div&gt;  &lt;h2&gt;Гастрономічне асорті Vitberry: джеми, аджика та соуси — 6 унікальних смаків&lt;/h2&gt;    &lt;p&gt;Vitberry — це зручний спосіб оцінити розмаїття натуральних смаків в одному замовленні. Ми поєднали класичні солодкі джеми з горіхами та пікантні соуси, щоб створити універсальне рішення для вашої кухні. У складі лише справжні ягоди, фрукти та спеції без консервантів, ароматизаторів чи штучних барвників.&lt;/p&gt;    &lt;h3&gt;Склад гастрономічного асорті:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Продукт&lt;/th&gt;     &lt;th&gt;Особливість та вага&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Вишневий джем з волоським горіхом&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Класика з багатим горіховим післясмаком, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Абрикосовий джем з карамеллю&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Ніжна текстура та м'яка солодкість, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Джем з дині та полуниці&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Екзотичне та свіже літнє поєднання, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Малиновий джем з фундуком&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Яскрава ягода з хрустким фундуком, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Аджика традиційна&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Пікантна, в міру гостра, за автентичним рецептом, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Соус Вишня&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Ідеальне доповнення до м'яса, птиці та сирів, 230г&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;p&gt;Це асорті — знахідка для гурманів. Солодкі позиції стануть ідеальним доповненням до млинців, сирників чи ранкових тостів. Традиційна аджика та вишневий соус розкриють смак м'ясних страв та гарнірів. Використання відбірної сировини та лагідна термічна обробка дозволяють зберегти максимум природної користі та вітамінів.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Чому обирають Vitberry:&lt;/strong&gt; ми пропонуємо чесний склад «як удома», де фрукти вдало поєднуються з горіхами та прянощами без надмірної кількості цукру. Це чудовий варіант, щоб познайомитися з продукцією бренду або зробити корисний гастрономічний подарунок.&lt;/p&gt;    &lt;p&gt;Замовляйте Vitberry онлайн — дбайливо пакуємо та швидко доставляємо по всій Україні.&lt;/p&gt;  &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt;  &lt;h2&gt;Гастрономическое ассорти Vitberry: джемы, аджика и соусы — 6 уникальных вкусов&lt;/h2&gt;    &lt;p&gt;Vitberry — это удобный способ оценить разнообразие натуральных вкусов в одном заказе. Мы объединили классические сладкие джемы с орехами и пикантные соусы, чтобы создать универсальное решение для вашей кухни. В составе только настоящие ягоды, фрукты и специи без консервантов, ароматизаторов или искусственных красителей.&lt;/p&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Продукт&lt;/th&gt;     &lt;th&gt;Особенность и вес&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Вишневый джем с грецким орехом&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Классика с богатым ореховым послевкусием, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Абрикосовый джем с карамелью&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Нежная текстура и мягкая сладость, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Джем из дыни и клубники&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Экзотическое и свежее летнее сочетание, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Малиновый джем с фундуком&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Яркая ягода с хрустящим фундуком, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Аджика традиционная&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Пикантная, в меру острая, по аутентичному рецепту, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Соус Вишня&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Идеальное дополнение к мясу, птице и сырам, 230г&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;p&gt;Это ассорти — находка для гурманов. Сладкие позиции станут идеальным дополнением к блинам, сырникам или утренним тостам. Традиционная аджика и вишневый соус раскроют вкус мясных блюд и гарниров. Использование отборного сырья и бережная термическая обработка позволяют сохранить максимум природной пользы и витаминов.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Почему выбирают Vitberry:&lt;/strong&gt; мы предлагаем честный состав «как дома», где фрукты удачно сочетаются с орехами и пряностями без избытка сахара. Это отличный вариант, чтобы познакомиться с продукцией бренда или сделать полезный гастрономический подарок.&lt;/p&gt;    &lt;p&gt;Заказывайте Vitberry онлайн — бережно упакуем и быстро доставим по всей Украине.&lt;/p&gt;  &lt;/div&gt;</description_ru>
+        <price>913</price>
+        <categoryId>1086</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://www.vitberry.com.ua/content/images/19/nabir-dzhemiv-8-smakiv-kh-330h-25329867525628_+801a8678a2.jpg</picture>
+        <param name="Тип">Набір</param>
+        <param name="Умови зберігання">Температура: від 0 C до 25 CВологість повітря: не більше 75%Зберігати в захищених від сонячних променів приміщеннях в оригінальній нерозкритій упаковці.Після відкриття продукту зберігати в холодильнику і використовувати протягом 7 днів.</param>
+        <param name="Особливості">Без глютену, vegan friendly, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
+        <param name="Термін зберігання, міс.">24</param>
       </offer>
       <offer id="1565" available="true">
         <name_ua>Сублімовані фрукти в шоколаді, 4 смаків</name_ua>
@@ -4352,7 +4348,7 @@
         <price>65</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -4379,7 +4375,7 @@
         <price>154</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -4406,7 +4402,7 @@
         <price>442</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -4433,7 +4429,7 @@
         <price>2107</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98252087636118_+4f064967f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-49632130348849_+80773f6edd.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-42549891414491_+d496f8b278.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-34227369480803_+56bf7bc5a8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/26/sublimovana-polunytsia-10-tsila-98497065986278_+a007b0f612.jpg</picture>
@@ -4701,7 +4697,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-11810091454254_+6fd54417c9.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-40562075426499_+653e77aeb7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/47270459981196_+4ad24fcb3d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-84653642518557_+8d2d8acc4b.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/42/sublimovana-chereshnia-10-37233495991455_+f1c46ec922.jpg</picture>
@@ -4803,6 +4799,32 @@
         <param name="БЖВ">білків-6,1 г; жирів-21,9 г; їх насичені -12,9 р; вуглеводів-65,5 г, із них цукру -52,7 г, сіль - 0,12 г</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">486 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
+      <offer id="1006" available="false">
+        <name_ua>Сублімована малина в чорному шоколаді, 50г</name_ua>
+        <name_ru>Сублимированная малина в черном шоколаде, 50г</name_ru>
+        <description_ua>&lt;p&gt;Спробуйте насичений смак сублімованої малини в чорному шоколаді. Соковита, ароматна малина проходить процес сублімації, зберігаючи свої корисні властивості та насичений смак. Чорний шоколад гармонійно поєднується з ягідною кислинкою, створюючи вишуканий смак, який оцінять поціновувачі оригінальних десертів та здорових перекусів.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;p&gt;Попробуйте насыщенный вкус сублимированной малины в черном шоколаде. Сочная, ароматная малина проходит процесс сублимации, сохраняя свои полезные свойства и насыщенный вкус. Черный шоколад гармонично сочетается с ягодной кислинкой, создавая изысканный вкус, который оценят любители оригинальных десертов и полезных перекусов.&lt;/p&gt;</description_ru>
+        <price>187</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-26663958319381_+047ebb4b82.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-30551563302829_+587f87f7f6.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-50402626871206_+75497253d0.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-91206954049471_+c6dedd3b7f.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-70461657956491_+f0136ab895.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-34240626486336_+123f2122a0.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-63088068865989_+bc1d57fc4d.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-25264446638779_+26b4d007e3.jpg</picture>
+        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина.</param>
+        <param name="Тип">У чорному шоколаді</param>
+        <param name="БЖВ">білки – 5,1 г; жири – 31,0 г; їх насичені – 19,1 р; вуглеводи – 42,8 г, із них цукру – 38,9 г</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">487 ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">6</param>
         <param name="Упаковка">Дой-пак</param>
@@ -5300,7 +5322,7 @@
         <price>2208</price>
         <categoryId>1085</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-45619582652403_+addcd93cc5.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-22512262340192_+6e790da1a0.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
@@ -5472,20 +5494,6 @@
         <param name="Упаковка">Флоу-пак у картонній коробці</param>
         <param name="Вага">40г</param>
         <param name="Вміст цукру">Без доданого цукру</param>
-      </offer>
-      <offer id="1560" available="false">
-        <name_ua>Джеми та соуси, 6 смаків х 230г</name_ua>
-        <name_ru>Джемы и соусы, 6 вкусов x 230г</name_ru>
-        <description_ua>&lt;div&gt;  &lt;h2&gt;Гастрономічне асорті Vitberry: джеми, аджика та соуси — 6 унікальних смаків&lt;/h2&gt;    &lt;p&gt;Vitberry — це зручний спосіб оцінити розмаїття натуральних смаків в одному замовленні. Ми поєднали класичні солодкі джеми з горіхами та пікантні соуси, щоб створити універсальне рішення для вашої кухні. У складі лише справжні ягоди, фрукти та спеції без консервантів, ароматизаторів чи штучних барвників.&lt;/p&gt;    &lt;h3&gt;Склад гастрономічного асорті:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Продукт&lt;/th&gt;     &lt;th&gt;Особливість та вага&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Вишневий джем з волоським горіхом&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Класика з багатим горіховим післясмаком, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Абрикосовий джем з карамеллю&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Ніжна текстура та м'яка солодкість, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Джем з дині та полуниці&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Екзотичне та свіже літнє поєднання, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Малиновий джем з фундуком&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Яскрава ягода з хрустким фундуком, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Аджика традиційна&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Пікантна, в міру гостра, за автентичним рецептом, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Соус Вишня&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Ідеальне доповнення до м'яса, птиці та сирів, 230г&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;p&gt;Це асорті — знахідка для гурманів. Солодкі позиції стануть ідеальним доповненням до млинців, сирників чи ранкових тостів. Традиційна аджика та вишневий соус розкриють смак м'ясних страв та гарнірів. Використання відбірної сировини та лагідна термічна обробка дозволяють зберегти максимум природної користі та вітамінів.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Чому обирають Vitberry:&lt;/strong&gt; ми пропонуємо чесний склад «як удома», де фрукти вдало поєднуються з горіхами та прянощами без надмірної кількості цукру. Це чудовий варіант, щоб познайомитися з продукцією бренду або зробити корисний гастрономічний подарунок.&lt;/p&gt;    &lt;p&gt;Замовляйте Vitberry онлайн — дбайливо пакуємо та швидко доставляємо по всій Україні.&lt;/p&gt;  &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt;  &lt;h2&gt;Гастрономическое ассорти Vitberry: джемы, аджика и соусы — 6 уникальных вкусов&lt;/h2&gt;    &lt;p&gt;Vitberry — это удобный способ оценить разнообразие натуральных вкусов в одном заказе. Мы объединили классические сладкие джемы с орехами и пикантные соусы, чтобы создать универсальное решение для вашей кухни. В составе только настоящие ягоды, фрукты и специи без консервантов, ароматизаторов или искусственных красителей.&lt;/p&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Продукт&lt;/th&gt;     &lt;th&gt;Особенность и вес&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Вишневый джем с грецким орехом&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Классика с богатым ореховым послевкусием, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Абрикосовый джем с карамелью&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Нежная текстура и мягкая сладость, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Джем из дыни и клубники&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Экзотическое и свежее летнее сочетание, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Малиновый джем с фундуком&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Яркая ягода с хрустящим фундуком, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Аджика традиционная&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Пикантная, в меру острая, по аутентичному рецепту, 230г&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Соус Вишня&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;Идеальное дополнение к мясу, птице и сырам, 230г&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;p&gt;Это ассорти — находка для гурманов. Сладкие позиции станут идеальным дополнением к блинам, сырникам или утренним тостам. Традиционная аджика и вишневый соус раскроют вкус мясных блюд и гарниров. Использование отборного сырья и бережная термическая обработка позволяют сохранить максимум природной пользы и витаминов.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Почему выбирают Vitberry:&lt;/strong&gt; мы предлагаем честный состав «как дома», где фрукты удачно сочетаются с орехами и пряностями без избытка сахара. Это отличный вариант, чтобы познакомиться с продукцией бренда или сделать полезный гастрономический подарок.&lt;/p&gt;    &lt;p&gt;Заказывайте Vitberry онлайн — бережно упакуем и быстро доставим по всей Украине.&lt;/p&gt;  &lt;/div&gt;</description_ru>
-        <price>913</price>
-        <categoryId>1086</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/19/nabir-dzhemiv-8-smakiv-kh-330h-25329867525628_+801a8678a2.jpg</picture>
-        <param name="Тип">Набір</param>
-        <param name="Умови зберігання">Температура: від 0 C до 25 CВологість повітря: не більше 75%Зберігати в захищених від сонячних променів приміщеннях в оригінальній нерозкритій упаковці.Після відкриття продукту зберігати в холодильнику і використовувати протягом 7 днів.</param>
-        <param name="Особливості">Без глютену, vegan friendly, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
-        <param name="Термін зберігання, міс.">24</param>
       </offer>
       <offer id="SW-00005" available="false">
         <name_ua>Фундук в чорному шоколаді, 100 г</name_ua>
@@ -5677,7 +5685,7 @@
         <picture>https://www.vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-94243966694773_+324769930d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-87013175859414_+f26b6be6af.png</picture>
         <param name="Склад">Мінтай, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Белки-54,0г, Жиры-1,4г, Углеводы-0,0г.</param>
+        <param name="БЖВ">Білки-54,0г, Жири-1,4г, Вуглеводи-0,0г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-229,0/958кДж.</param>
         <param name="Країна виробник">Україна</param>
@@ -5702,7 +5710,7 @@
         <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">12</param>
-        <param name="Смак">Васаби</param>
+        <param name="Смак">Васабі</param>
       </offer>
       <offer id="fs-00021" available="false">
         <name_ua>Норі, Кунжут</name_ua>
@@ -5749,7 +5757,7 @@
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
         <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорийность: 650–680 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">200</param>
       </offer>
@@ -5873,7 +5881,7 @@
         <param name="Тип">Набір</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">1 год</param>
+        <param name="Термін зберігання, міс.">1 рік</param>
         <param name="Вага">125</param>
       </offer>
       <offer id="ic-00026" available="false">
