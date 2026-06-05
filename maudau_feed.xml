@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-04 20:06">
+<yml_catalog date="2026-06-05 03:50">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -730,7 +730,7 @@
         <picture>https://www.vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-79007930315515_+6138bd7415.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-18439271082961_+cc12525a61.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-84360962976736_+6d2e485329.jpg</picture>
-        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, молоко знежирене сухе, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
+        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, сухе молоко знежирене, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 8,7-11,6 г / Жири: 34,8 г / Вуглеводи: 58-72,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -1846,7 +1846,7 @@
         <picture>https://www.vitberry.com.ua/content/images/39/malyna-sublimovana-v-molochnomu-shokoladi-27765351071850_+5171093d4d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/malyna-sublimovana-v-molochnomu-shokoladi-19467017002488_+ff3f7932f5.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/malyna-sublimovana-v-molochnomu-shokoladi-50521111246553_+6a74fb616c.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-масло, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), малина субліментована. Може утримувати горіхи.</param>
+        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), малина субліментована. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків-4,5г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,5 г, їх цукру -31,2 г, сіль -0,12 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -1923,7 +1923,7 @@
         <picture>https://www.vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-39021240495773_+9fa5e20805.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-13271582976511_+cee30814e0.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-43204081338688_+0a662f04c4.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
+        <param name="Склад">Шоколад молочний (цукор, какао-масло, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків-4,3 г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,9 г, з них цукру – 35,2 г, сіль – 0,12 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -2121,7 +2121,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/25/sublimovane-morozyvo-plombir724-91869562023341_+c59d7a098f.jpg</picture>
-        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, молоко знежирене сухе, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
+        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, сухе молоко знежирене, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 8,7-11,6 г / Жири: 34,8 г / Вуглеводи: 58-72,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2368,7 +2368,7 @@
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-79650215864422_+a4e6cb7010.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-81385170407752_+fb9556bed1.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-80709120561655_+68e080ce6c.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосове масло, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосова олія, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2387,7 +2387,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/11/sublimovane-morozyvo-tiramisu1510-48162274721054_+5d3841f866.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосове масло, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосова олія, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2454,7 +2454,7 @@
         <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-52572403477107_+e28bcf302a.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-19993743732137_+8a5ba9f76d.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-82102225796988_+5b480d6e07.jpg</picture>
-        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р</param>
+        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р «</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2473,7 +2473,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/17/sublimovane-morozyvo-fistashka1516-48763348457806_+f272c32503.jpg</picture>
-        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р</param>
+        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р «</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -3352,7 +3352,7 @@
         <picture>https://www.vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-68994162627030_+3a3ef5ab44.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32643978255527_+7c1ecaa4c9.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32024281224427_+715721ee09.jpg</picture>
-        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), терте какао, емульгатор: соєвий лецитин, натуральна ваніль), сублімований ківі. Може утримувати горіхи.</param>
+        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), какао терте, емульгатор: соєвий лецитин, натуральна ваніль), сублімований ківі. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">Білки-5,4 г; жирів-26,1 г; їх насичені — 15,9 р; вуглеводи-43,1 г, їх цукру —38,8 г, сіль — 0,15 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -3493,7 +3493,7 @@
         <picture>https://www.vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-75685705493528_+83c99b18e7.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-74839575898744_+fba3d417d8.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-53485601525033_+d4c4086818.jpg</picture>
-        <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), сахароза, цуміноза</param>
+        <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью незбиране смажене (49%), сахаруза,</param>
         <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
@@ -3601,6 +3601,26 @@
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">250</param>
+      </offer>
+      <offer id="ic-00001" available="true">
+        <name_ua>Морозиво сублімоване в білому шоколаді пломбір, 100г</name_ua>
+        <name_ru>Мороженое сублимированное в белом шоколаде пломбир, 100г.</name_ru>
+        <description_ua>&lt;h2&gt;Хрусткий Пломбір у білому шоколаді (Сухе морозиво)&lt;/h2&gt;    &lt;p&gt;Уявіть улюблений пломбір, який можна покласти в кишеню! Це не магія, це сухе (сублімоване) морозиво. Спочатку воно приємно хрумтить, як легке безе, а потім ніжно тане у роті, перетворюючись на класичний вершковий десерт. Білий шоколад ідеально підкреслює цю солодку мить.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Чому варто спробувати:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Не тане в руках — бери з собою на прогулянку.&lt;/li&gt;   &lt;li&gt;Має насичений вершковий смак пломбіру.&lt;/li&gt;   &lt;li&gt;Здивує текстурою: хрумтить, а потім тане.&lt;/li&gt;  &lt;/ul&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Хрустящий пломбир в белом шоколаде (сухое мороженое)&lt;/h2&gt;    &lt;p&gt;Представьте любимый пломбир, который можно положить в карман! Это не магия, это сухое (сублимированное) мороженое. Сначала оно приятно хрустит, как легкое безе, а затем нежно тает во рту, превращаясь в классический сливочный десерт. Белый шоколад идеально подчеркивает это сладкое мгновение.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Почему стоит попробовать:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Не тает в руках — бери с собой на прогулку.&lt;/li&gt;   &lt;li&gt;Имеет насыщенный сливочный вкус пломбира.&lt;/li&gt;   &lt;li&gt;Удивит текстурой: хрустит, а потом тает.&lt;/li&gt;  &lt;/ul&gt;</description_ru>
+        <price>331</price>
+        <categoryId>1088</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://www.vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-83767011248221_+84887e2732.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
+        <picture>https://www.vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
+        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе цільне, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
+        <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
+        <param name="Особливості">Не тане і готове до вживання</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">12</param>
+        <param name="Упаковка">Пластикова баночка</param>
       </offer>
       <offer id="ic-00013" available="true">
         <name_ua>Морозиво сублімоване в молочному шоколаді лісові ягоди, 100г</name_ua>
@@ -4431,7 +4451,7 @@
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
-        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- і дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
+        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- та дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 12 гЖири: 36 гВуглеводи: 60 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5494,7 +5514,7 @@
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-60789240602408_+5d7fb26911.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
         <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
@@ -5516,26 +5536,6 @@
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">250</param>
-      </offer>
-      <offer id="ic-00001" available="false">
-        <name_ua>Морозиво сублімоване в білому шоколаді пломбір, 100г</name_ua>
-        <name_ru>Мороженое сублимированное в белом шоколаде пломбир, 100г.</name_ru>
-        <description_ua>&lt;h2&gt;Хрусткий Пломбір у білому шоколаді (Сухе морозиво)&lt;/h2&gt;    &lt;p&gt;Уявіть улюблений пломбір, який можна покласти в кишеню! Це не магія, це сухе (сублімоване) морозиво. Спочатку воно приємно хрумтить, як легке безе, а потім ніжно тане у роті, перетворюючись на класичний вершковий десерт. Білий шоколад ідеально підкреслює цю солодку мить.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Чому варто спробувати:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Не тане в руках — бери з собою на прогулянку.&lt;/li&gt;   &lt;li&gt;Має насичений вершковий смак пломбіру.&lt;/li&gt;   &lt;li&gt;Здивує текстурою: хрумтить, а потім тане.&lt;/li&gt;  &lt;/ul&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Хрустящий пломбир в белом шоколаде (сухое мороженое)&lt;/h2&gt;    &lt;p&gt;Представьте любимый пломбир, который можно положить в карман! Это не магия, это сухое (сублимированное) мороженое. Сначала оно приятно хрустит, как легкое безе, а затем нежно тает во рту, превращаясь в классический сливочный десерт. Белый шоколад идеально подчеркивает это сладкое мгновение.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Почему стоит попробовать:&lt;/strong&gt;&lt;/p&gt;    &lt;ul&gt;   &lt;li&gt;Не тает в руках — бери с собой на прогулку.&lt;/li&gt;   &lt;li&gt;Имеет насыщенный сливочный вкус пломбира.&lt;/li&gt;   &lt;li&gt;Удивит текстурой: хрустит, а потом тает.&lt;/li&gt;  &lt;/ul&gt;</description_ru>
-        <price>331</price>
-        <categoryId>1088</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://www.vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-83767011248221_+84887e2732.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
-        <picture>https://www.vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
-        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе цільне, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
-        <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
-        <param name="Особливості">Не тане і готове до вживання</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Упаковка">Пластикова баночка</param>
       </offer>
       <offer id="ic-00005" available="false">
         <name_ua>Морозиво сублімоване в білому шоколаді вишневе, 100г</name_ua>
@@ -5588,7 +5588,7 @@
         <picture>https://www.vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-25590347936936_+2ea8011821.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-39197159888074_+35e146b703.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-19106703718679_+636bcb04f5.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-олія, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Вишня» (молоко знежирене, цукор, фруктовий наповнювач "Вишня", 1 стабілізатор</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Вишня» (молоко знежирене, цукор, фруктовий наповнювач "Вишня", 1 стабілізатор</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -5896,7 +5896,7 @@
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
-        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- і дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
+        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- та дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 12 гЖири: 36 гВуглеводи: 60 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
