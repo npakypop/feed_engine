@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-09 14:51">
+<yml_catalog date="2026-06-09 20:07">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -2368,7 +2368,7 @@
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-79650215864422_+a4e6cb7010.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-81385170407752_+fb9556bed1.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-80709120561655_+68e080ce6c.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосове масло, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосова олія, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2387,7 +2387,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/11/sublimovane-morozyvo-tiramisu1510-48162274721054_+5d3841f866.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосове масло, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосова олія, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -3635,7 +3635,7 @@
         <picture>https://www.vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-26607065639958_+8381072e96.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-61012243877770_+8a74b696ec.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-45450718137533_+373b8c01cd.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -3679,7 +3679,7 @@
         <picture>https://www.vitberry.com.ua/content/images/18/syr-hauda-green-pesto-100h-40858771589172_+9816de9ec2.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, базилік (0,2%), пажитник (0,5%), сіль харчова, закваска, фермент сичужний, часник (0,1%), хлорофіл Е141.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
+        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -3701,7 +3701,7 @@
         <picture>https://www.vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-34780851506910_+00884f4c8e.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, чорнило каракатиці (0,1%), сіль харчова, закваска стартових культур, фермент сичужний.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
+        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
