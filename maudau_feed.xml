@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-13 03:48">
+<yml_catalog date="2026-06-13 09:17">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -3770,7 +3770,7 @@
         <picture>https://www.vitberry.com.ua/content/images/39/85417989039139_+3b682d54b1.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/51465279807788_+62a0fc5308.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/39/12423316131722_+27ba26ad62.jpg</picture>
-        <param name="Склад">шоколад молочный (пищевые волокна (олигофруктоза), какао-масло, молоко сухое цельное, молоко сухое обезжиренное, какао тертое, эмульгатор подсолнечный лецитин, ароматизатор «Ваниль», подсластитель гликозиды стевиола), клубника сублимированная. Может содер</param>
+        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), полуниця сублімована. Може вміст</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків – 7,4 g (г); жирів – 27,3 g(г), їх насичені – 14,5 g(г); вуглеводів – 40,3 g(г), їх цукру – 16,4 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -4407,7 +4407,7 @@
         <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-42022619111602_+f7178c9c37.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-98900176701532_+b04a4dcfb5.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-67504535748583_+8373e64ce8.png</picture>
-        <param name="Склад">Молоко обезжиренное, сахар, вода питьевая, наполнитель "Фисташка" 8% (сахар, вода питьевая, , масло кокосовое, паста фисташковая 2%, паста семян подсолнечника, модифицированный кукурузный крахмал, ароматизатор "Фисташка", краситель бета комплексы хлорофил</param>
+        <param name="Склад">Молоко знежирене, цукор, вода питна, наповнювач "Фісташка" 8% (цукор, вода питна, олія кокосова, паста фісташкова 2%, паста насіння соняшника, модифікований кукурудзяний крохмаль, ароматизатор "Фісташка", барвник бета комплекси хлорофіл</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 12 г Жири: 24 г Вуглеводи: 75 г Сіль: 0,3 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -4528,7 +4528,7 @@
         <categoryId>1087</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/47/84778297127938_+8f1f680ea0.jpg</picture>
-        <param name="Склад">Жимолость</param>
+        <param name="Склад">Жимолість</param>
         <param name="Тип">Ягоди</param>
         <param name="Вага">100 г</param>
         <param name="БЖВ">Білки: 1 г / Жири: 0 г / Вуглеводи: / 82 г</param>
@@ -4606,7 +4606,7 @@
         <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-34240626486336_+123f2122a0.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-63088068865989_+bc1d57fc4d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/48/malyna-sublimovana-v-chornomu-shokoladi-25264446638779_+26b4d007e3.jpg</picture>
-        <param name="Склад">тёмный шоколад (какао тёртое, сахар, какао-масло, эмульгатор: соевый лецитин, натуральная ваниль), сублимированная малина.</param>
+        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина.</param>
         <param name="Тип">У чорному шоколаді</param>
         <param name="БЖВ">білки – 5,1 г; жири – 31,0 г; їх насичені – 19,1 р; вуглеводи – 42,8 г, із них цукру – 38,9 г</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
