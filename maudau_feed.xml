@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-06-22 04:17">
+<yml_catalog date="2026-06-22 11:55">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -5421,7 +5421,7 @@
         <picture>https://www.vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-75991081592357_+204a951889.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-71215322887195_+56a98104ba.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-32363561740607_+bb9b7a8d0c.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука цільне смажене (49%), сахароза, сахароза,</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука незбиране смажене (49%), сахароза, сахароза,</param>
         <param name="БЖВ">білків-11,7г; жирів – 51,7 г; їх насичені – 10,7 р; вуглеводів-31,8 г, із них цукру – 26,1 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2690 кДж/643 ккал;</param>
@@ -5636,7 +5636,7 @@
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-57130884160959_+060f045008.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-96147814590158_+751842487c.png</picture>
         <param name="Склад">Склад: Кальмар сушений, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Белки-70,0г, Жиры-1,0г, Углеводы-3,0г</param>
+        <param name="БЖВ">Білки-70,0г, Жири-1,0г, Вуглеводи-3,0г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-301,0/1259кДж.</param>
         <param name="Країна виробник">Україна</param>
@@ -5656,7 +5656,7 @@
         <picture>https://www.vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-94243966694773_+324769930d.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-87013175859414_+f26b6be6af.png</picture>
         <param name="Склад">Мінтай, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Белки-54,0г, Жиры-1,4г, Углеводы-0,0г.</param>
+        <param name="БЖВ">Білки-54,0г, Жири-1,4г, Вуглеводи-0,0г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал-229,0/958кДж.</param>
         <param name="Країна виробник">Україна</param>
@@ -5695,7 +5695,7 @@
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-64176363094093_+c07cd270eb.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-74783975660042_+c1f1b3b05f.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-25154380922183_+f8146e741b.png</picture>
-        <param name="Склад">Морские водоросли сушеные 22,3%, арахис 32,2%, васаби, мальтодекстрин, соль.</param>
+        <param name="Склад">Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль.</param>
         <param name="БЖВ">Білки-14,8г, Жири 7,4г, Вуглеводи 67,1г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
@@ -5746,9 +5746,9 @@
         <vendor>Vitberry</vendor>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-35140365175275_+94c87f6f3b.png</picture>
         <picture>https://www.vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
-        <param name="БЖВ">Жиры: 60-65,2 г Белки: 15–16,2 г Углеводы: 7-13,7 г Клетчатка: ~6,7 г</param>
+        <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорийность: 650–680 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">200</param>
       </offer>
@@ -5764,7 +5764,7 @@
         <picture>https://www.vitberry.com.ua/content/images/37/nasinnia-chia-350h-47025153736543_+b878b062a3.jpg</picture>
         <param name="БЖВ">Білки: 16,5 – 23,1 г Жири: 30,7 – 31,9 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорийность: 379 – 512 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорійність: 379 – 512 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">350</param>
       </offer>
