@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-07-14 02:30">
+<yml_catalog date="2026-07-14 08:05">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -4419,7 +4419,7 @@
         <picture>https://www.vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-77496964170980_+8829a4da66.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-41286830537782_+dce9ab5425.jpg</picture>
         <picture>https://www.vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-38867492776965_+603326c5bb.jpg</picture>
-        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), поглинаючий агент (гуміарабік, сахароза, глюкозний сироп, рослинна пальма)</param>
+        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), глазующий агент (гуміарабік, сахароза, глюкозний сироп, рослинна пальма)</param>
         <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, із них цукру – 22,0 г, сіль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2446 кДж/585 ккал;</param>
