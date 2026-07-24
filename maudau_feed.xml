@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-07-23 19:17">
+<yml_catalog date="2026-07-24 02:40">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -12,7 +12,6 @@
       <category id="1118" portal_id="1236">Батончики</category>
       <category id="1137" portal_id="559">Горіхи в шоколаді</category>
       <category id="1152" portal_id="559">Горіхи</category>
-      <category id="1157" portal_id="561">Рибні снеки</category>
       <category id="1100" portal_id="567">Невідома категорія</category>
       <category id="1115" portal_id="528">Джеми</category>
     </categories>
@@ -730,7 +729,7 @@
         <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-79007930315515_+6138bd7415.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-18439271082961_+cc12525a61.png</picture>
         <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-84360962976736_+6d2e485329.jpg</picture>
-        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, сухе молоко знежирене, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
+        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, молоко знежирене сухе, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 8,7-11,6 г / Жири: 34,8 г / Вуглеводи: 58-72,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -1980,7 +1979,7 @@
         <picture>https://vitberry.com.ua/content/images/23/khrustkyi-syr-suluhuni-25862975432540_+fd3f892e4d.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/23/khrustkyi-syr-suluhuni-11202710928190_+d10abf0a46.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/23/khrustkyi-syr-suluhuni-54933283378456_+3f3d95f624.jpg</picture>
-        <param name="Склад">цільне коров'яче молоко, харчова сіль, фермент мікробіального походження, молочнокислі бактерії. Без ГМО.</param>
+        <param name="Склад">незбиране коров'яче молоко, харчова сіль, фермент мікробіального походження, молочнокислі бактерії. Без ГМО.</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">жири: 26,8 г; білки: 25 г.</param>
         <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
@@ -2250,7 +2249,7 @@
         <picture>https://vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-79650215864422_+a4e6cb7010.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-81385170407752_+fb9556bed1.png</picture>
         <picture>https://vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-80709120561655_+68e080ce6c.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосове масло, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосова олія, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2269,7 +2268,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/11/sublimovane-morozyvo-tiramisu1510-48162274721054_+5d3841f866.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосове масло, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосова олія, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2336,7 +2335,7 @@
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-52572403477107_+e28bcf302a.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-19993743732137_+8a5ba9f76d.png</picture>
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-82102225796988_+5b480d6e07.jpg</picture>
-        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р</param>
+        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р «</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2355,7 +2354,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/17/sublimovane-morozyvo-fistashka1516-48763348457806_+f272c32503.jpg</picture>
-        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р</param>
+        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р «</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2378,7 +2377,7 @@
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-50157859398698_+533413252b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-36685529203340_+8b172ab989.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-59185594941144_+dcbe43a268.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Чорниці-ожина» 15% (ягоди 50%, цукор, стабілізатори, ароматизатори), кокосове масло, вода, основа «Лісові ягоди» 4% (соки, пюре, барвники), сухе молоко, глюкозний сироп, буряковий барвник, гліцерин,</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Чорниця-ожина» 15% (ягоди 50%, цукор, стабілізатори, ароматизатори), кокосове масло, вода, основа «Лісові ягоди» 4% (соки, пюре, барвники), сухе молоко, глюкозний сироп, буряковий барвник, гліцерин,</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 8,12 г / Жири: 33,35 г / Вуглеводи: 75,4 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2401,7 +2400,7 @@
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-50157859398698_+533413252b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-36685529203340_+8b172ab989.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-59185594941144_+dcbe43a268.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Чорниці-ожина» 15% (ягоди 50%, цукор, стабілізатори, ароматизатори), кокосове масло, вода, основа «Лісові ягоди» 4% (соки, пюре, барвники), сухе молоко, глюкозний сироп, буряковий барвник, гліцерин,</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Чорниця-ожина» 15% (ягоди 50%, цукор, стабілізатори, ароматизатори), кокосове масло, вода, основа «Лісові ягоди» 4% (соки, пюре, барвники), сухе молоко, глюкозний сироп, буряковий барвник, гліцерин,</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 8,12 г / Жири: 33,35 г / Вуглеводи: 75,4 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2449,32 +2448,6 @@
         <param name="БЖВ">Білки: 11,31 г / Жири: 41,47 г / Вуглеводи: 83,81 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">750 Ккал</param>
-        <param name="Особливості">Не тане і готове до вживання</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">24</param>
-        <param name="Упаковка">Пластикова баночка</param>
-      </offer>
-      <offer id="4100" available="true">
-        <name_ua>Сублімоване морозиво Полуниця, 20 г</name_ua>
-        <name_ru>Сублимированное мороженое Клубника, 20 г</name_ru>
-        <description_ua>&lt;h2&gt;Сублімоване морозиво Полуниця. Космічне морозиво від Vitberry&lt;/h2&gt;    &lt;p&gt;Сублімоване морозиво Полуниця — легкий спосіб відчути літній настрій у будь-яку пору року.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Сублімоване морозиво Vitberry&lt;/strong&gt; — це справжнє морозиво, висушене методом сублімації (freeze-dried). Завдяки цій технології воно зберігає натуральний смак і аромат і не потребує морозильної камери для зберігання. Його ще називають &lt;em&gt;морозивом для космонавтів&lt;/em&gt;, адже саме такий формат десерту колись використовували в космічних програмах. Це легке, хрустке та зручне &lt;strong&gt;космічне морозиво&lt;/strong&gt;, яке можна брати з собою будь-куди: у дорогу, в офіс, у школу чи навіть у туристичний рюкзак.&lt;/p&gt;    &lt;h3&gt;Переваги:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Морозиво без холодильника — не тане і не липне, зручно зберігати.&lt;/li&gt;   &lt;li&gt;Легке та компактне — ідеально для подорожей та активного відпочинку.&lt;/li&gt;   &lt;li&gt;Оригінальний формат: справжнє морозиво у вигляді снека.&lt;/li&gt;   &lt;li&gt;Довгий термін зберігання — зручно мати запас вдома чи в дорозі.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Для кого:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Для дітей — цікава альтернатива солодощам.&lt;/li&gt;   &lt;li&gt;Для туристів і кемперів — десерт, який легко взяти у рюкзак.&lt;/li&gt;   &lt;li&gt;Для офісу чи навчання — щоб здивувати друзів і колег.&lt;/li&gt;   &lt;li&gt;Для тих, хто хоче морозиво завжди під рукою, без залежності від морозильної камери.&lt;/li&gt;   &lt;li&gt;Для всіх, хто хоче спробувати щось нове.&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Купити сублімоване морозиво Vitberry онлайн&lt;/strong&gt; можна прямо на цій сторінці. Це незвичний та смачний десерт, який зберігає справжній смак морозива та не потребує холодильника.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Сублимированное мороженое Клубника. Космическое мороженое от Vitberry&lt;/h2&gt;    &lt;p&gt;Сублимированное мороженое Клубника — легкий способ почувствовать летнее настроение в любое время года.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Сублимированное мороженое Vitberry&lt;/strong&gt; – это настоящее мороженое, высушенное методом сублимации (freeze-dried). Благодаря этой технологии оно сохраняет натуральный вкус и аромат и не нуждается в морозильной камере для хранения. Его еще называют мороженым для космонавтов, ведь именно такой формат десерта когда-то использовали в космических программах. Это легкое, хрустящее и удобное &lt;strong&gt;космическое мороженое&lt;/strong&gt;, которое можно брать с собой куда угодно: в дорогу, в офис, в школу или даже в туристический рюкзак.&lt;/p&gt;    &lt;h3&gt;Преимущества:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Мороженое без холодильника — не тает и не липнет, удобно хранить.&lt;/li&gt;   &lt;li&gt;Легкое и компактное – идеально для путешествий и активного отдыха.&lt;/li&gt;   &lt;li&gt;Оригинальный формат: настоящее мороженое в виде снека.&lt;/li&gt;   &lt;li&gt;Долгий срок хранения — удобно иметь запас дома или в пути.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Для кого:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Для детей — интересная альтернатива сладостям.&lt;/li&gt;   &lt;li&gt;Для туристов и кемперов — десерт, который легко взять в рюкзак.&lt;/li&gt;   &lt;li&gt;Для офиса или обучения — чтобы удивить друзей и коллег.&lt;/li&gt;   &lt;li&gt;Для тех, кто хочет мороженое всегда под рукой, без зависимости от морозильной камеры.&lt;/li&gt;   &lt;li&gt;Для всех, кто хочет попробовать что-нибудь новое.&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Купить сублимированное мороженое Vitberry онлайн&lt;/strong&gt; можно прямо на этой странице. Это необычный и вкусный десерт, который сохраняет настоящий вкус мороженого и не нуждается в холодильнике.&lt;/p&gt;</description_ru>
-        <price>109</price>
-        <categoryId>1088</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-24039565449385_+23de5a96fc.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-36834924076827_+462bd84a2a.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-97536164366390_+3e6be41827.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-23182877501737_+3c8ca4362a.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-73074123107908_+e827db4d33.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-84263134159724_+29aef96d8c.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-36140018568270_+b6c69ef41d.png</picture>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-23870332349306_+9c8ac94203.jpg</picture>
-        <param name="Склад">Наповнювач «Полуниця» (ягоди, цукор, вода, стабілізатори, барвники, ароматизатор), кокосова олія, сухе знежирене молоко, глюкозний сироп, основа «Полуниця» (пюре, ароматизатори, барвники, антиоксидант), гліцерин, стабілізатори.</param>
-        <param name="Вага">20 г</param>
-        <param name="БЖВ">Білки: 0,58 г / Жири: 0,0 г / Вуглеводи: 96,86 г</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">375 Ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">24</param>
@@ -3225,8 +3198,8 @@
         <picture>https://vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-75685705493528_+83c99b18e7.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-74839575898744_+fba3d417d8.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-53485601525033_+d4c4086818.jpg</picture>
-        <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), сахароза, цуміноза</param>
-        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
+        <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью незбиране смажене (49%), сахаруза,</param>
+        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, із них цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -3353,7 +3326,7 @@
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-26607065639958_+8381072e96.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-61012243877770_+8a74b696ec.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-45450718137533_+373b8c01cd.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -3361,27 +3334,6 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Упаковка">Пластикова баночка</param>
-      </offer>
-      <offer id="fs-00005" available="true">
-        <name_ua>Жовтий смугастик солоно–сушений, 120г</name_ua>
-        <name_ru>Желтый смугастик солено-сушеный, 120г</name_ru>
-        <description_ua>&lt;h2&gt;Жовтий смугастик солоно-сушений Grillz: класика до пива&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція з насиченим смаком. Наш жовтий смугастик має традиційний впізнаваний смак та помірну солоність. Це одна з найпопулярніших закусок під пиво, яка відмінно смакує у будь-якій компанії.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Жовтий смугастик, сіль, цукор, підсилювач смаку (глутамат натрію)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;247 ккал / 1033 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;54,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;13,2 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;0,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Желтый полосатик солено-сушеный Grillz: классика к пиву&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   это всегда свежая продукция с насыщенным вкусом. Наш желтый полосатик обладает традиционным узнаваемым вкусом и умеренной соленостью. Это одна из самых популярных закусок под пиво, которая отлично подходит для любой компании.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значение&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Состав&lt;/td&gt;          &lt;td&gt;Желтый полосатик, соль, сахар, усилитель вкуса (глутамат натрия)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Энергетическая ценность&lt;/td&gt;          &lt;td&gt;247 ккал / 1033 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Белки&lt;/td&gt;          &lt;td&gt;54,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жиры&lt;/td&gt;          &lt;td&gt;13,2 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Углеводы&lt;/td&gt;          &lt;td&gt;0,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Срок годности&lt;/td&gt;          &lt;td&gt;12 месяцев&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ru>
-        <price>176</price>
-        <categoryId>1157</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-57683318397269_+6e509d6994.png</picture>
-        <picture>https://vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-25642800990579_+0cca76e9d8.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-95487085073283_+ff60e48496.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-43206378043102_+2a3f6a2a05.png</picture>
-        <picture>https://vitberry.com.ua/content/images/29/zhovtyi-smuhastyk-solonosushenyi-200h-52428799132965_+39a5f36534.png</picture>
-        <param name="Склад">Склад: жовтий смугастик, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Білки-54,4, Жири-13,2 г, Вуглеводи-0,0 г.</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">ккал-247,0/1033кДж.</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Вага">200г</param>
       </offer>
       <offer id="cz-00001" available="true">
         <name_ua>Хрусткі сирні кульки Гауда Песто - Сушений сир, 100 г</name_ua>
@@ -3397,7 +3349,7 @@
         <picture>https://vitberry.com.ua/content/images/18/syr-hauda-green-pesto-100h-40858771589172_+9816de9ec2.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, базилік (0,2%), пажитник (0,5%), сіль харчова, закваска, фермент сичужний, часник (0,1%), хлорофіл Е141.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
+        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -3419,7 +3371,7 @@
         <picture>https://vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-34780851506910_+00884f4c8e.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, чорнило каракатиці (0,1%), сіль харчова, закваска стартових культур, фермент сичужний.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
+        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4126,7 +4078,7 @@
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
-        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- та дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
+        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- і дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 12 гЖири: 36 гВуглеводи: 60 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -4435,7 +4387,7 @@
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-39021240495773_+9fa5e20805.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-13271582976511_+cee30814e0.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-43204081338688_+0a662f04c4.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
+        <param name="Склад">Шоколад молочний (цукор, какао-масло, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків-4,3 г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,9 г, з них цукру – 35,2 г, сіль – 0,12 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -4533,7 +4485,7 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
-        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка Закарпатською" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
+        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка по Закарпатськи" 45г, курка "Соломка Гриль" 45г, курка "Соломка па2 сир Original 30г</param>
       </offer>
       <offer id="2015" available="false">
         <name_ua>Джерки з яловичини "Ultimate" 250 г</name_ua>
@@ -4658,11 +4610,37 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/25/sublimovane-morozyvo-plombir724-91869562023341_+c59d7a098f.jpg</picture>
-        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, сухе молоко знежирене, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
+        <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, молоко знежирене сухе, декстроза, глюкоза, суміш стабілізуюча (камедь ріжкового дерева, камедь гуарова, карагінан)</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 8,7-11,6 г / Жири: 34,8 г / Вуглеводи: 58-72,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">805 Ккал</param>
+        <param name="Особливості">Не тане і готове до вживання</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">24</param>
+        <param name="Упаковка">Пластикова баночка</param>
+      </offer>
+      <offer id="4100" available="false">
+        <name_ua>Сублімоване морозиво Полуниця, 20 г</name_ua>
+        <name_ru>Сублимированное мороженое Клубника, 20 г</name_ru>
+        <description_ua>&lt;h2&gt;Сублімоване морозиво Полуниця. Космічне морозиво від Vitberry&lt;/h2&gt;    &lt;p&gt;Сублімоване морозиво Полуниця — легкий спосіб відчути літній настрій у будь-яку пору року.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Сублімоване морозиво Vitberry&lt;/strong&gt; — це справжнє морозиво, висушене методом сублімації (freeze-dried). Завдяки цій технології воно зберігає натуральний смак і аромат і не потребує морозильної камери для зберігання. Його ще називають &lt;em&gt;морозивом для космонавтів&lt;/em&gt;, адже саме такий формат десерту колись використовували в космічних програмах. Це легке, хрустке та зручне &lt;strong&gt;космічне морозиво&lt;/strong&gt;, яке можна брати з собою будь-куди: у дорогу, в офіс, у школу чи навіть у туристичний рюкзак.&lt;/p&gt;    &lt;h3&gt;Переваги:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Морозиво без холодильника — не тане і не липне, зручно зберігати.&lt;/li&gt;   &lt;li&gt;Легке та компактне — ідеально для подорожей та активного відпочинку.&lt;/li&gt;   &lt;li&gt;Оригінальний формат: справжнє морозиво у вигляді снека.&lt;/li&gt;   &lt;li&gt;Довгий термін зберігання — зручно мати запас вдома чи в дорозі.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Для кого:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Для дітей — цікава альтернатива солодощам.&lt;/li&gt;   &lt;li&gt;Для туристів і кемперів — десерт, який легко взяти у рюкзак.&lt;/li&gt;   &lt;li&gt;Для офісу чи навчання — щоб здивувати друзів і колег.&lt;/li&gt;   &lt;li&gt;Для тих, хто хоче морозиво завжди під рукою, без залежності від морозильної камери.&lt;/li&gt;   &lt;li&gt;Для всіх, хто хоче спробувати щось нове.&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Купити сублімоване морозиво Vitberry онлайн&lt;/strong&gt; можна прямо на цій сторінці. Це незвичний та смачний десерт, який зберігає справжній смак морозива та не потребує холодильника.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Сублимированное мороженое Клубника. Космическое мороженое от Vitberry&lt;/h2&gt;    &lt;p&gt;Сублимированное мороженое Клубника — легкий способ почувствовать летнее настроение в любое время года.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Сублимированное мороженое Vitberry&lt;/strong&gt; – это настоящее мороженое, высушенное методом сублимации (freeze-dried). Благодаря этой технологии оно сохраняет натуральный вкус и аромат и не нуждается в морозильной камере для хранения. Его еще называют мороженым для космонавтов, ведь именно такой формат десерта когда-то использовали в космических программах. Это легкое, хрустящее и удобное &lt;strong&gt;космическое мороженое&lt;/strong&gt;, которое можно брать с собой куда угодно: в дорогу, в офис, в школу или даже в туристический рюкзак.&lt;/p&gt;    &lt;h3&gt;Преимущества:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Мороженое без холодильника — не тает и не липнет, удобно хранить.&lt;/li&gt;   &lt;li&gt;Легкое и компактное – идеально для путешествий и активного отдыха.&lt;/li&gt;   &lt;li&gt;Оригинальный формат: настоящее мороженое в виде снека.&lt;/li&gt;   &lt;li&gt;Долгий срок хранения — удобно иметь запас дома или в пути.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Для кого:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Для детей — интересная альтернатива сладостям.&lt;/li&gt;   &lt;li&gt;Для туристов и кемперов — десерт, который легко взять в рюкзак.&lt;/li&gt;   &lt;li&gt;Для офиса или обучения — чтобы удивить друзей и коллег.&lt;/li&gt;   &lt;li&gt;Для тех, кто хочет мороженое всегда под рукой, без зависимости от морозильной камеры.&lt;/li&gt;   &lt;li&gt;Для всех, кто хочет попробовать что-нибудь новое.&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;strong&gt;Купить сублимированное мороженое Vitberry онлайн&lt;/strong&gt; можно прямо на этой странице. Это необычный и вкусный десерт, который сохраняет настоящий вкус мороженого и не нуждается в холодильнике.&lt;/p&gt;</description_ru>
+        <price>109</price>
+        <categoryId>1088</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-24039565449385_+23de5a96fc.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-36834924076827_+462bd84a2a.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-97536164366390_+3e6be41827.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-23182877501737_+3c8ca4362a.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-73074123107908_+e827db4d33.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-84263134159724_+29aef96d8c.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-36140018568270_+b6c69ef41d.png</picture>
+        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-23870332349306_+9c8ac94203.jpg</picture>
+        <param name="Склад">Наповнювач «Полуниця» (ягоди, цукор, вода, стабілізатори, барвники, ароматизатор), кокосова олія, сухе знежирене молоко, глюкозний сироп, основа «Полуниця» (пюре, ароматизатори, барвники, антиоксидант), гліцерин, стабілізатори.</param>
+        <param name="Вага">20 г</param>
+        <param name="БЖВ">Білки: 0,58 г / Жири: 0,0 г / Вуглеводи: 96,86 г</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">375 Ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">24</param>
@@ -5167,7 +5145,7 @@
         <param name="Склад">Полуниця свіжа або заморожена 49,5%, цукор 40%, карамель 9,5%, натуральний харчовий загусник агар-агар - 1%.</param>
         <param name="БЖВ">Білки: 0 г / Жири: 1 г / Вуглеводи: 62,00 г</param>
         <param name="Умови зберігання">Температура: від 0 C до 25 CВологість повітря: не більше 75%Зберігати в захищених від сонячних променів приміщеннях в оригінальній нерозкритій упаковці.Після відкриття продукту зберігати в холодильнику і використовувати протягом 7 днів.</param>
-        <param name="Енергетична цінність, 100 г">289 ккал /1239 кДж</param>
+        <param name="Енергетична цінність, 100 г">289 ккал / 1239 кДж</param>
         <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">24</param>
@@ -5352,7 +5330,7 @@
         <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-83024518149305_+03fde389e7.jpg</picture>
         <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина. Може мати сліди горіхів.</param>
         <param name="Тип">У білому шоколаді</param>
-        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; їх насичені — 11,0 р; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
+        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; з них насичені - 11,0 г; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1915 кДж/457 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -5435,8 +5413,8 @@
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-60924506934390_+20901ccbcb.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-85103634888800_+c78c8a2102.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-74248406559808_+b05089e7c2.jpg</picture>
-        <param name="Склад">Состав: шоколад черный (какао тертое, сахар, какао-масло, эмульгатор: соевый лецитин, ваниль натуральная), ядро ​​ореха фундука цельное жареное (49%), глазующий агент (гумиарабик, сахароза, глюкозный сироп, растительная пальма) глазующий агент (шеллак, ра</param>
-        <param name="БЖВ">белков-11,1 г; жиров – 51,7 г; из них насыщенные – 10,8 г; углеводов-28,7 г, из них сахара – 22,0 г, соль – 0,004 г.</param>
+        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука незбиране смажене (49%), глазующий агент (гуміарабік, сахароза, глюкозний сироп, рослинна паль</param>
+        <param name="БЖВ">білків-11,1 г; жирів – 51,7 г; їх насичені – 10,8 р; вуглеводів-28,7 г, із них цукру – 22,0 г, сіль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2658 кДж 635 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -5457,7 +5435,7 @@
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-41286830537782_+dce9ab5425.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-38867492776965_+603326c5bb.jpg</picture>
         <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), глазующий агент (гуміарабік, сахароза, глюкозний сироп, рослинна пальма)</param>
-        <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, із них цукру – 22,0 г, сіль – 0,004 г.</param>
+        <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, їх цукру – 22,0 г, сіль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2446 кДж/585 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -5498,8 +5476,8 @@
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-60789240602408_+5d7fb26911.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
-        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
+        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, із них цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -5586,7 +5564,7 @@
         <picture>https://vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-25590347936936_+2ea8011821.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-39197159888074_+35e146b703.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-19106703718679_+636bcb04f5.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-олія, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Вишня» (молоко знежирене, цукор, фруктовий наповнювач "Вишня", 1 стабілізатор</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Вишня» (молоко знежирене, цукор, фруктовий наповнювач "Вишня", 1 стабілізатор</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -5615,120 +5593,6 @@
         <param name="Термін зберігання, міс.">12</param>
         <param name="Упаковка">Пластикова баночка</param>
       </offer>
-      <offer id="fs-00001" available="false">
-        <name_ua>Кальмар солоно-сушений, 100г</name_ua>
-        <name_ru>Кальмар солено-сушеный, 100г</name_ru>
-        <description_ua>&lt;h2&gt;Кальмар солоно-сушений Grillz: класична закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція з насиченим смаком. Наш сушений кальмар має класичний морський аромат та помірну солоність. Це відмінна закуска під пиво або швидкий перекус для тих, хто полюбляє морепродукти.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Кальмар сушений, сіль, цукор, підсилювач смаку (глутамат натрію)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;301 ккал / 1259 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;70,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;1,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;3,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Кальмар солено-сушеный Grillz: отличная закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   это всегда свежая продукция с насыщенным вкусом. Наш сушеный кальмар обладает классическим морским ароматом и умеренной соленостью. Это отличная закуска под пиво или питательный перекус для любителей морепродуктов.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значение&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Состав&lt;/td&gt;          &lt;td&gt;Кальмар сушеный, соль, сахар, усилитель вкуса (глутамат натрия)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Энергетическая ценность&lt;/td&gt;          &lt;td&gt;301 ккал / 1259 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Белки&lt;/td&gt;          &lt;td&gt;70,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жиры&lt;/td&gt;          &lt;td&gt;1,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Углеводы&lt;/td&gt;          &lt;td&gt;3,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Срок годности&lt;/td&gt;          &lt;td&gt;12 месяцев&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ru>
-        <price>132</price>
-        <categoryId>1157</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-64675428087189_+4c21ebfcee.png</picture>
-        <picture>https://vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-49009998365204_+fa97616f99.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-50318368949181_+7e46ac0f66.png</picture>
-        <picture>https://vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-57130884160959_+060f045008.png</picture>
-        <picture>https://vitberry.com.ua/content/images/25/kalmar-solono-sushenyi-200h-96147814590158_+751842487c.png</picture>
-        <param name="Склад">Склад: Кальмар сушений, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Білки-70,0г, Жири-1,0г, Вуглеводи-3,0г</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">ккал-301,0/1259кДж.</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Вага">100г</param>
-      </offer>
-      <offer id="fs-00009" available="false">
-        <name_ua>Минтай солоно-сушений, 200г</name_ua>
-        <name_ru>Минтай солено-сушеный, 200г</name_ru>
-        <description_ua>&lt;h2&gt;Минтай солоно-сушений Grillz: класична рибна закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція з насиченим смаком. Наш сушений минтай має приємний впізнаваний смак та помірну солоність. Це традиційна закуска під пиво, яка відмінно доповнить відпочинок у компанії друзів.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Минтай, сіль, цукор, підсилювач смаку (глутамат натрію)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;229 ккал / 958 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;54,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;1,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;0,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Минтай солено-сушеный Grillz: классическая рыбная закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   это всегда свежая продукция с насыщенным вкусом. Наш сушеный минтай обладает приятным узнаваемым вкусом и умеренной соленостью. Это традиционная закуска под пиво, которая отлично дополнит отдых в компании друзей.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значение&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Состав&lt;/td&gt;          &lt;td&gt;Минтай, соль, сахар, усилитель вкуса (глутамат натрия)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Энергетическая ценность&lt;/td&gt;          &lt;td&gt;229 ккал / 958 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Белки&lt;/td&gt;          &lt;td&gt;54,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жиры&lt;/td&gt;          &lt;td&gt;1,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Углеводы&lt;/td&gt;          &lt;td&gt;0,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Срок годности&lt;/td&gt;          &lt;td&gt;12 месяцев&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ru>
-        <price>222</price>
-        <categoryId>1157</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-33974282659831_+e4a806315b.png</picture>
-        <picture>https://vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-69265952235551_+ab3d327604.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-94243966694773_+324769930d.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/33/myntai-solono-sushenyi-200h-87013175859414_+f26b6be6af.png</picture>
-        <param name="Склад">Мінтай, сіль, цукор, глутамат натрію.</param>
-        <param name="БЖВ">Білки-54,0г, Жири-1,4г, Вуглеводи-0,0г.</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">ккал-229,0/958кДж.</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Вага">200г</param>
-      </offer>
-      <offer id="fs-00013" available="false">
-        <name_ua>Спинка ліпариса солоно-сушена, 200г</name_ua>
-        <name_ru>Спинка липариса солено-сушеная, 200г</name_ru>
-        <description_ua>&lt;h2&gt;Спинка ліпариса солоно-сушена Grillz: вишукана закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція з насиченим смаком. Спинка ліпариса вирізняється своєю м'ясистою текстурою та помірною солоністю. Це ідеальна добірна закуска під пиво, яка прийдеться до смаку всім цінителям якісних морепродуктів.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Ліпарис сушений, сіль, цукор, підсилювач смаку (глутамат натрію)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;287 ккал / 1200 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;57,6 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;5,5 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;0,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Спинка липариса солено-сушеная Grillz: изысканная закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   это всегда свежая продукция с насыщенным вкусом. Спинка липариса отличается своей мясистой текстурой и умеренной соленостью. Это идеальная отборная закуска под пиво, которая придется по вкусу всем ценителям качественных морепродуктов.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значение&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Состав&lt;/td&gt;          &lt;td&gt;Липарис сушеный, соль, сахар, усилитель вкуса (глутамат натрия)&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Энергетическая ценность&lt;/td&gt;          &lt;td&gt;287 ккал / 1200 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Белки&lt;/td&gt;          &lt;td&gt;57,6 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жиры&lt;/td&gt;          &lt;td&gt;5,5 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Углеводы&lt;/td&gt;          &lt;td&gt;0,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Срок годности&lt;/td&gt;          &lt;td&gt;12 месяцев&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ru>
-        <price>176</price>
-        <categoryId>1157</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-79021537562696_+dc12014678.png</picture>
-        <picture>https://vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-61021705000531_+e0d2bc7184.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-70269485964462_+61ad71aca3.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/37/spynka-liparysa-solono-sushena-200h-97709263598935_+4e5257d81e.png</picture>
-        <param name="Склад">Ліпаріс сушений, сіль, цукор, глутамат натрію</param>
-        <param name="БЖВ">Білки-57,6г, Жири-5,5г, Вуглеводи-0,0г</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">ккал-287,0/1200кДж</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Вага">200г</param>
-      </offer>
-      <offer id="fs-00017" available="false">
-        <name_ua>Норі, Васабі</name_ua>
-        <name_ru>Нори, Васаби</name_ru>
-        <description_ua>&lt;h2&gt;Чіпси з Норі Grillz з арахісом та васабі: екзотичний хрускіт&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція для тих, хто шукає нові смаки. Наші чіпси з норі поєднують у собі легкість морських водоростей, поживність арахісу та пікантну гостроту васабі. Це ідеальна закуска для любителів азіатської кухні, яка чудово доповнить бокал пінного або стане оригінальним перекусом протягом дня.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;398 ккал / 1667 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;14,8 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;7,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;67,1 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Чипсы из Нори Grillz с арахисом и васаби: экзотический хруст&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   это всегда свежая продукция для тех, кто ищет новые вкусы. Наши чипсы из нори сочетают в себе легкость морских водорослей, сытность арахиса и пикантную остроту васаби. Это идеальная закуска для любителей азиатской кухни, которая отлично дополнит бокал пенного или станет оригинальным перекусом в течение дня.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значение&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Состав&lt;/td&gt;          &lt;td&gt;Морские водоросли сушеные 22,3%, арахис 32,2%, васаби, мальтодекстрин, соль&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Энергетическая ценность&lt;/td&gt;          &lt;td&gt;398 ккал / 1667 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Белки&lt;/td&gt;          &lt;td&gt;14,8 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жиры&lt;/td&gt;          &lt;td&gt;7,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Углеводы&lt;/td&gt;          &lt;td&gt;67,1 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Срок годности&lt;/td&gt;          &lt;td&gt;12 месяцев&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ru>
-        <price>87</price>
-        <categoryId>1157</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-86302484426061_+612fb8d8e7.png</picture>
-        <picture>https://vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-64176363094093_+c07cd270eb.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-74783975660042_+c1f1b3b05f.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/41/nori-z-arakhisom-zi-smakom-vasabi-25154380922183_+f8146e741b.png</picture>
-        <param name="Склад">Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль.</param>
-        <param name="БЖВ">Белки-14,8г, Жиры 7,4г, Углеводы 67,1г</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Смак">Васаби</param>
-      </offer>
-      <offer id="fs-00021" available="false">
-        <name_ua>Норі, Кунжут</name_ua>
-        <name_ru>Нори, Кунжут</name_ru>
-        <description_ua>&lt;h2&gt;Чіпси з Норі Grillz з арахісом та васабі: екзотичний хрускіт&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція для тих, хто шукає нові смаки. Наші чіпси з норі поєднують у собі легкість морських водоростей, поживність арахісу та пікантну гостроту васабі. Це ідеальна закуска для любителів азіатської кухні, яка чудово доповнить бокал пінного або стане оригінальним перекусом протягом дня.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;398 ккал / 1667 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;14,8 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;7,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;67,1 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Чипсы из Нори Grillz с арахисом и васаби: экзотический хруст&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   это всегда свежая продукция для тех, кто ищет новые вкусы. Наши чипсы из нори сочетают в себе легкость морских водорослей, сытность арахиса и пикантную остроту васаби. Это идеальная закуска для любителей азиатской кухни, которая отлично дополнит бокал пенного или станет оригинальным перекусом в течение дня.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значение&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Состав&lt;/td&gt;          &lt;td&gt;Морские водоросли сушеные 22,3%, арахис 32,2%, васаби, мальтодекстрин, соль&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Энергетическая ценность&lt;/td&gt;          &lt;td&gt;398 ккал / 1667 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Белки&lt;/td&gt;          &lt;td&gt;14,8 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жиры&lt;/td&gt;          &lt;td&gt;7,4 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Углеводы&lt;/td&gt;          &lt;td&gt;67,1 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Срок годности&lt;/td&gt;          &lt;td&gt;12 месяцев&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ru>
-        <price>87</price>
-        <categoryId>1157</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/45/nori-z-kunzhutom-80673122778609_+8b1513f50b.png</picture>
-        <picture>https://vitberry.com.ua/content/images/45/nori-z-kunzhutom-36937579553668_+e98a772a79.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/45/nori-z-kunzhutom-83229150015425_+844226f916.png</picture>
-        <picture>https://vitberry.com.ua/content/images/45/nori-z-kunzhutom-26715377079203_+89770e4f7e.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/45/nori-z-kunzhutom-51167924182885_+1e4309aa67.png</picture>
-        <param name="Склад">Морські водорості сушені 22,3%, арахіс 32,2%, васабі, мальтодекстрин, сіль.</param>
-        <param name="БЖВ">Білки-14,8г, Жири 7,4г, Вуглеводи 67,1г</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">398 ккал/1667кДж</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Смак">Кунжут</param>
-      </offer>
-      <offer id="fs-00025" available="false">
-        <name_ua>Стружка тріски 200г</name_ua>
-        <name_ru>Стружка трески 200г</name_ru>
-        <description_ua>&lt;h2&gt;Стружка тріски Grillz: класична закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   це завжди свіжа продукція з насиченим смаком. Наша стружка тріски має м'яку волокнисту текстуру та приємний, впізнаваний смак. Це відмінна закуска під пиво або легкий білковий перекус для тих, хто любить морепродукти.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значення&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Склад&lt;/td&gt;          &lt;td&gt;Тріска сушена, сіль&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Енергетична цінність&lt;/td&gt;          &lt;td&gt;169,3 ккал / 708 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Білки&lt;/td&gt;          &lt;td&gt;39,8 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жири&lt;/td&gt;          &lt;td&gt;1,3 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Вуглеводи&lt;/td&gt;          &lt;td&gt;2,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Термін придатності&lt;/td&gt;          &lt;td&gt;12 місяців&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Стружка трески Grillz: классическая закуска&lt;/h2&gt;  &lt;p&gt;Снеки &lt;strong&gt;Grillz&lt;/strong&gt;   это всегда свежая продукция с насыщенным вкусом. Наша стружка трески обладает мягкой волокнистой текстурой и приятным, узнаваемым вкусом. Это отличная закуска под пиво или легкий белковый перекус для любителей морепродуктов.&lt;/p&gt;    &lt;table&gt;      &lt;tr&gt;          &lt;th&gt;Параметр&lt;/th&gt;          &lt;th&gt;Значение&lt;/th&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Состав&lt;/td&gt;          &lt;td&gt;Треска сушеная, соль&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Энергетическая ценность&lt;/td&gt;          &lt;td&gt;169,3 ккал / 708 кДж&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Белки&lt;/td&gt;          &lt;td&gt;39,8 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Жиры&lt;/td&gt;          &lt;td&gt;1,3 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Углеводы&lt;/td&gt;          &lt;td&gt;2,0 г&lt;/td&gt;      &lt;/tr&gt;      &lt;tr&gt;          &lt;td&gt;Срок годности&lt;/td&gt;          &lt;td&gt;12 месяцев&lt;/td&gt;      &lt;/tr&gt;  &lt;/table&gt;</description_ru>
-        <price>132</price>
-        <categoryId>1157</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/14/struzhka-trisky-200h-29019148732213_+7919b3569f.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/14/struzhka-trisky-200h-62215333230681_+951fcc8f2f.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/14/struzhka-trisky-200h-40928949192669_+23e996333d.jpg</picture>
-      </offer>
       <offer id="nt-00025" available="false">
         <name_ua>Волоський горіх, 200г</name_ua>
         <name_ru>Грецкий орех, 200г</name_ru>
@@ -5741,7 +5605,7 @@
         <picture>https://vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
         <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорийность: 650–680 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">200</param>
       </offer>
@@ -5757,7 +5621,7 @@
         <picture>https://vitberry.com.ua/content/images/37/nasinnia-chia-350h-47025153736543_+b878b062a3.jpg</picture>
         <param name="БЖВ">Білки: 16,5 – 23,1 г Жири: 30,7 – 31,9 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорийность: 379 – 512 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорійність: 379 – 512 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">350</param>
       </offer>
@@ -5777,7 +5641,7 @@
         <picture>https://vitberry.com.ua/content/images/38/90096199988680_+fd8c0159b2.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/38/62930806457271_+0f048bd88b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/38/30067262694502_+5d1c8e84e0.jpg</picture>
-        <param name="Склад">шоколад молочный (пищевые волокна (олигофруктоза), какао-масло, молоко сухое цельное, молоко сухое обезжиренное, какао тертое, эмульгатор подсолнечный лецитин, ароматизатор «Ваниль», подсластитель гликозиды стевиола), малина сублимированная. Может содержа</param>
+        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), малина сублімована. Може утримувати</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків – 7,4 g (г); жирів – 27,3 g(г), їх насичені – 14,5 g(г); вуглеводів – 40,3 g(г), їх цукру – 16,4 g(г); сіль - 0,02 g (г).</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -5940,7 +5804,7 @@
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
-        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- та дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
+        <param name="Склад">Молоко знежирене, кокосове масло, цукор білий кристалічний, вода питна, молоко сухе знежирене, крохмальна патока, стабілізатор (камедь ріжкового дерева, моно- і дигліцериди жирних кислот, карбоксиметилцелюлоза, пектин, гуарова камедь, кар</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 12 гЖири: 36 гВуглеводи: 60 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
