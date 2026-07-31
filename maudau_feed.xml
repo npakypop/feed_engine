@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-07-30 19:26">
+<yml_catalog date="2026-07-31 02:49">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -7,12 +7,12 @@
       <category id="1086" portal_id="1776">Дегустаційні Набори</category>
       <category id="1087" portal_id="1776">Порошки Сублімовані</category>
       <category id="1098" portal_id="1776">Фрукти в Шоколаді</category>
+      <category id="1100" portal_id="567">М'ясні снеки</category>
       <category id="1101" portal_id="2124">Сирні снеки</category>
       <category id="1116" portal_id="1215">Соуси</category>
       <category id="1118" portal_id="1236">Батончики</category>
       <category id="1137" portal_id="559">Горіхи в шоколаді</category>
       <category id="1152" portal_id="559">Горіхи</category>
-      <category id="1100" portal_id="567">Невідома категорія</category>
       <category id="1115" portal_id="528">Джеми</category>
     </categories>
     <offers>
@@ -1993,6 +1993,28 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
+      <offer id="2030" available="true">
+        <name_ua>Джерки курячі "Паприка чилі" 250 г</name_ua>
+        <name_ru>Джерки куриные "Паприка чили" 250 г</name_ru>
+        <description_ua>&lt;div&gt; &lt;h2&gt;Курячі джерки "ПАПРИКА ЧИЛІ"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки зі смаком паприки чилі – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Гострий та насичений смак&lt;/strong&gt; – для тих, хто любить пікантні закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взяти з собою&lt;/strong&gt; – компактна упаковка для зручного перекусу.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яскравий аромат спецій&lt;/strong&gt; – баланс смаків, який хочеться спробувати знову.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Підходить тим, хто шукає пряний м’ясний снек з характером.&lt;/p&gt; &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt; &lt;h2&gt;Куриные джерки  "ПАПРИКА ЧИЛИ"&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы со вкусом паприки и пикантностью чили – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Острый и насыщенный вкус&lt;/strong&gt; – для тех, кто любит пикантные закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взять с собой&lt;/strong&gt; – компактная упаковка для удобного перекуса.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яркий аромат специй&lt;/strong&gt; – баланс вкусов, который хочется попробовать снова.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Подходит тем, кто ищет пряный мясной снек с характером.&lt;/p&gt; &lt;/div&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-98455261368724_+be0a9fdb98.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-67332777466242_+d14e72599e.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/miaso-kurky-solono-sushene-papryka-chyli-250-h.-38192851773649_+4bb5733ea4.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-24545658576115_+56fe0557e6.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-62815810933426_+276adf5d21.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-89173747807642_+11d310f6e5.jpg</picture>
+        <param name="Тип">Курка</param>
+        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">308 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
       <offer id="3020" available="true">
         <name_ua>Сушений сир сулугуні Класичний - Соломка, 200 г</name_ua>
         <name_ru>Хрустящая соломка Сулугуни, 200 г</name_ru>
@@ -2569,6 +2591,26 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">250 г</param>
       </offer>
+      <offer id="2040" available="true">
+        <name_ua>М'ясо курки сушене "Соломка Паприка Чилі" 250 г</name_ua>
+        <name_ru>Мясо курицы сушеное «Соломка Паприка Чили» 250 г</name_ru>
+        <description_ua>&lt;div&gt; &lt;h2&gt;Курячі джерки "ПАПРИКА ЧИЛІ"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки зі смаком паприки чилі – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Гострий та насичений смак&lt;/strong&gt; – для тих, хто любить пікантні закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взяти з собою&lt;/strong&gt; – компактна упаковка для зручного перекусу.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яскравий аромат спецій&lt;/strong&gt; – баланс смаків, який хочеться спробувати знову.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Підходить тим, хто шукає пряний м’ясний снек з характером.&lt;/p&gt; &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt; &lt;h2&gt;Куриные джерки  "ПАПРИКА ЧИЛИ"&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы со вкусом паприки и пикантностью чили – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Острый и насыщенный вкус&lt;/strong&gt; – для тех, кто любит пикантные закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взять с собой&lt;/strong&gt; – компактная упаковка для удобного перекуса.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яркий аромат специй&lt;/strong&gt; – баланс вкусов, который хочется попробовать снова.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Подходит тем, кто ищет пряный мясной снек с характером.&lt;/p&gt; &lt;/div&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-63054545416178_+0053afee89.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-60079461928120_+693d08bae1.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-28141677466163_+680a8af676.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-40990662167293_+b741a5c689.jpg</picture>
+        <param name="Тип">Курка</param>
+        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">308 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
       <offer id="3050" available="true">
         <name_ua>Хрусткі сирні кульки Бекон - Сушений сир, 200 г</name_ua>
         <name_ru>Хрустящие сырные шарики Бекон, 200 г</name_ru>
@@ -2612,6 +2654,151 @@
         <param name="Термін зберігання, міс.">6</param>
         <param name="Упаковка">Вакуумна упаковка</param>
         <param name="Вага">200 г</param>
+      </offer>
+      <offer id="2060" available="true">
+        <name_ua>Джерки курячі "Часник" 250 г</name_ua>
+        <name_ru>Куриные джерки "Чеснок" 250 г</name_ru>
+        <description_ua>&lt;h2&gt;Курячі джерки&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Куриные джерки&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-30735587896729_+ef92225a6f.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-90597411860788_+9fe79592d6.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-25563513039774_+fd81201689.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-68277884807141_+fc0afb4e94.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-32869712193308_+147cafd9b9.jpg</picture>
+        <param name="Тип">Курка</param>
+        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">308 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
+      <offer id="2070" available="true">
+        <name_ua>Джерки курячі "Віскі" 250 г</name_ua>
+        <name_ru>Куриные джерки "Виски" 250 г</name_ru>
+        <description_ua>&lt;h2&gt;Курячі джерки&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Куриные джерки&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-18682164256536_+a0a0e172bc.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-60424233573997_+b19fb12c41.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-77786171209029_+0c434d5bee.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-54841749533683_+694e480a00.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-83592024508450_+b258c801ee.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-98209952309915_+bc124fa837.jpg</picture>
+        <param name="Тип">Курка</param>
+        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">308 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
+      <offer id="2080" available="true">
+        <name_ua>Джерки курячі "По-італійськи" 250 г</name_ua>
+        <name_ru>Куриные джерки "По-итальянски" 250 г</name_ru>
+        <description_ua>&lt;h2&gt;Курячі джерки "По-італійськи"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Ароматний смак з легкими нотками копчення&lt;/strong&gt; – ідеально для любителів гриль-продуктів.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Куриные джерки "ГРИЛЬ"&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Ароматный вкус с лёгкими нотами копчения&lt;/strong&gt; – идеально для любителей гриль-продуктов.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-14080301585474_+848c9537f5.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-56658015349603_+9d55b7d20a.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-23851461985004_+1bec538dc3.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-45533159050166_+ec4d85e018.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-28727210485123_+d9faf58376.jpg</picture>
+        <param name="Тип">Курка</param>
+        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">308 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
+      <offer id="2085" available="true">
+        <name_ua>М'ясо курки сушене "Соломка по-італійськи" 250 г</name_ua>
+        <name_ru>Сушёное куриное мясо "Соломка по-итальянски" 250 г</name_ru>
+        <description_ua>&lt;h2&gt;М'ясо курки "Соломка по-італійськи"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Мясо курицы сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-56799835945776_+2a75ab5401.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-35604994062783_+cae7c0e316.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-22248412823086_+08fd126b88.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-63214059578192_+b8f8af9d3a.jpg</picture>
+        <param name="Тип">Курка</param>
+        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">308 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
+      <offer id="2090" available="true">
+        <name_ua>Джерки свинина "Карпатські" 250 г</name_ua>
+        <name_ru>Свиной джерки "Карпатские" 250 г</name_ru>
+        <description_ua>&lt;div&gt; &lt;h2&gt;М'ясні джерки із свинини&lt;/h2&gt; &lt;p&gt;Сушене м’ясо свинини з легкими фруктовими нотами – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Яскравий смак з легкою кислинкою&lt;/strong&gt; – незвичне та гармонійне поєднання.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легкість та зручність&lt;/strong&gt; – можна взяти з собою та перекусити у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Збалансована рецептура&lt;/strong&gt; – оптимальний смак без зайвих деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тих, хто любить оригінальні м’ясні закуски з виразним смаком.&lt;/p&gt; &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt; &lt;h2&gt;Мясо свинины солено-сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо свинины с лёгкими фруктовыми нотами – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти чипсы из свинины универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Лёгкость и удобство&lt;/strong&gt; – можно взять с собой и перекусить в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сбалансированная рецептура&lt;/strong&gt; – оптимальный вкус без лишних деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тех, кто любит оригинальные мясные закуски с выразительным вкусом.&lt;/p&gt; &lt;/div&gt;</description_ru>
+        <price>487</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-37275298614327_+b327be5266.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-28855400039440_+8fd7966925.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-41093268599556_+8c91be7458.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-95767614766425_+a6864e4c56.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-70366438074438_+df59b6f6aa.jpg</picture>
+        <param name="Тип">Свинина</param>
+        <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
+      <offer id="2095" available="true">
+        <name_ua>М'ясо свинини сушене "Соломка Карпатські" 250 г</name_ua>
+        <name_ru>Сушёное свиное мясо "Соломка Карпатские" 250 г</name_ru>
+        <description_ua>&lt;div&gt; &lt;h2&gt;М'ясні джерки із свинини&lt;/h2&gt; &lt;p&gt;Сушене м’ясо свинини з легкими фруктовими нотами – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Яскравий смак з легкою кислинкою&lt;/strong&gt; – незвичне та гармонійне поєднання.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легкість та зручність&lt;/strong&gt; – можна взяти з собою та перекусити у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Збалансована рецептура&lt;/strong&gt; – оптимальний смак без зайвих деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тих, хто любить оригінальні м’ясні закуски з виразним смаком.&lt;/p&gt; &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt; &lt;h2&gt;Мясо свинины солено-сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо свинины с лёгкими фруктовыми нотами – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти чипсы из свинины универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Лёгкость и удобство&lt;/strong&gt; – можно взять с собой и перекусить в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сбалансированная рецептура&lt;/strong&gt; – оптимальный вкус без лишних деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тех, кто любит оригинальные мясные закуски с выразительным вкусом.&lt;/p&gt; &lt;/div&gt;</description_ru>
+        <price>487</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-36717063377338_+d2c1c9babf.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-77650742886019_+825395cb53.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-47545968279794_+61fe87a83a.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-32375363141787_+463acfcd46.jpg</picture>
+        <param name="Тип">Свинина</param>
+        <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
+      <offer id="2105" available="true">
+        <name_ua>М'ясо свинини сушене "Соломка По-українські" 250 г</name_ua>
+        <name_ru>Сушёное свиное мясо "Соломка По-украински" 250 г</name_ru>
+        <description_ua>&lt;div&gt; &lt;h2&gt;М'ясні джерки із свинини&lt;/h2&gt; &lt;p&gt;Сушене м’ясо свинини з легкими фруктовими нотами – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Яскравий смак з легкою кислинкою&lt;/strong&gt; – незвичне та гармонійне поєднання.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легкість та зручність&lt;/strong&gt; – можна взяти з собою та перекусити у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Збалансована рецептура&lt;/strong&gt; – оптимальний смак без зайвих деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тих, хто любить оригінальні м’ясні закуски з виразним смаком.&lt;/p&gt; &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt; &lt;h2&gt;Мясо свинины солено-сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо свинины с лёгкими фруктовыми нотами – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти чипсы из свинины универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Лёгкость и удобство&lt;/strong&gt; – можно взять с собой и перекусить в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сбалансированная рецептура&lt;/strong&gt; – оптимальный вкус без лишних деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тех, кто любит оригинальные мясные закуски с выразительным вкусом.&lt;/p&gt; &lt;/div&gt;</description_ru>
+        <price>487</price>
+        <categoryId>1100</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-50301684102310_+2ec58518a0.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-64313433484581_+1f8f8ee9ee.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-21019807644538_+fc911e4263.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-29207521699336_+175de2a92b.jpg</picture>
+        <param name="Тип">Свинина</param>
+        <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
+        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">3</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
       </offer>
       <offer id="7050" available="true">
         <name_ua>Сублімована чорниця, 10 г</name_ua>
@@ -2991,6 +3178,30 @@
         <param name="Упаковка">Банка скляна</param>
         <param name="Вага">230г</param>
       </offer>
+      <offer id="9000" available="true">
+        <name_ua>Батончик горіхово фруктовий, смак полуниця-базилік, 40 г</name_ua>
+        <name_ru>Орехово-фруктовый батончик, вкус клубника-базилик, 40 г</name_ru>
+        <description_ua>&lt;h2&gt;Батончик горіхово-фруктовий зі смаком полуниці та базиліку Vitberry&lt;/h2&gt;    &lt;p&gt;Батончик горіхово-фруктовий зі смаком полуниці та базиліку Vitberry — це корисний перекус із натуральних інгредієнтів. Ми поєднали сублімовану полуницю та ароматний базилік, щоб створити незвичний, але збалансований смак без цукру, без консервантів та без штучних добавок.&lt;/p&gt;    &lt;h2&gt;Кому підійде&lt;/h2&gt;    &lt;p&gt;Батончик підійде для тих, хто шукає здоровий перекус у дорогу чи енергетичний снек до кави. Це також чудовий варіант для тих, хто шукає солодощі без цукру як альтернативу звичайним. Завдяки тому, що батончик створений виключно з рослинних інгредієнтів, він підходить не лише для активних людей, а й для веганів та тих, хто уникає лактози.&lt;/p&gt;    &lt;h2&gt;Склад продукту&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;фінік&lt;/li&gt;   &lt;li&gt;мигдаль&lt;/li&gt;   &lt;li&gt;сублімат полуниці&lt;/li&gt;   &lt;li&gt;базилік&lt;/li&gt;   &lt;li&gt;насіння льону&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Натуральність і користь&lt;/h2&gt;    &lt;p&gt;Ми використовуємо лише натуральні інгредієнти, включно із сублімованими фруктами — вони зберігають максимум користі, яку дає нам природа.&lt;/p&gt;    &lt;h2&gt;Де купити&lt;/h2&gt;    &lt;p&gt;Купити батончик без цукру Vitberry можна вже сьогодні в нашому інтернет-магазині. Оформіть замовлення онлайн і отримайте швидку доставку по всій Україні прямо додому чи в офіс за приємною ціною.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Батончик орехово-фруктовый со вкусом клубники и базилика Vitberry&lt;/h2&gt;    &lt;p&gt;Батончик орехово-фруктовый со вкусом клубники и базилика Vitberry – это полезный перекус из натуральных ингредиентов. Мы объединили сублимированную клубнику и ароматный базилик, чтобы создать необычный, но сбалансированный вкус без сахара, без консервантов и искусственных добавок.&lt;/p&gt;    &lt;h2&gt;Кому подойдет&lt;/h2&gt;    &lt;p&gt;Батончик подойдет для ищущих здоровый перекус в дорогу или энергетический снек к кофе. Это также отличный вариант для тех, кто ищет сладости без сахара как альтернативу обычным. Благодаря тому, что батончик создан исключительно из растительных ингредиентов, он подходит не только для активных людей, но и для веганов и избегающих лактозы.&lt;/p&gt;    &lt;h2&gt;Состав продукта&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;финик&lt;/li&gt;   &lt;li&gt;миндаль&lt;/li&gt;   &lt;li&gt;сублимат клубники&lt;/li&gt;   &lt;li&gt;базилик&lt;/li&gt;   &lt;li&gt;семена льна&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Естественность и польза&lt;/h2&gt;    &lt;p&gt;Мы используем только натуральные ингредиенты, включая сублимированные фрукты — они сохраняют максимум пользы, которую дает нам природа.&lt;/p&gt;    &lt;h2&gt;Где купить&lt;/h2&gt;    &lt;p&gt;Купить батончик без сахара Vitberry можно уже сегодня в нашем интернет магазине. Оформите заказ онлайн и получите быструю доставку по всей Украине прямо домой или в офис по приятной цене.&lt;/p&gt;</description_ru>
+        <price>54</price>
+        <categoryId>1118</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-92063738742071_+621c3e750a.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-71340515854290_+0adf5bdfe7.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-55899467931929_+0585a453c9.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-11141056651848_+34b453afbe.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-36942311328248_+3ec7e934a5.jpg</picture>
+        <param name="Склад">Фінік, мигдаль, сублімована полуниця, базилік, лляне насіння</param>
+        <param name="Тип">Батончик</param>
+        <param name="БЖВ">Білки, г – 2,06 Жири, г – 2,93 Насичені Жири, г – 0,23 Вуглеводи, г – 21,81 Клітковина, г – 3,14 Сахара, г – 21,19.</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">ккал – 115,97 кДж – 486,49</param>
+        <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
+        <param name="Термін зберігання, міс.">12</param>
+        <param name="Упаковка">Флоу-пак у картонній коробці</param>
+        <param name="Вага">40г</param>
+        <param name="Вміст цукру">Без доданого цукру</param>
+      </offer>
       <offer id="9020" available="true">
         <name_ua>Батончик горіхово фруктовий, смак малина, 40 г</name_ua>
         <name_ru>Орехово-фруктовый батончик, вкус малина, 40 г</name_ru>
@@ -3057,6 +3268,30 @@
         <param name="БЖВ">Білки, г – 2,24 Жири, г – 4,10 Насичені Жири, г – 1,24 Вуглеводи, г – 19,06 Клітковина, г – 3,73 Сахара, г – 19,08.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал – 115,77 кДж – 485,42</param>
+        <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
+        <param name="Термін зберігання, міс.">12</param>
+        <param name="Упаковка">Флоу-пак у картонній коробці</param>
+        <param name="Вага">40г</param>
+        <param name="Вміст цукру">Без доданого цукру</param>
+      </offer>
+      <offer id="9100" available="true">
+        <name_ua>Батончик протеїновий, смак банан, 40 г</name_ua>
+        <name_ru>Протеиновый батончик, вкус банан, 40 г</name_ru>
+        <description_ua>&lt;h2&gt;Протеїновий батончик з бананом Vitberry&lt;/h2&gt;    &lt;p&gt;Протеїновий батончик з бананом Vitberry — це поживний перекус із натуральних інгредієнтів та додатковим джерелом білка, у якому поєднані фінік, сироватковий протеїн, сублімований банан та волоський горіх.&lt;/p&gt;    &lt;h2&gt;Кому підійде&lt;/h2&gt;    &lt;p&gt;Батончик підходить для тих, хто шукає швидке джерело білка після тренування або корисний перекус у дорогу. Це також чудовий варіант для тих, хто хоче замінити звичайні солодощі на більш збалансований продукт без зайвих добавок.&lt;/p&gt;    &lt;h2&gt;Склад продукту&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;фінік&lt;/li&gt;   &lt;li&gt;сироватковий протеїн&lt;/li&gt;   &lt;li&gt;сублімований банан&lt;/li&gt;   &lt;li&gt;волоський горіх&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Натуральність і користь&lt;/h2&gt;    &lt;p&gt;Ми використовуємо лише натуральні складові, включно із сублімованими фруктами та якісним протеїном — такий склад зберігає максимум користі та забезпечує додаткове джерело білка.&lt;/p&gt;    &lt;h2&gt;Де купити&lt;/h2&gt;    &lt;p&gt;Купити протеїновий батончик Vitberry можна вже сьогодні в нашому інтернет-магазині. Ми пропонуємо приємну ціну та швидку доставку в будь-який куточок України й за кордон. Замовляйте онлайн і насолоджуйтесь натуральним смаком та користю.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Протеиновый батончик с бананом Vitberry&lt;/h2&gt;    &lt;p&gt;Протеиновый батончик с бананом Vitberry – это питательный перекус из натуральных ингредиентов и дополнительным источником белка, в котором соединены финик, сывороточный протеин, сублимированный банан и грецкий орех.&lt;/p&gt;    &lt;h2&gt;Кому подойдет&lt;/h2&gt;    &lt;p&gt;Батончик подходит для ищущих быстрый источник белка после тренировки или полезный перекус в дорогу. Это также отличный вариант для тех, кто хочет заменить обычные сладости на более сбалансированный продукт без лишних добавок.&lt;/p&gt;    &lt;h2&gt;Состав продукта&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;финик&lt;/li&gt;   &lt;li&gt;сывороточный протеин&lt;/li&gt;   &lt;li&gt;сублимированный банан&lt;/li&gt;   &lt;li&gt;грецкий орех&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Естественность и польза&lt;/h2&gt;    &lt;p&gt;Мы используем только натуральные составляющие, включая сублимированные фрукты и качественный протеин — такой состав сохраняет максимум пользы и обеспечивает дополнительный источник белка.&lt;/p&gt;    &lt;h2&gt;Где купить&lt;/h2&gt;    &lt;p&gt;Купить протеиновый батончик Vitberry можно уже сегодня в нашем интернет магазине. Мы предлагаем приятную цену и быструю доставку в любую точку Украины и за рубеж. Заказывайте онлайн и наслаждайтесь натуральным вкусом и пользой.&lt;/p&gt;</description_ru>
+        <price>54</price>
+        <categoryId>1118</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-70806000056441_+cd33eb4c7c.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-12779921809163_+d02bb0f524.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-60408063064611_+8e04aeefbf.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-84438762220878_+ed9029fda7.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-47787335372606_+d3599b291f.jpg</picture>
+        <param name="Склад">Фінік, сироватковий протеїн, сублімований банан, волоський горіх</param>
+        <param name="Тип">Батончик</param>
+        <param name="БЖВ">Білки, г – 6,87 Жири, г – 1,69 Насичені Жири, г – 0,21 Вуглеводи, г – 19,98 Клітковина, г – 2,22 Сахара, г – 19,28.</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">ккал – 118,93 кДж – 500,59</param>
         <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Упаковка">Флоу-пак у картонній коробці</param>
@@ -4553,28 +4788,6 @@
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
       </offer>
-      <offer id="2030" available="false">
-        <name_ua>Джерки курячі "Паприка чилі" 250 г</name_ua>
-        <name_ru>Джерки куриные "Паприка чили" 250 г</name_ru>
-        <description_ua>&lt;div&gt; &lt;h2&gt;Курячі джерки "ПАПРИКА ЧИЛІ"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки зі смаком паприки чилі – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Гострий та насичений смак&lt;/strong&gt; – для тих, хто любить пікантні закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взяти з собою&lt;/strong&gt; – компактна упаковка для зручного перекусу.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яскравий аромат спецій&lt;/strong&gt; – баланс смаків, який хочеться спробувати знову.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Підходить тим, хто шукає пряний м’ясний снек з характером.&lt;/p&gt; &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt; &lt;h2&gt;Куриные джерки  "ПАПРИКА ЧИЛИ"&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы со вкусом паприки и пикантностью чили – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Острый и насыщенный вкус&lt;/strong&gt; – для тех, кто любит пикантные закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взять с собой&lt;/strong&gt; – компактная упаковка для удобного перекуса.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яркий аромат специй&lt;/strong&gt; – баланс вкусов, который хочется попробовать снова.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Подходит тем, кто ищет пряный мясной снек с характером.&lt;/p&gt; &lt;/div&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-98455261368724_+be0a9fdb98.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-67332777466242_+d14e72599e.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/miaso-kurky-solono-sushene-papryka-chyli-250-h.-38192851773649_+4bb5733ea4.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-24545658576115_+56fe0557e6.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-62815810933426_+276adf5d21.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/dzherky-kuriachi-papryka-chyli-250-h-89173747807642_+11d310f6e5.jpg</picture>
-        <param name="Тип">Курка</param>
-        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">308 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
       <offer id="2035" available="false">
         <name_ua>М’ясні снеки – Набір “Чотири М’яса”, 4 смаки × 100 г</name_ua>
         <name_ru>Мясные снеки – Набор "Четыре мяса", 4 вкуса × 100 г</name_ru>
@@ -4685,26 +4898,6 @@
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
       </offer>
-      <offer id="2040" available="false">
-        <name_ua>М'ясо курки сушене "Соломка Паприка Чилі" 250 г</name_ua>
-        <name_ru>Мясо курицы сушеное «Соломка Паприка Чили» 250 г</name_ru>
-        <description_ua>&lt;div&gt; &lt;h2&gt;Курячі джерки "ПАПРИКА ЧИЛІ"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки зі смаком паприки чилі – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Гострий та насичений смак&lt;/strong&gt; – для тих, хто любить пікантні закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взяти з собою&lt;/strong&gt; – компактна упаковка для зручного перекусу.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яскравий аромат спецій&lt;/strong&gt; – баланс смаків, який хочеться спробувати знову.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Підходить тим, хто шукає пряний м’ясний снек з характером.&lt;/p&gt; &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt; &lt;h2&gt;Куриные джерки  "ПАПРИКА ЧИЛИ"&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы со вкусом паприки и пикантностью чили – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Острый и насыщенный вкус&lt;/strong&gt; – для тех, кто любит пикантные закуски.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легко взять с собой&lt;/strong&gt; – компактная упаковка для удобного перекуса.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Яркий аромат специй&lt;/strong&gt; – баланс вкусов, который хочется попробовать снова.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Подходит тем, кто ищет пряный мясной снек с характером.&lt;/p&gt; &lt;/div&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-63054545416178_+0053afee89.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-60079461928120_+693d08bae1.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-28141677466163_+680a8af676.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/21/miaso-kurky-sushene-solomka-papryka-chyli-250-h-40990662167293_+b741a5c689.jpg</picture>
-        <param name="Тип">Курка</param>
-        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">308 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
       <offer id="2045" available="false">
         <name_ua>М'ясо свинини сушене "Соломка Пепа вишнева" 250 г</name_ua>
         <name_ru>Мясо свинины сушеное «Соломка Пепа вишневая» 250 г</name_ru>
@@ -4745,27 +4938,6 @@
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
       </offer>
-      <offer id="2060" available="false">
-        <name_ua>Джерки курячі "Часник" 250 г</name_ua>
-        <name_ru>Куриные джерки "Чеснок" 250 г</name_ru>
-        <description_ua>&lt;h2&gt;Курячі джерки&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Куриные джерки&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-30735587896729_+ef92225a6f.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-90597411860788_+9fe79592d6.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-25563513039774_+fd81201689.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-68277884807141_+fc0afb4e94.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/25/dzherky-kuriachi-chasnyk-250-h-32869712193308_+147cafd9b9.jpg</picture>
-        <param name="Тип">Курка</param>
-        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">308 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
       <offer id="2065" available="false">
         <name_ua>М'ясо курки сушене "Соломка Часник" 250 г</name_ua>
         <name_ru>Сушёное куриное мясо "Соломка Чеснок" 250 г</name_ru>
@@ -4778,28 +4950,6 @@
         <picture>https://vitberry.com.ua/content/images/29/miaso-kurky-sushene-solomka-chasnyk-250-h-29643375367353_+0672d07c80.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/29/miaso-kurky-sushene-solomka-chasnyk-250-h-91035444140233_+d55357b948.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/29/miaso-kurky-sushene-solomka-chasnyk-250-h-36114290416777_+f1f7b5783f.jpg</picture>
-        <param name="Тип">Курка</param>
-        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">308 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
-      <offer id="2070" available="false">
-        <name_ua>Джерки курячі "Віскі" 250 г</name_ua>
-        <name_ru>Куриные джерки "Виски" 250 г</name_ru>
-        <description_ua>&lt;h2&gt;Курячі джерки&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Куриные джерки&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-18682164256536_+a0a0e172bc.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-60424233573997_+b19fb12c41.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-77786171209029_+0c434d5bee.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-54841749533683_+694e480a00.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-83592024508450_+b258c801ee.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/33/dzherky-kuriachi-viski-250-h-98209952309915_+bc124fa837.jpg</picture>
         <param name="Тип">Курка</param>
         <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
@@ -4828,88 +4978,6 @@
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
       </offer>
-      <offer id="2080" available="false">
-        <name_ua>Джерки курячі "По-італійськи" 250 г</name_ua>
-        <name_ru>Куриные джерки "По-итальянски" 250 г</name_ru>
-        <description_ua>&lt;h2&gt;Курячі джерки "По-італійськи"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Ароматний смак з легкими нотками копчення&lt;/strong&gt; – ідеально для любителів гриль-продуктів.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Куриные джерки "ГРИЛЬ"&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Ароматный вкус с лёгкими нотами копчения&lt;/strong&gt; – идеально для любителей гриль-продуктов.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-14080301585474_+848c9537f5.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-56658015349603_+9d55b7d20a.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-23851461985004_+1bec538dc3.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-45533159050166_+ec4d85e018.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/41/dzherky-kuriachi-po-italiisky-250-h-28727210485123_+d9faf58376.jpg</picture>
-        <param name="Тип">Курка</param>
-        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">308 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
-      <offer id="2085" available="false">
-        <name_ua>М'ясо курки сушене "Соломка по-італійськи" 250 г</name_ua>
-        <name_ru>Сушёное куриное мясо "Соломка по-итальянски" 250 г</name_ru>
-        <description_ua>&lt;h2&gt;М'ясо курки "Соломка по-італійськи"&lt;/h2&gt; &lt;p&gt;Сушене м’ясо курки з ароматом грилю – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці курячі чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичний формат&lt;/strong&gt; – зручна упаковка для перекусу у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Зберігає свіжість&lt;/strong&gt; – залишається смачним протягом тривалого часу.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Чудовий вибір для тих, хто цінує насичені, збалансовані смаки.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Мясо курицы сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо курицы с ароматом гриля – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти куриные чипсы универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Практичный формат&lt;/strong&gt; – удобная упаковка для перекуса в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сохраняет свежесть&lt;/strong&gt; – остаётся вкусным в течение длительного времени.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Хороший выбор для тех, кто ценит насыщенные, сбалансированные вкусы.&lt;/p&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-56799835945776_+2a75ab5401.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-35604994062783_+cae7c0e316.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-22248412823086_+08fd126b88.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/45/miaso-kurky-sushene-solomka-po-italiisky-250-h-63214059578192_+b8f8af9d3a.jpg</picture>
-        <param name="Тип">Курка</param>
-        <param name="БЖВ">Жири: 4,7 г, з яких насичені 0,5 г, вуглеводи: 6,9 г, білки: 59,3 г</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">308 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
-      <offer id="2090" available="false">
-        <name_ua>Джерки свинина "Карпатські" 250 г</name_ua>
-        <name_ru>Свиной джерки "Карпатские" 250 г</name_ru>
-        <description_ua>&lt;div&gt; &lt;h2&gt;М'ясні джерки із свинини&lt;/h2&gt; &lt;p&gt;Сушене м’ясо свинини з легкими фруктовими нотами – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Яскравий смак з легкою кислинкою&lt;/strong&gt; – незвичне та гармонійне поєднання.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легкість та зручність&lt;/strong&gt; – можна взяти з собою та перекусити у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Збалансована рецептура&lt;/strong&gt; – оптимальний смак без зайвих деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тих, хто любить оригінальні м’ясні закуски з виразним смаком.&lt;/p&gt; &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt; &lt;h2&gt;Мясо свинины солено-сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо свинины с лёгкими фруктовыми нотами – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти чипсы из свинины универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Лёгкость и удобство&lt;/strong&gt; – можно взять с собой и перекусить в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сбалансированная рецептура&lt;/strong&gt; – оптимальный вкус без лишних деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тех, кто любит оригинальные мясные закуски с выразительным вкусом.&lt;/p&gt; &lt;/div&gt;</description_ru>
-        <price>487</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-37275298614327_+b327be5266.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-28855400039440_+8fd7966925.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-41093268599556_+8c91be7458.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-95767614766425_+a6864e4c56.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/49/dzherky-svynyna-karpatski-250-h-70366438074438_+df59b6f6aa.jpg</picture>
-        <param name="Тип">Свинина</param>
-        <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
-      <offer id="2095" available="false">
-        <name_ua>М'ясо свинини сушене "Соломка Карпатські" 250 г</name_ua>
-        <name_ru>Сушёное свиное мясо "Соломка Карпатские" 250 г</name_ru>
-        <description_ua>&lt;div&gt; &lt;h2&gt;М'ясні джерки із свинини&lt;/h2&gt; &lt;p&gt;Сушене м’ясо свинини з легкими фруктовими нотами – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Яскравий смак з легкою кислинкою&lt;/strong&gt; – незвичне та гармонійне поєднання.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легкість та зручність&lt;/strong&gt; – можна взяти з собою та перекусити у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Збалансована рецептура&lt;/strong&gt; – оптимальний смак без зайвих деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тих, хто любить оригінальні м’ясні закуски з виразним смаком.&lt;/p&gt; &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt; &lt;h2&gt;Мясо свинины солено-сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо свинины с лёгкими фруктовыми нотами – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти чипсы из свинины универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Лёгкость и удобство&lt;/strong&gt; – можно взять с собой и перекусить в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сбалансированная рецептура&lt;/strong&gt; – оптимальный вкус без лишних деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тех, кто любит оригинальные мясные закуски с выразительным вкусом.&lt;/p&gt; &lt;/div&gt;</description_ru>
-        <price>487</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-36717063377338_+d2c1c9babf.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-77650742886019_+825395cb53.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-47545968279794_+61fe87a83a.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/miaso-svynyny-sushene-solomka-karpatski-250-h-32375363141787_+463acfcd46.jpg</picture>
-        <param name="Тип">Свинина</param>
-        <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
       <offer id="2100" available="false">
         <name_ua>Джерки свинина "По-українські" 250 г</name_ua>
         <name_ru>Свиной джерки "По-украински" 250 г</name_ru>
@@ -4924,26 +4992,6 @@
         <picture>https://vitberry.com.ua/content/images/7/dzherky-svynyna-po-ukrainski-250-h-12583272193280_+414e4d699d.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/7/dzherky-svynyna-po-ukrainski-250-h-45412141199865_+117b40a39e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/7/dzherky-svynyna-po-ukrainski-250-h-53182431999645_+7c39e7f511.jpg</picture>
-        <param name="Тип">Свинина</param>
-        <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
-        <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">3</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-      </offer>
-      <offer id="2105" available="false">
-        <name_ua>М'ясо свинини сушене "Соломка По-українські" 250 г</name_ua>
-        <name_ru>Сушёное свиное мясо "Соломка По-украински" 250 г</name_ru>
-        <description_ua>&lt;div&gt; &lt;h2&gt;М'ясні джерки із свинини&lt;/h2&gt; &lt;p&gt;Сушене м’ясо свинини з легкими фруктовими нотами – це м’ясні чіпси, які отримали свій смак завдяки спеціальному процесу підготовки та спеціям. Приємна текстура та помірна солоність роблять ці чіпси універсальним м’ясним снеком. Цей протеїновий перекус чудово підійде для тих, хто шукає здорові снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Яскравий смак з легкою кислинкою&lt;/strong&gt; – незвичне та гармонійне поєднання.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Легкість та зручність&lt;/strong&gt; – можна взяти з собою та перекусити у будь-який час.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Збалансована рецептура&lt;/strong&gt; – оптимальний смак без зайвих деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тих, хто любить оригінальні м’ясні закуски з виразним смаком.&lt;/p&gt; &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt; &lt;h2&gt;Мясо свинины солено-сушеное&lt;/h2&gt; &lt;p&gt;Сушёное мясо свинины с лёгкими фруктовыми нотами – это мясные чипсы, которые получили свой вкус благодаря специальному процессу подготовки и приправам. Приятная текстура и умеренная солёность делают эти чипсы из свинины универсальным мясным снеком. Этот протеиновый перекус отлично подойдёт для тех, кто ищет здоровые снеки.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;   &lt;strong&gt;Лёгкость и удобство&lt;/strong&gt; – можно взять с собой и перекусить в любое время.&lt;/li&gt; &lt;li&gt;   &lt;strong&gt;Сбалансированная рецептура&lt;/strong&gt; – оптимальный вкус без лишних деталей.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Для тех, кто любит оригинальные мясные закуски с выразительным вкусом.&lt;/p&gt; &lt;/div&gt;</description_ru>
-        <price>487</price>
-        <categoryId>1100</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-50301684102310_+2ec58518a0.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-64313433484581_+1f8f8ee9ee.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-21019807644538_+fc911e4263.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/11/miaso-svynyny-sushene-po-ukrainski-250-h-29207521699336_+175de2a92b.jpg</picture>
         <param name="Тип">Свинина</param>
         <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
@@ -5243,30 +5291,6 @@
         <param name="Упаковка">Банка скляна</param>
         <param name="Вага">230г</param>
       </offer>
-      <offer id="9000" available="false">
-        <name_ua>Батончик горіхово фруктовий, смак полуниця-базилік, 40 г</name_ua>
-        <name_ru>Орехово-фруктовый батончик, вкус клубника-базилик, 40 г</name_ru>
-        <description_ua>&lt;h2&gt;Батончик горіхово-фруктовий зі смаком полуниці та базиліку Vitberry&lt;/h2&gt;    &lt;p&gt;Батончик горіхово-фруктовий зі смаком полуниці та базиліку Vitberry — це корисний перекус із натуральних інгредієнтів. Ми поєднали сублімовану полуницю та ароматний базилік, щоб створити незвичний, але збалансований смак без цукру, без консервантів та без штучних добавок.&lt;/p&gt;    &lt;h2&gt;Кому підійде&lt;/h2&gt;    &lt;p&gt;Батончик підійде для тих, хто шукає здоровий перекус у дорогу чи енергетичний снек до кави. Це також чудовий варіант для тих, хто шукає солодощі без цукру як альтернативу звичайним. Завдяки тому, що батончик створений виключно з рослинних інгредієнтів, він підходить не лише для активних людей, а й для веганів та тих, хто уникає лактози.&lt;/p&gt;    &lt;h2&gt;Склад продукту&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;фінік&lt;/li&gt;   &lt;li&gt;мигдаль&lt;/li&gt;   &lt;li&gt;сублімат полуниці&lt;/li&gt;   &lt;li&gt;базилік&lt;/li&gt;   &lt;li&gt;насіння льону&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Натуральність і користь&lt;/h2&gt;    &lt;p&gt;Ми використовуємо лише натуральні інгредієнти, включно із сублімованими фруктами — вони зберігають максимум користі, яку дає нам природа.&lt;/p&gt;    &lt;h2&gt;Де купити&lt;/h2&gt;    &lt;p&gt;Купити батончик без цукру Vitberry можна вже сьогодні в нашому інтернет-магазині. Оформіть замовлення онлайн і отримайте швидку доставку по всій Україні прямо додому чи в офіс за приємною ціною.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Батончик орехово-фруктовый со вкусом клубники и базилика Vitberry&lt;/h2&gt;    &lt;p&gt;Батончик орехово-фруктовый со вкусом клубники и базилика Vitberry – это полезный перекус из натуральных ингредиентов. Мы объединили сублимированную клубнику и ароматный базилик, чтобы создать необычный, но сбалансированный вкус без сахара, без консервантов и искусственных добавок.&lt;/p&gt;    &lt;h2&gt;Кому подойдет&lt;/h2&gt;    &lt;p&gt;Батончик подойдет для ищущих здоровый перекус в дорогу или энергетический снек к кофе. Это также отличный вариант для тех, кто ищет сладости без сахара как альтернативу обычным. Благодаря тому, что батончик создан исключительно из растительных ингредиентов, он подходит не только для активных людей, но и для веганов и избегающих лактозы.&lt;/p&gt;    &lt;h2&gt;Состав продукта&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;финик&lt;/li&gt;   &lt;li&gt;миндаль&lt;/li&gt;   &lt;li&gt;сублимат клубники&lt;/li&gt;   &lt;li&gt;базилик&lt;/li&gt;   &lt;li&gt;семена льна&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Естественность и польза&lt;/h2&gt;    &lt;p&gt;Мы используем только натуральные ингредиенты, включая сублимированные фрукты — они сохраняют максимум пользы, которую дает нам природа.&lt;/p&gt;    &lt;h2&gt;Где купить&lt;/h2&gt;    &lt;p&gt;Купить батончик без сахара Vitberry можно уже сегодня в нашем интернет магазине. Оформите заказ онлайн и получите быструю доставку по всей Украине прямо домой или в офис по приятной цене.&lt;/p&gt;</description_ru>
-        <price>54</price>
-        <categoryId>1118</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-92063738742071_+621c3e750a.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-71340515854290_+0adf5bdfe7.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-55899467931929_+0585a453c9.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-11141056651848_+34b453afbe.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/12/batonchyk-horikhovo-fruktovyi-smak-polunytsia-bazylik-40-h-36942311328248_+3ec7e934a5.jpg</picture>
-        <param name="Склад">Фінік, мигдаль, сублімована полуниця, базилік, лляне насіння</param>
-        <param name="Тип">Батончик</param>
-        <param name="БЖВ">Білки, г – 2,06 Жири, г – 2,93 Насичені Жири, г – 0,23 Вуглеводи, г – 21,81 Клітковина, г – 3,14 Сахара, г – 21,19.</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">ккал – 115,97 кДж – 486,49</param>
-        <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Упаковка">Флоу-пак у картонній коробці</param>
-        <param name="Вага">40г</param>
-        <param name="Вміст цукру">Без доданого цукру</param>
-      </offer>
       <offer id="9080" available="false">
         <name_ua>Батончик протеїновий, смак яблуко-кориця, 40 г</name_ua>
         <name_ru>Протеиновый батончик, вкус яблоко-корица, 40 г</name_ru>
@@ -5285,30 +5309,6 @@
         <param name="БЖВ">Білки, г – 6,46 Жири, г – 1,53 Насичені Жири, г – 0,18 Вуглеводи, г – 20,35 Клітковина, г – 2,51 Сахара, г – 19,15.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал – 117,25 кДж – 493,39</param>
-        <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Упаковка">Флоу-пак у картонній коробці</param>
-        <param name="Вага">40г</param>
-        <param name="Вміст цукру">Без доданого цукру</param>
-      </offer>
-      <offer id="9100" available="false">
-        <name_ua>Батончик протеїновий, смак банан, 40 г</name_ua>
-        <name_ru>Протеиновый батончик, вкус банан, 40 г</name_ru>
-        <description_ua>&lt;h2&gt;Протеїновий батончик з бананом Vitberry&lt;/h2&gt;    &lt;p&gt;Протеїновий батончик з бананом Vitberry — це поживний перекус із натуральних інгредієнтів та додатковим джерелом білка, у якому поєднані фінік, сироватковий протеїн, сублімований банан та волоський горіх.&lt;/p&gt;    &lt;h2&gt;Кому підійде&lt;/h2&gt;    &lt;p&gt;Батончик підходить для тих, хто шукає швидке джерело білка після тренування або корисний перекус у дорогу. Це також чудовий варіант для тих, хто хоче замінити звичайні солодощі на більш збалансований продукт без зайвих добавок.&lt;/p&gt;    &lt;h2&gt;Склад продукту&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;фінік&lt;/li&gt;   &lt;li&gt;сироватковий протеїн&lt;/li&gt;   &lt;li&gt;сублімований банан&lt;/li&gt;   &lt;li&gt;волоський горіх&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Натуральність і користь&lt;/h2&gt;    &lt;p&gt;Ми використовуємо лише натуральні складові, включно із сублімованими фруктами та якісним протеїном — такий склад зберігає максимум користі та забезпечує додаткове джерело білка.&lt;/p&gt;    &lt;h2&gt;Де купити&lt;/h2&gt;    &lt;p&gt;Купити протеїновий батончик Vitberry можна вже сьогодні в нашому інтернет-магазині. Ми пропонуємо приємну ціну та швидку доставку в будь-який куточок України й за кордон. Замовляйте онлайн і насолоджуйтесь натуральним смаком та користю.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Протеиновый батончик с бананом Vitberry&lt;/h2&gt;    &lt;p&gt;Протеиновый батончик с бананом Vitberry – это питательный перекус из натуральных ингредиентов и дополнительным источником белка, в котором соединены финик, сывороточный протеин, сублимированный банан и грецкий орех.&lt;/p&gt;    &lt;h2&gt;Кому подойдет&lt;/h2&gt;    &lt;p&gt;Батончик подходит для ищущих быстрый источник белка после тренировки или полезный перекус в дорогу. Это также отличный вариант для тех, кто хочет заменить обычные сладости на более сбалансированный продукт без лишних добавок.&lt;/p&gt;    &lt;h2&gt;Состав продукта&lt;/h2&gt;    &lt;ul&gt;   &lt;li&gt;финик&lt;/li&gt;   &lt;li&gt;сывороточный протеин&lt;/li&gt;   &lt;li&gt;сублимированный банан&lt;/li&gt;   &lt;li&gt;грецкий орех&lt;/li&gt;  &lt;/ul&gt;    &lt;h2&gt;Естественность и польза&lt;/h2&gt;    &lt;p&gt;Мы используем только натуральные составляющие, включая сублимированные фрукты и качественный протеин — такой состав сохраняет максимум пользы и обеспечивает дополнительный источник белка.&lt;/p&gt;    &lt;h2&gt;Где купить&lt;/h2&gt;    &lt;p&gt;Купить протеиновый батончик Vitberry можно уже сегодня в нашем интернет магазине. Мы предлагаем приятную цену и быструю доставку в любую точку Украины и за рубеж. Заказывайте онлайн и наслаждайтесь натуральным вкусом и пользой.&lt;/p&gt;</description_ru>
-        <price>54</price>
-        <categoryId>1118</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-70806000056441_+cd33eb4c7c.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-12779921809163_+d02bb0f524.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-60408063064611_+8e04aeefbf.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-84438762220878_+ed9029fda7.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-47787335372606_+d3599b291f.jpg</picture>
-        <param name="Склад">Фінік, сироватковий протеїн, сублімований банан, волоський горіх</param>
-        <param name="Тип">Батончик</param>
-        <param name="БЖВ">Білки, г – 6,87 Жири, г – 1,69 Насичені Жири, г – 0,21 Вуглеводи, г – 19,98 Клітковина, г – 2,22 Сахара, г – 19,28.</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">ккал – 118,93 кДж – 500,59</param>
         <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Упаковка">Флоу-пак у картонній коробці</param>
