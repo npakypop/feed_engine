@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-03 02:48">
+<yml_catalog date="2026-08-03 09:44">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -4849,7 +4849,7 @@
         <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-84263134159724_+29aef96d8c.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-36140018568270_+b6c69ef41d.png</picture>
         <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-23870332349306_+9c8ac94203.jpg</picture>
-        <param name="Склад">Наполнитель «Клубника» (ягоды, сахар, вода, стабилизаторы, красители, ароматизатор), кокосовое масло, сухое обезжиренное молоко, глюкозный сироп, основа «Клубника» (пюре, ароматизаторы, красители, антиоксидант), глицерин, стабилизаторы.</param>
+        <param name="Склад">Наповнювач «Полуниця» (ягоди, цукор, вода, стабілізатори, барвники, ароматизатор), кокосова олія, сухе знежирене молоко, глюкозний сироп, основа «Полуниця» (пюре, ароматизатори, барвники, антиоксидант), гліцерин, стабілізатори.</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 0,58 г / Жири: 0,0 г / Вуглеводи: 96,86 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5167,7 +5167,7 @@
         <picture>https://vitberry.com.ua/content/images/30/dzhem-dynia-z-polunytseiu-31772145113102_+4fc734cb50.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/dzhem-dynia-z-polunytseiu-88120123825795_+81d936ce8e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/dzhem-dynia-z-polunytseiu-66194081846751_+7087407b27.jpg</picture>
-        <param name="Склад">Дыня свежая или замороженная 49,5%, клубника свежая или замороженная 9,5%, сахар 40%, натуральный пищевой загуститель агар-агар – 1%.</param>
+        <param name="Склад">Диня свіжа чи заморожена 49,5%, полуниця свіжа чи заморожена 9,5%, цукор 40%, натуральний харчовий загусник агар-агар – 1%.</param>
         <param name="БЖВ">Білки: 0 г / Жири: 0 г / Вуглеводи: 57,00 г</param>
         <param name="Умови зберігання">Температура: від 0 C до 25 CВологість повітря: не більше 75%Зберігати в захищених від сонячних променів приміщеннях в оригінальній нерозкритій упаковці.Після відкриття продукту зберігати в холодильнику і використовувати протягом 7 днів.</param>
         <param name="Енергетична цінність, 100 г">228 ккал /955 кДж</param>
@@ -5413,8 +5413,8 @@
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-60924506934390_+20901ccbcb.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-85103634888800_+c78c8a2102.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/41/drazhe-funduk-v-chornomu-shokoladi-100-h-tm-vitberry-74248406559808_+b05089e7c2.jpg</picture>
-        <param name="Склад">Состав: шоколад черный (какао тертое, сахар, какао-масло, эмульгатор: соевый лецитин, ваниль натуральная), ядро ​​ореха фундука цельное жареное (49%), глазующий агент (гумиарабик, сахароза, глюкозный сироп, растительная пальма) глазующий агент (шеллак, ра</param>
-        <param name="БЖВ">білків-11,1 г; жирів – 51,7 г; їх насичені – 10,8 р; вуглеводів-28,7 г, із них цукру – 22,0 г, сіль – 0,004 г.</param>
+        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука незбиране смажене (49%), глазующий агент (гуміарабік, сахароза, глюкозний сироп, рослинна паль</param>
+        <param name="БЖВ">белков-11,1 г; жиров – 51,7 г; из них насыщенные – 10,8 г; углеводов-28,7 г, из них сахара – 22,0 г, соль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2658 кДж 635 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -5524,7 +5524,7 @@
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-30240063831922_+ec94d47234.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-66054012708915_+e5a99881dc.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-11802981829425_+5c821a88fe.jpg</picture>
-        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе незбиране, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Вишня» (молоко знежирене, цукор, фруктовий наповнювач "Вишня" (13 %) (цукор, вода питна, плоди) кислота</param>
+        <param name="Склад">шоколад белый (сахар, какао-масло, молоко сухое цельное, эмульгатор: соевый лецитин, ваниль натуральная), мороженое сублимированное «Вишня» (молоко обезжиренное, сахар, фруктовый наполнитель "Вишня" (13 %) (сахар, вода питьевая, плоды) кислота, ароматизат</param>
         <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
@@ -5544,7 +5544,7 @@
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-83790387914497_+78971692d3.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-30149572896763_+e151815faf.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-51936538339880_+4887e7473e.jpg</picture>
-        <param name="Склад">шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4 %), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), мороженое сублимированное «Пломбир» (молоко ультрапастеризованное (63,13 %), сахар, сливки (10 %) глюкоза, стабилизирующая</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %)</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -5584,7 +5584,7 @@
         <picture>https://vitberry.com.ua/content/images/21/morozyvo-sublimovane-v-molochnomu-shokoladi-polunychne-100h-74609690756758_+a90d44d968.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/morozyvo-sublimovane-v-molochnomu-shokoladi-polunychne-100h-51167646383158_+290b823751.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/morozyvo-sublimovane-v-molochnomu-shokoladi-polunychne-100h-47878471418311_+f4f19a1274.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Полуниця» (наповнювач фруктово-ягідний «Полуниця» (15 %), полуниця (45)</param>
+        <param name="Склад">шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4 %), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), мороженое сублимированное «Клубника» (наполнитель фруктово-ягодный «Клубника» (15 %), клубника (45) (модифицированный крахм</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -5789,7 +5789,7 @@
         <param name="Тип">Набір</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">1 рік</param>
+        <param name="Термін зберігання, міс.">1 год</param>
         <param name="Вага">125</param>
       </offer>
       <offer id="ic-00025" available="false">
