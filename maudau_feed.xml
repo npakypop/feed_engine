@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-13 01:58">
+<yml_catalog date="2026-08-13 07:26">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -4631,7 +4631,7 @@
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
         <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе цільне, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
-        <param name="БЖВ">белков –5,3 g(г); жиров –25,8 g(г), из них насыщены –11,4 g(г); углеводов –41,1 g(г), из них сахара –27,4 g(г); соль –0,11 g (г).</param>
+        <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
         <param name="Особливості">Не тане і готове до вживання</param>
@@ -4650,7 +4650,7 @@
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-30240063831922_+ec94d47234.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-66054012708915_+e5a99881dc.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-11802981829425_+5c821a88fe.jpg</picture>
-        <param name="Склад">шоколад белый (сахар, какао-масло, молоко сухое цельное, эмульгатор: соевый лецитин, ваниль натуральная), мороженое сублимированное «Вишня» (молоко обезжиренное, сахар, фруктовый наполнитель "Вишня" (13 %) (сахар, вода питьевая, плоды) кислота, ароматизат</param>
+        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе незбиране, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Вишня» (молоко знежирене, цукор, фруктовий наповнювач "Вишня" (13 %) (цукор, вода питна, плоди) кислота</param>
         <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
@@ -4753,7 +4753,7 @@
         <picture>https://vitberry.com.ua/content/images/18/syr-hauda-green-pesto-100h-40858771589172_+9816de9ec2.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, базилік (0,2%), пажитник (0,5%), сіль харчова, закваска, фермент сичужний, часник (0,1%), хлорофіл Е141.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жиры 33,5 г, белки 18,9 г, углеводы 1,5 г</param>
+        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
