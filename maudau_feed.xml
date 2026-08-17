@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-08-17 06:54">
+<yml_catalog date="2026-08-17 12:42">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -2283,7 +2283,7 @@
         <param name="Тип">Свинина</param>
         <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380 ккал</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
@@ -3053,7 +3053,7 @@
         <param name="Тип">Свинина</param>
         <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380 ккал</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
@@ -3262,7 +3262,7 @@
         <param name="Тип">Свинина</param>
         <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380 ккал</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
@@ -3282,7 +3282,7 @@
         <param name="Тип">Свинина</param>
         <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380 ккал</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
@@ -3304,7 +3304,7 @@
         <param name="Тип">Свинина</param>
         <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380 ккал</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
@@ -3324,7 +3324,7 @@
         <param name="Тип">Свинина</param>
         <param name="БЖВ">Білки 35,5%, вуглеводи 0,2%, жири 26%</param>
         <param name="Умови зберігання">Від 0 ° C до 24 ° C і відносна вологість повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">380 ккал</param>
+        <param name="Енергетична цінність, 100 г">380ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
@@ -4458,7 +4458,7 @@
         <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
         <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">2293 кДж /548 ккал;</param>
+        <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">7</param>
         <param name="Упаковка">Пластикова баночка</param>
@@ -4693,7 +4693,7 @@
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-26607065639958_+8381072e96.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-61012243877770_+8a74b696ec.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-45450718137533_+373b8c01cd.jpg</picture>
-        <param name="Склад">шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4 %), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), мороженое сублимированное «Лесные ягоды» (молоко обезжиренное, наполнитель плодово-ягодный «Черница-ежина %), сахар, вода п</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -4798,7 +4798,7 @@
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-88885924189299_+f04de41608.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-61518537819363_+be1d30e25f.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-99818768526741_+a8d35d70c7.jpg</picture>
-        <param name="Склад">Молоко коровье нормализованное пастеризованное, соль, хлористый калий гранулянт 94-97%, пищевой краситель натуральный аннато, бактериальная закваска и культура</param>
+        <param name="Склад">Молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій гранулянт 94-97%, харчовий барвник натуральний аннато, бактеріальна закваска та культура</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 28г, білки 23г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -4842,7 +4842,7 @@
         <picture>https://vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-87064701029278_+3059ba15f5.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-24954441200708_+2987feae83.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-43425763616063_+ca6de11584.jpg</picture>
-        <param name="Склад">Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий, гранулянт 94-97% пищевой, краситель натуральный аннато, бактериальная закваска и культура, молокоосаждающий фермент)</param>
+        <param name="Склад">Сир (молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій, гранулянт 94-97% харчовий, барвник натуральний аннато, бактеріальна закваска та культура, молокоосаджувальний фермент)</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 50г, білки 58г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -4864,7 +4864,7 @@
         <picture>https://vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-32343874937279_+a534435261.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-34519712567300_+231fa4e8ac.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/38/syr-sushenyi-z-lavandoiu-51421055964154_+757c51c35c.jpg</picture>
-        <param name="Склад">Молоко коровье цельное, цветы лаванды (0,5%), соль пищевая, закваска, фермент сычужный, антоцианин Е163</param>
+        <param name="Склад">Молоко коров'яче незбиране, квіти лаванди (0,5%), сіль харчова, закваска, фермент сичужний, антоціанін Е163</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5015,7 +5015,7 @@
         <picture>https://vitberry.com.ua/content/images/42/nabir-sublimovanoho-morozyva-v-shokoladi-6-smakiv-24267426148640_+e289dd70ea.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/42/nabir-sublimovanoho-morozyva-v-shokoladi-6-smakiv-69283993720782_+2a2eee502d.jpg</picture>
         <param name="Тип">Набір</param>
-        <param name="БЖВ">Белок: 4,20 г / Жиры: 14,04 г / Углеводы : 27,00 г</param>
+        <param name="БЖВ">Білок: 4,20 г / Жири: 14,04 г / Вуглеводи: 27,00 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">250,8 ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
