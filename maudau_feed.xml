@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-07 22:49">
+<yml_catalog date="2026-10-08 04:48">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -1890,7 +1890,7 @@
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-39021240495773_+9fa5e20805.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-13271582976511_+cee30814e0.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-43204081338688_+0a662f04c4.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
+        <param name="Склад">Шоколад молочний (цукор, какао-масло, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків-4,3 г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,9 г, з них цукру – 35,2 г, сіль – 0,12 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -1983,32 +1983,6 @@
         <param name="БЖВ">білки – 5,0 г; жири – 29,9 г; їх насичені – 18,4 р; вуглеводи – 41,7 г, із них цукру – 37,6 г</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">471 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
-      </offer>
-      <offer id="1008" available="true">
-        <name_ua>Сублімована полуниця в чорному шоколаді, 50 г</name_ua>
-        <name_ru>Сублимированная клубника в черном шоколаде, 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98602939258263_+ae3bd50579.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98633069921362_+d613b00f90.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-42531166913791_+4b53c75127.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-65794939958026_+00a73c1913.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-33703146838670_+b2c58680e4.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-11177320917522_+1d4daea5bf.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-77039546906871_+8aaaffb6c6.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-95845308416807_+4cb9218359.jpg</picture>
-        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), полулімована полуниця.</param>
-        <param name="Тип">У чорному шоколаді</param>
-        <param name="БЖВ">білки – 5,6 г; жири – 33,2 г; їх насичені – 20,4 р; вуглеводи – 48,3 г, із них цукру – 44,1 г</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">532 ккал</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">6</param>
         <param name="Упаковка">Дой-пак</param>
@@ -2898,28 +2872,6 @@
         <param name="Особливості">Без глютену, vegan friendly, без доданого цукру, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
         <param name="Країна виробник">Україна</param>
       </offer>
-      <offer id="8000" available="true">
-        <name_ua>Натуральний Вишневий джем з волоським горіхом, 230 г</name_ua>
-        <name_ru>Натуральный Вишневый джем с грецким орехом, 230 г</name_ru>
-        <description_ua>&lt;div&gt;  &lt;h2&gt;Джем Вишня з волоським горіхом&lt;/h2&gt;    &lt;p&gt;&lt;b&gt;Це справжня насолода!&lt;/b&gt; Ми готуємо його за традиційними домашніми рецептами, де кожен компонент має значення.&lt;/p&gt;    &lt;p&gt;З дитинства ми пам’ятаємо ароматне варення з вишні, яке готували наші бабусі. Цей вишневий джем з волоським горіхом зберігає традиційний смак домашнього варення, але доступний для покупки у будь-яку пору року — замовляйте і насолоджуйтесь!&lt;/p&gt;    &lt;p&gt;У складі лише &lt;b&gt;натуральні інгредієнти&lt;/b&gt; — жодних консервантів, хімії та підсилювачів смаку. Джем виробляється так, ніби ви готували самі на власній кухні — для себе!&lt;/p&gt;    &lt;h3&gt;Склад продукту:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Вишня свіжа або заморожена — &lt;b&gt;49,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Цукор — &lt;b&gt;40%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Волоський горіх — &lt;b&gt;9,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Загусник агар-агар (натуральний) — &lt;b&gt;1%&lt;/b&gt;&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;b&gt;Ми віримо,&lt;/b&gt; що справжній смак вишні та волоських горіхів не потребує компромісів.&lt;/p&gt;    &lt;p&gt;Якщо хочете купити джем, який поєднує &lt;b&gt;користь&lt;/b&gt; і &lt;b&gt;задоволення&lt;/b&gt; — ласкаво просимо до інтернет-магазину Vitberry.&lt;/p&gt;    &lt;p&gt;У нас приємна ціна, доставка по всій Україні та &lt;b&gt;жодних сюрпризів&lt;/b&gt; щодо вартості. &lt;em&gt;Спробуйте і переконайтесь самі!&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt;  &lt;h2&gt;Джем Вишня с грецким орехом&lt;/h2&gt;    &lt;p&gt;&lt;b&gt;Это настоящее удовольствие!&lt;/b&gt; Мы готовим его по традиционным домашним рецептам, где каждый компонент имеет значение.&lt;/p&gt;    &lt;p&gt;С детства мы помним ароматное варенье из вишни, которое готовили наши бабушки. Этот вишневый джем с грецким орехом сохраняет традиционный вкус домашнего варенья, но доступен для покупки в любое время года – заказывайте и наслаждайтесь!&lt;/p&gt;    &lt;p&gt;В составе только &lt;b&gt;натуральные ингредиенты&lt;/b&gt; — никаких консервантов, химии и усилителей вкуса. Джем производится так, как если бы вы готовили его сами на своей кухне — для себя!&lt;/p&gt;    &lt;h3&gt;Состав продукта:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Вишня свежая или замороженная — &lt;b&gt;49,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Сахар — &lt;b&gt;40%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Грецкий орех — &lt;b&gt;9,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Загуститель агар-агар (натуральный) — &lt;b&gt;1%&lt;/b&gt;&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;b&gt;Мы верим,&lt;/b&gt; что настоящий вкус вишни и грецких орехов не требует компромиссов.&lt;/p&gt;    &lt;p&gt;Если вы хотите купить джем, который сочетает в себе &lt;b&gt;пользу&lt;/b&gt; и &lt;b&gt;удовольствие&lt;/b&gt; — добро пожаловать в интернет-магазин Vitberry.&lt;/p&gt;    &lt;p&gt;У нас приятная цена, доставка по всей Украине и &lt;b&gt;никаких сюрпризов&lt;/b&gt; по стоимости. &lt;em&gt;Попробуйте и убедитесь сами!&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
-        <price>165</price>
-        <categoryId>1115</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-67975399305594_+fa7a46921f.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-98085246441882_+93483dc061.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-32433591391907_+70764ea776.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-28638763178634_+2f65a227ab.jpg</picture>
-        <param name="Склад">Свіжа або заморожена вишня 49,5%, цукор 40%, волоський горіх 9,5%, натуральний харчовий загусник агар-агар - 1%.</param>
-        <param name="БЖВ">Білки: 0 г / Жири: 6 г / Вуглеводи: 62,00 г</param>
-        <param name="Умови зберігання">Температура: від 0 C до 25 CВологість повітря: не більше 75%Зберігати в захищених від сонячних променів приміщеннях в оригінальній нерозкритій упаковці.Після відкриття продукту зберігати в холодильнику і використовувати протягом 7 днів.</param>
-        <param name="Енергетична цінність, 100 г">248 ккал /1039 кДж</param>
-        <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">24</param>
-        <param name="Упаковка">Банка скляна</param>
-        <param name="Вага">230г</param>
-      </offer>
       <offer id="8020" available="true">
         <name_ua>Натуральний Джем із чорної смородини, 230 г</name_ua>
         <name_ru>Натуральный Джем из черной смородины, 230 г</name_ru>
@@ -3473,7 +3425,7 @@
         <picture>https://vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-75991081592357_+204a951889.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-71215322887195_+56a98104ba.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/37/drazhe-funduk-v-molochnomu-shokoladi-100-h-tm-vitberry-32363561740607_+bb9b7a8d0c.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука незбиране смажене (49%), сахароза, сахароза,</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха фундука цільне смажене (49%), сахароза, сахароза,</param>
         <param name="БЖВ">білків-11,7г; жирів – 51,7 г; їх насичені – 10,7 р; вуглеводів-31,8 г, із них цукру – 26,1 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2690 кДж/643 ккал;</param>
@@ -3515,8 +3467,8 @@
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-77496964170980_+8829a4da66.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-41286830537782_+dce9ab5425.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-38867492776965_+603326c5bb.jpg</picture>
-        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), поглинаючий агент (гуміарабік, сахароза, глюкозний сироп, рослинна пальма)</param>
-        <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, із них цукру – 22,0 г, сіль – 0,004 г.</param>
+        <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), глазующий агент (гуміарабік, сахароза, глюкозний сироп, рослинна пальма)</param>
+        <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, їх цукру – 22,0 г, сіль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2446 кДж/585 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -3536,7 +3488,7 @@
         <picture>https://vitberry.com.ua/content/images/49/drazhe-myhdal-v-molochnomu-shokoladi-100-h-tm-vitberry-92622455150965_+68a2ff9294.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/49/drazhe-myhdal-v-molochnomu-shokoladi-100-h-tm-vitberry-89531271677120_+eace17c9f2.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/49/drazhe-myhdal-v-molochnomu-shokoladi-100-h-tm-vitberry-57805308980200_+5f0f0e9614.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), сахароза, сахароза, цумізараб,</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), сахароза, сахароза, сахароза,</param>
         <param name="БЖВ">білків – 13,0 г; жирів – 45,0 г; їх насичені – 10,7 р; вуглеводів – 31,3 г, із них цукру – 26,1 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2477 кДж /592 ккал</param>
@@ -3685,7 +3637,7 @@
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-26607065639958_+8381072e96.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-61012243877770_+8a74b696ec.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-45450718137533_+373b8c01cd.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -3748,7 +3700,7 @@
         <picture>https://vitberry.com.ua/content/images/18/syr-hauda-green-pesto-100h-40858771589172_+9816de9ec2.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, базилік (0,2%), пажитник (0,5%), сіль харчова, закваска, фермент сичужний, часник (0,1%), хлорофіл Е141.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
+        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -3770,7 +3722,7 @@
         <picture>https://vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-34780851506910_+00884f4c8e.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, чорнило каракатиці (0,1%), сіль харчова, закваска стартових культур, фермент сичужний.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
+        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4755,7 +4707,7 @@
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-39021240495773_+9fa5e20805.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-13271582976511_+cee30814e0.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-43204081338688_+0a662f04c4.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
+        <param name="Склад">Шоколад молочний (цукор, какао-масло, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків-4,3 г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,9 г, з них цукру – 35,2 г, сіль – 0,12 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -5509,6 +5461,32 @@
         <param name="Термін зберігання, міс.">24</param>
         <param name="Упаковка">Дой-пак</param>
       </offer>
+      <offer id="1008" available="false">
+        <name_ua>Сублімована полуниця в чорному шоколаді, 50 г</name_ua>
+        <name_ru>Сублимированная клубника в черном шоколаде, 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98602939258263_+ae3bd50579.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98633069921362_+d613b00f90.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-42531166913791_+4b53c75127.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-65794939958026_+00a73c1913.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-33703146838670_+b2c58680e4.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-11177320917522_+1d4daea5bf.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-77039546906871_+8aaaffb6c6.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-95845308416807_+4cb9218359.jpg</picture>
+        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), полулімована полуниця.</param>
+        <param name="Тип">У чорному шоколаді</param>
+        <param name="БЖВ">білки – 5,6 г; жири – 33,2 г; їх насичені – 20,4 р; вуглеводи – 48,3 г, із них цукру – 44,1 г</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">532 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
       <offer id="2010" available="false">
         <name_ua>М’ясні та сирні снеки, 8 смаків, 320 г</name_ua>
         <name_ru>Мясные и сырные снеки, 8 вкусов, 320 г</name_ru>
@@ -5526,7 +5504,7 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
-        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка по Закарпатськи" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
+        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка Закарпатською" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
       </offer>
       <offer id="2015" available="false">
         <name_ua>Джерки з яловичини "Ultimate" 250 г</name_ua>
@@ -5703,7 +5681,7 @@
         <picture>https://vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-19337539475392_+e5d5b5cfcd.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-93177449782410_+0aff09c7e1.png</picture>
         <picture>https://vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-75823804952223_+c239edf85e.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Ананас» 15% (ананас, цукор, стабілізатори, ароматизатор, барвник), цукор, вода, кокосове масло, основа «Ананас» 4% (сік, стабілізатори, ароматизатор), сухе молоко, гліцерин, глюкозний сироп, стабілізатори, барвник.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Ананас» 15% (ананас, цукор, стабілізатори, ароматизатор, барвник), цукор, вода, кокосова олія, основа «Ананас» 4% (сік, стабілізатори, ароматизатор), сухе молоко, гліцерин, глюкозний сироп, стабілізатори, барвник.</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 4,93 г / Жири: 15,08 г / Вуглеводи: 77,14 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -5722,7 +5700,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/7/sublimovane-morozyvo-ananas1506-32731283403947_+8b4d90f286.jpg</picture>
-        <param name="Склад">Знежирене молоко, наповнювач «Ананас» 15% (ананас, цукор, стабілізатори, ароматизатор, барвник), цукор, вода, кокосове масло, основа «Ананас» 4% (сік, стабілізатори, ароматизатор), сухе молоко, гліцерин, глюкозний сироп, стабілізатори, барвник.</param>
+        <param name="Склад">Знежирене молоко, наповнювач «Ананас» 15% (ананас, цукор, стабілізатори, ароматизатор, барвник), цукор, вода, кокосова олія, основа «Ананас» 4% (сік, стабілізатори, ароматизатор), сухе молоко, гліцерин, глюкозний сироп, стабілізатори, барвник.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 4,93 г / Жири: 15,08 г / Вуглеводи: 77,14 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -6169,6 +6147,28 @@
         <param name="Особливості">Без глютену, vegan friendly, без доданого цукру, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
         <param name="Країна виробник">Україна</param>
       </offer>
+      <offer id="8000" available="false">
+        <name_ua>Натуральний Вишневий джем з волоським горіхом, 230 г</name_ua>
+        <name_ru>Натуральный Вишневый джем с грецким орехом, 230 г</name_ru>
+        <description_ua>&lt;div&gt;  &lt;h2&gt;Джем Вишня з волоським горіхом&lt;/h2&gt;    &lt;p&gt;&lt;b&gt;Це справжня насолода!&lt;/b&gt; Ми готуємо його за традиційними домашніми рецептами, де кожен компонент має значення.&lt;/p&gt;    &lt;p&gt;З дитинства ми пам’ятаємо ароматне варення з вишні, яке готували наші бабусі. Цей вишневий джем з волоським горіхом зберігає традиційний смак домашнього варення, але доступний для покупки у будь-яку пору року — замовляйте і насолоджуйтесь!&lt;/p&gt;    &lt;p&gt;У складі лише &lt;b&gt;натуральні інгредієнти&lt;/b&gt; — жодних консервантів, хімії та підсилювачів смаку. Джем виробляється так, ніби ви готували самі на власній кухні — для себе!&lt;/p&gt;    &lt;h3&gt;Склад продукту:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Вишня свіжа або заморожена — &lt;b&gt;49,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Цукор — &lt;b&gt;40%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Волоський горіх — &lt;b&gt;9,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Загусник агар-агар (натуральний) — &lt;b&gt;1%&lt;/b&gt;&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;b&gt;Ми віримо,&lt;/b&gt; що справжній смак вишні та волоських горіхів не потребує компромісів.&lt;/p&gt;    &lt;p&gt;Якщо хочете купити джем, який поєднує &lt;b&gt;користь&lt;/b&gt; і &lt;b&gt;задоволення&lt;/b&gt; — ласкаво просимо до інтернет-магазину Vitberry.&lt;/p&gt;    &lt;p&gt;У нас приємна ціна, доставка по всій Україні та &lt;b&gt;жодних сюрпризів&lt;/b&gt; щодо вартості. &lt;em&gt;Спробуйте і переконайтесь самі!&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt;  &lt;h2&gt;Джем Вишня с грецким орехом&lt;/h2&gt;    &lt;p&gt;&lt;b&gt;Это настоящее удовольствие!&lt;/b&gt; Мы готовим его по традиционным домашним рецептам, где каждый компонент имеет значение.&lt;/p&gt;    &lt;p&gt;С детства мы помним ароматное варенье из вишни, которое готовили наши бабушки. Этот вишневый джем с грецким орехом сохраняет традиционный вкус домашнего варенья, но доступен для покупки в любое время года – заказывайте и наслаждайтесь!&lt;/p&gt;    &lt;p&gt;В составе только &lt;b&gt;натуральные ингредиенты&lt;/b&gt; — никаких консервантов, химии и усилителей вкуса. Джем производится так, как если бы вы готовили его сами на своей кухне — для себя!&lt;/p&gt;    &lt;h3&gt;Состав продукта:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;Вишня свежая или замороженная — &lt;b&gt;49,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Сахар — &lt;b&gt;40%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Грецкий орех — &lt;b&gt;9,5%&lt;/b&gt;&lt;/li&gt;   &lt;li&gt;Загуститель агар-агар (натуральный) — &lt;b&gt;1%&lt;/b&gt;&lt;/li&gt;  &lt;/ul&gt;    &lt;p&gt;&lt;b&gt;Мы верим,&lt;/b&gt; что настоящий вкус вишни и грецких орехов не требует компромиссов.&lt;/p&gt;    &lt;p&gt;Если вы хотите купить джем, который сочетает в себе &lt;b&gt;пользу&lt;/b&gt; и &lt;b&gt;удовольствие&lt;/b&gt; — добро пожаловать в интернет-магазин Vitberry.&lt;/p&gt;    &lt;p&gt;У нас приятная цена, доставка по всей Украине и &lt;b&gt;никаких сюрпризов&lt;/b&gt; по стоимости. &lt;em&gt;Попробуйте и убедитесь сами!&lt;/em&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
+        <price>165</price>
+        <categoryId>1115</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-67975399305594_+fa7a46921f.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-98085246441882_+93483dc061.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-32433591391907_+70764ea776.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/14/dzhem-vyshnia-z-voloskym-horikhom-28638763178634_+2f65a227ab.jpg</picture>
+        <param name="Склад">Свіжа або заморожена вишня 49,5%, цукор 40%, волоський горіх 9,5%, натуральний харчовий загусник агар-агар - 1%.</param>
+        <param name="БЖВ">Білки: 0 г / Жири: 6 г / Вуглеводи: 62,00 г</param>
+        <param name="Умови зберігання">Температура: від 0 C до 25 CВологість повітря: не більше 75%Зберігати в захищених від сонячних променів приміщеннях в оригінальній нерозкритій упаковці.Після відкриття продукту зберігати в холодильнику і використовувати протягом 7 днів.</param>
+        <param name="Енергетична цінність, 100 г">248 ккал /1039 кДж</param>
+        <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">24</param>
+        <param name="Упаковка">Банка скляна</param>
+        <param name="Вага">230г</param>
+      </offer>
       <offer id="8500" available="false">
         <name_ua>Аджика традиційна, 230 г</name_ua>
         <name_ru>Традиционная аджика, 230 г</name_ru>
@@ -6321,7 +6321,7 @@
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-83767011248221_+84887e2732.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
-        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе цільне, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
+        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе незбиране, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
         <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
