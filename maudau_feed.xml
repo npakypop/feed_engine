@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-09 22:20">
+<yml_catalog date="2026-10-10 04:37">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -1797,32 +1797,6 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
-      <offer id="1002" available="true">
-        <name_ua>Сублімована черешня в молочному шоколаді, 50 г</name_ua>
-        <name_ru>Сублимированная черешня в молочном шоколаде, 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-79041880007052_+22e4ec80d2.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-93644829570917_+f71e676e1d.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-94697963335530_+7a4bf97c67.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-30482283793632_+d2dac30a36.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-89636076526095_+2e0c3e47ca.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-62394334209713_+93d09f5330.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-39374593909779_+62dfd4f693.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-79853976245056_+40be6c93dc.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублиментована вишня. Може утримувати горіхи.</param>
-        <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">білків-4,5г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,5 г, їх цукру -31,2 г, сіль -0,12 г.</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">354 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
-      </offer>
       <offer id="1003" available="true">
         <name_ua>Сублімована полуниця в молочному шоколаді, 50 г</name_ua>
         <name_ru>Сублимированная клубника в молочном шоколаде, 50 г</name_ru>
@@ -1890,7 +1864,7 @@
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-39021240495773_+9fa5e20805.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-13271582976511_+cee30814e0.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-43204081338688_+0a662f04c4.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
+        <param name="Склад">Шоколад молочний (цукор, какао-масло, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків-4,3 г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,9 г, з них цукру – 35,2 г, сіль – 0,12 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -2309,7 +2283,7 @@
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-52572403477107_+e28bcf302a.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-19993743732137_+8a5ba9f76d.png</picture>
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-82102225796988_+5b480d6e07.jpg</picture>
-        <param name="Склад">Знежирене молоко, цукор, кокосове масло, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р «</param>
+        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р</param>
         <param name="Вага">20 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2328,7 +2302,7 @@
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/17/sublimovane-morozyvo-fistashka1516-48763348457806_+f272c32503.jpg</picture>
-        <param name="Склад">Знежирене молоко, цукор, кокосове масло, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р «</param>
+        <param name="Склад">Знежирене молоко, цукор, кокосова олія, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -2485,6 +2459,28 @@
         <picture>https://vitberry.com.ua/content/images/17/khrustki-palychky-suluhuni-bekon-250-h-53107299384101_+d50ec2be6a.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/17/khrustki-palychky-suluhuni-bekon-250-h-81702130491218_+f70a6d67b5.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/17/khrustki-palychky-suluhuni-bekon-250-h-73134684717285_+470df536f2.jpg</picture>
+        <param name="Тип">Снеки</param>
+        <param name="БЖВ">жири: 26,8 г; білки: 25 г.</param>
+        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
+        <param name="Енергетична цінність, 100 г">342 ккал.</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">250 г</param>
+      </offer>
+      <offer id="3040" available="true">
+        <name_ua>Сушений сир сулугуні Вишня - Палички, 250 г</name_ua>
+        <name_ru>Хрустящие палочки Сулугуни Вишня, 250 г</name_ru>
+        <description_ua>&lt;p&gt;Спробуйте незвичайне! Сирні палички Vitberry (Сулугуні) зі смаком вишні   це сміливе поєднання для тих, хто шукає нові смаки. Класичний солонуватий смак хрусткого сулугуні делікатно відтіняється легкою солодкою ноткою в'яленої вишні. Ідеально для крафтових сортів пива.&lt;/p&gt;&lt;p&gt;Це не просто закуска, а справжній гастрономічний досвід.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Високий вміст білка (25 г) та 100% натуральна сирна основа. Насолоджуйтесь оригінальним смаком без консервантів та ГМО.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 25 г, Жири: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Молоко коров'яче незбиране, сіль харчова, фермент мікробіального походження, молочнокислі бактерії, натуральний ароматизатор "Вишня". Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Насолоджуйтесь несподіваним, але гармонійним смаком, який змусить вас по-новому поглянути на сирні снеки.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;p&gt;Попробуйте что-то необычное! Сырные палочки Vitberry (сулугуни) со вкусом вишни   это смелое сочетание для тех, кто ищет новые вкусы. Классический солоноватый вкус хрустящего сулугуни деликатно оттеняется лёгкой сладкой ноткой вяленой вишни. Идеально к крафтовому пиву.&lt;/p&gt;&lt;p&gt;Это не просто закуска, это настоящий гастрономический опыт.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Высокое содержание белка (25 г) и 100% натуральная сырная основа. Наслаждайтесь оригинальным вкусом без консервантов и ГМО.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 25 г, Жиры: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Молоко коровье цельное, соль пищевая, фермент микробного происхождения, молочнокислые бактерии, натуральный ароматизатор  Вишня . Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Наслаждайтесь неожиданным, но гармоничным вкусом, который заставит вас по-новому посмотреть на сырные снеки.&lt;/p&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1101</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-90608650333555_+e4b2f7264d.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-65351648154636_+47c289de04.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-46320986191780_+18705f6f92.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-61725050323336_+92c3ee0f98.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-81672796122544_+10388629ef.jpg</picture>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">жири: 26,8 г; білки: 25 г.</param>
         <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
@@ -3043,7 +3039,7 @@
         <picture>https://vitberry.com.ua/content/images/50/sous-z-chornoiu-smorodynoiu-215-h-99212893272971_+d13d4c3a94.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/50/sous-z-chornoiu-smorodynoiu-215-h-64200748175990_+9d51183a3f.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/50/sous-z-chornoiu-smorodynoiu-215-h-87561084706707_+2039063871.jpg</picture>
-        <param name="Склад">Чорна смородина, цукор, свіжий гострий перець, часник, сіль, паприка, коріандр, мелений червоний перець, суміш перців, вода</param>
+        <param name="Склад">Чорна смородина, цукор, свіжий червоний перець, часник, сіль, паприка, коріандр, мелений червоний перець, суміш перців, вода</param>
         <param name="Тип">Соус</param>
         <param name="БЖВ">Білки: 1 г / Жири: 1 г / Вуглеводи: 9,00 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -3267,29 +3263,6 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
-      <offer id="1045" available="true">
-        <name_ua>Малина сублімована в білому шоколаді, 50 г</name_ua>
-        <name_ru>Малина сублимированная в белом шоколаде., 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-23602015476732_+7809f71b62.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-97631322807290_+80734f328b.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-87891927266574_+15d185f285.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-98135405061056_+c331df6c78.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-83024518149305_+03fde389e7.jpg</picture>
-        <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина. Може мати сліди горіхів.</param>
-        <param name="Тип">У білому шоколаді</param>
-        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; з них насичені - 11,0 г; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">1915 кДж/457 ккал;</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
-      </offer>
       <offer id="1049" available="true">
         <name_ua>Манго сублімований в білому шоколаді, 50г</name_ua>
         <name_ru>Манго сублимированный в белом шоколаде, 50г.</name_ru>
@@ -3497,27 +3470,6 @@
         <param name="Упаковка">Пластикова баночка</param>
         <param name="Вага">100 г</param>
       </offer>
-      <offer id="SW-00017" available="true">
-        <name_ua>Кеш'ю в молочному шоколаді, 100 г</name_ua>
-        <name_ru>Кешью в молочном шоколаде, 100 г</name_ru>
-        <description_ua>&lt;div&gt; &lt;h2&gt;Кеш'ю в молочному шоколаді — ніжність, від якої неможливо відірватися&lt;/h2&gt; &lt;p&gt;Пориньте у світ кремової насолоди з нашим кеш'ю в молочному шоколаді. М'який, ледь солодкуватий смак добірного горіха кеш'ю ідеально поєднується з оксамитовою текстурою ніжного молочного шоколаду (34% какао). Це не просто драже, а справжній десерт, що дарує відчуття затишку та тепла. Кожен шматочок просто тане в роті, залишаючи приємний вершково-горіховий післясмак.&lt;/p&gt; &lt;h2&gt;Чому ви закохаєтесь у наш кеш'ю в шоколаді?&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Ніжний смак кеш'ю:&lt;/strong&gt; Ми використовуємо цільні смажені горіхи кеш'ю (49%), які мають унікальну м'яку текстуру та делікатний солодкуватий присмак.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Кремовий молочний шоколад:&lt;/strong&gt; Якісна шоколадна глазур (34% какао) огортає кожен горішок, створюючи ідеальну смакову композицію.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ідеально для всієї родини:&lt;/strong&gt; Завдяки своєму м'якому смаку, цей смаколик подобається як дорослим, так і найменшим ласунам.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Зроблено в Україні:&lt;/strong&gt; Свіжий та якісний продукт від українського виробника, виготовлений з дотриманням найвищих стандартів.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Детальні характеристики:&lt;/h2&gt; &lt;p&gt;Вся інформація, яка допоможе вам зробити вибір:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Склад:&lt;/strong&gt; шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро горіха кеш'ю цільне смажене (49%), глазуруючі агенти.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Енергетична цінність на 100 г:&lt;/strong&gt; 2293 кДж / 548 ккал.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Поживна цінність на 100 г:&lt;/strong&gt; білки - 12,1 г; жири - 38,3 г (з них насичені – 10,6 г); вуглеводи - 41,7 г (з них цукри – 25,9 г); сіль – 0,10 г.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Термін зберігання:&lt;/strong&gt; 7 місяців у сухому прохолодному місці.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Країна виробник:&lt;/strong&gt; Україна.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Вага:&lt;/strong&gt; 100 г.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Додайте ніжності у свій день! Замовляйте кеш'ю в молочному шоколаді та насолоджуйтесь кожним шматочком.&lt;/p&gt; &lt;h3&gt;Часті питання:&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Чому кеш'ю в шоколаді здається м'якшим за інші горіхи?&lt;/strong&gt;&lt;br /&gt; Горіх кеш'ю від природи має більш м'яку та маслянисту структуру порівняно з фундуком чи мигдалем . У поєднанні з ніжним молочним шоколадом це створює унікальну, майже кремову текстуру, що тане в роті.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Чи сильно виражений смак самого горіха?&lt;/strong&gt;&lt;br /&gt; Кеш'ю має делікатний, ледь солодкуватий вершковий смак, який не перебиває, а гармонійно доповнює смак молочного шоколаду. Разом вони створюють дуже ніжне поєднання.&lt;/p&gt; &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt; &lt;h2&gt;Кешью в молочном шоколаде — нежность, от которой невозможно оторваться&lt;/h2&gt; &lt;p&gt;Погрузитесь в мир кремового наслаждения с нашим кешью в молочном шоколаде. Мягкий, едва сладковатый вкус отборного ореха кешью идеально сочетается с бархатной текстурой нежного молочного шоколада (34% какао). Это не просто драже, а настоящий десерт, дающий ощущение уюта и тепла. Каждый кусочек просто тает во рту, оставляя приятное сливочно-ореховое послевкусие.&lt;/p&gt; &lt;h2&gt;Почему вы влюбитесь в наш кешью в шоколаде?&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Нежный вкус кешью:&lt;/strong&gt; Мы используем цельные жареные орехи кешью (49%), имеющие уникальную мягкую текстуру и деликатный сладковатый привкус.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Кремовый молочный шоколад:&lt;/strong&gt; Качественная шоколадная глазурь (34% какао) окутывает каждый орешек, создавая идеальную вкусовую композицию.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Идеально для всей семьи:&lt;/strong&gt; Благодаря своему мягкому вкусу, этот вкус нравится как взрослым, так и самым маленьким сладкоежкам.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Сделано в Украине:&lt;/strong&gt; Свежий и качественный продукт от украинского производителя, изготовленный с соблюдением самых высоких стандартов.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Подробные характеристики:&lt;/h2&gt; &lt;p&gt;Вся информация, которая поможет вам сделать выбор:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Состав:&lt;/strong&gt; шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4%), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), ядро   ореха кешью цельное жареное (49%), глазующие&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Энергетическая ценность на 100 г:&lt;/strong&gt; 2293 кДж / 548 ккал.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Питательная ценность на 100 г:&lt;/strong&gt; белки – 12,1 г; жиры – 38,3 г (из них насыщены – 10,6 г); углеводы – 41,7 г (из них сахара – 25,9 г); соль – 0,10 г.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Срок хранения:&lt;/strong&gt; 7 месяцев в сухом прохладном месте.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Страна производитель:&lt;/strong&gt; Украина.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Вес:&lt;/strong&gt; 100 г.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Добавьте нежности в свой день! Заказывайте кешью в молочном шоколаде и наслаждайтесь каждым кусочком.&lt;/p&gt; &lt;h3&gt;Частые вопросы:&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Почему кешью в шоколаде кажется мягче других орехов?&lt;/strong&gt;&lt;br /&gt; Орех кешью от природы имеет более мягкую и маслянистую структуру по сравнению с фундуком или миндалем. В сочетании с нежным молочным шоколадом это создает уникальную, почти кремовую текстуру, тающую во рту.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Сильно выражен вкус самого ореха?&lt;/strong&gt;&lt;br /&gt; Кешью имеет деликатный, чуть сладковатый сливочный вкус, не перебивающий, а гармонично дополняющий вкус молочного шоколада. Вместе они создают очень нежное соединение.&lt;/p&gt; &lt;/div&gt;</description_ru>
-        <price>248</price>
-        <categoryId>1137</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-37099403212891_+d95d31c2cc.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-60789240602408_+5d7fb26911.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью незбиране смажене (49%), глазуруючий агент (гуміарабік,</param>
-        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">7</param>
-        <param name="Упаковка">Пластикова баночка</param>
-        <param name="Вага">100 г</param>
-      </offer>
       <offer id="SW-00021" available="true">
         <name_ua>Фундук в білому шоколаді, 100 г</name_ua>
         <name_ru>Фундук в белом шоколаде, 100 г</name_ru>
@@ -3551,7 +3503,7 @@
         <picture>https://vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-75685705493528_+83c99b18e7.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-74839575898744_+fba3d417d8.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/11/drazhe-keshiu-v-bilomu-shokoladi-100h-tm-vitberry-53485601525033_+d4c4086818.jpg</picture>
-        <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), сахароза, цуміноза</param>
+        <param name="Склад">Склад: шоколад білий (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), сахароза, цуміноза</param>
         <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
@@ -3637,7 +3589,7 @@
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-26607065639958_+8381072e96.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-61012243877770_+8a74b696ec.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-45450718137533_+373b8c01cd.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Лісові ягоди» (молоко знежирене, наповнювач плодово-ягідний «Чорниця-їжачка %)</param>
         <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
@@ -3700,7 +3652,7 @@
         <picture>https://vitberry.com.ua/content/images/18/syr-hauda-green-pesto-100h-40858771589172_+9816de9ec2.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, базилік (0,2%), пажитник (0,5%), сіль харчова, закваска, фермент сичужний, часник (0,1%), хлорофіл Е141.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
+        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -3722,7 +3674,7 @@
         <picture>https://vitberry.com.ua/content/images/22/syr-sushenyi-z-chornylamy-karakatytsi-100h-34780851506910_+00884f4c8e.jpg</picture>
         <param name="Склад">Молоко коров'яче незбиране, чорнило каракатиці (0,1%), сіль харчова, закваска стартових культур, фермент сичужний.</param>
         <param name="Тип">Снеки</param>
-        <param name="БЖВ">Жири 33,5 г, білки 18,9 г, вуглеводи 1,5 г</param>
+        <param name="БЖВ">Жири 33,5г, білки 18,9г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1578 кДж, 377 ккал</param>
         <param name="Країна виробник">Україна</param>
@@ -4707,7 +4659,7 @@
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-39021240495773_+9fa5e20805.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-13271582976511_+cee30814e0.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/43/ananas-sublimovanyi-v-molochnomu-shokoladi-43204081338688_+0a662f04c4.jpg</picture>
-        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
+        <param name="Склад">Шоколад молочний (цукор, какао-масло, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ананас субліментований. Може утримувати горіхи.</param>
         <param name="Тип">У молочному шоколаді</param>
         <param name="БЖВ">білків-4,3 г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,9 г, з них цукру – 35,2 г, сіль – 0,12 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
@@ -5461,6 +5413,32 @@
         <param name="Термін зберігання, міс.">24</param>
         <param name="Упаковка">Дой-пак</param>
       </offer>
+      <offer id="1002" available="false">
+        <name_ua>Сублімована черешня в молочному шоколаді, 50 г</name_ua>
+        <name_ru>Сублимированная черешня в молочном шоколаде, 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-79041880007052_+22e4ec80d2.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-93644829570917_+f71e676e1d.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-94697963335530_+7a4bf97c67.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-30482283793632_+d2dac30a36.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-89636076526095_+2e0c3e47ca.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-62394334209713_+93d09f5330.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-39374593909779_+62dfd4f693.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/40/chereshnia-sublimovana-v-molochnomu-shokoladi-79853976245056_+40be6c93dc.jpg</picture>
+        <param name="Склад">Шоколад молочний (цукор, какао-олія, молоко сухе цілісне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), сублиментована вишня. Може утримувати горіхи.</param>
+        <param name="Тип">У молочному шоколаді</param>
+        <param name="БЖВ">білків-4,5г; жирів-21,0 г; їх насичені - 12,8 р; вуглеводів-36,5 г, їх цукру -31,2 г, сіль -0,12 г.</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">354 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
       <offer id="1008" available="false">
         <name_ua>Сублімована полуниця в чорному шоколаді, 50 г</name_ua>
         <name_ru>Сублимированная клубника в черном шоколаде, 50 г</name_ru>
@@ -5504,7 +5482,7 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
-        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка по Закарпатськи" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
+        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка Закарпатською" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
       </offer>
       <offer id="2015" available="false">
         <name_ua>Джерки з яловичини "Ultimate" 250 г</name_ua>
@@ -5753,28 +5731,6 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">24</param>
         <param name="Упаковка">Пластикова баночка</param>
-      </offer>
-      <offer id="3040" available="false">
-        <name_ua>Сушений сир сулугуні Вишня - Палички, 250 г</name_ua>
-        <name_ru>Хрустящие палочки Сулугуни Вишня, 250 г</name_ru>
-        <description_ua>&lt;p&gt;Спробуйте незвичайне! Сирні палички Vitberry (Сулугуні) зі смаком вишні   це сміливе поєднання для тих, хто шукає нові смаки. Класичний солонуватий смак хрусткого сулугуні делікатно відтіняється легкою солодкою ноткою в'яленої вишні. Ідеально для крафтових сортів пива.&lt;/p&gt;&lt;p&gt;Це не просто закуска, а справжній гастрономічний досвід.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Високий вміст білка (25 г) та 100% натуральна сирна основа. Насолоджуйтесь оригінальним смаком без консервантів та ГМО.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 25 г, Жири: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Молоко коров'яче незбиране, сіль харчова, фермент мікробіального походження, молочнокислі бактерії, натуральний ароматизатор "Вишня". Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Насолоджуйтесь несподіваним, але гармонійним смаком, який змусить вас по-новому поглянути на сирні снеки.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;p&gt;Попробуйте что-то необычное! Сырные палочки Vitberry (сулугуни) со вкусом вишни   это смелое сочетание для тех, кто ищет новые вкусы. Классический солоноватый вкус хрустящего сулугуни деликатно оттеняется лёгкой сладкой ноткой вяленой вишни. Идеально к крафтовому пиву.&lt;/p&gt;&lt;p&gt;Это не просто закуска, это настоящий гастрономический опыт.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Высокое содержание белка (25 г) и 100% натуральная сырная основа. Наслаждайтесь оригинальным вкусом без консервантов и ГМО.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 25 г, Жиры: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Молоко коровье цельное, соль пищевая, фермент микробного происхождения, молочнокислые бактерии, натуральный ароматизатор  Вишня . Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Наслаждайтесь неожиданным, но гармоничным вкусом, который заставит вас по-новому посмотреть на сырные снеки.&lt;/p&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1101</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-90608650333555_+e4b2f7264d.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-65351648154636_+47c289de04.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-46320986191780_+18705f6f92.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-61725050323336_+92c3ee0f98.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-palychky-suluhuni-vyshnia-250-h-81672796122544_+10388629ef.jpg</picture>
-        <param name="Тип">Снеки</param>
-        <param name="БЖВ">жири: 26,8 г; білки: 25 г.</param>
-        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
-        <param name="Енергетична цінність, 100 г">342 ккал.</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">250 г</param>
       </offer>
       <offer id="2055" available="false">
         <name_ua>М'ясо яловичини сушене "Соломка Ultimate" 250 г</name_ua>
@@ -6240,6 +6196,50 @@
         <param name="Вага">40г</param>
         <param name="Вміст цукру">Без доданого цукру</param>
       </offer>
+      <offer id="1045" available="false">
+        <name_ua>Малина сублімована в білому шоколаді, 50 г</name_ua>
+        <name_ru>Малина сублимированная в белом шоколаде., 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-23602015476732_+7809f71b62.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-97631322807290_+80734f328b.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-87891927266574_+15d185f285.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-98135405061056_+c331df6c78.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-83024518149305_+03fde389e7.jpg</picture>
+        <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина. Може мати сліди горіхів.</param>
+        <param name="Тип">У білому шоколаді</param>
+        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; з них насичені - 11,0 г; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">1915 кДж/457 ккал;</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
+      <offer id="SW-00017" available="false">
+        <name_ua>Кеш'ю в молочному шоколаді, 100 г</name_ua>
+        <name_ru>Кешью в молочном шоколаде, 100 г</name_ru>
+        <description_ua>&lt;div&gt; &lt;h2&gt;Кеш'ю в молочному шоколаді — ніжність, від якої неможливо відірватися&lt;/h2&gt; &lt;p&gt;Пориньте у світ кремової насолоди з нашим кеш'ю в молочному шоколаді. М'який, ледь солодкуватий смак добірного горіха кеш'ю ідеально поєднується з оксамитовою текстурою ніжного молочного шоколаду (34% какао). Це не просто драже, а справжній десерт, що дарує відчуття затишку та тепла. Кожен шматочок просто тане в роті, залишаючи приємний вершково-горіховий післясмак.&lt;/p&gt; &lt;h2&gt;Чому ви закохаєтесь у наш кеш'ю в шоколаді?&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Ніжний смак кеш'ю:&lt;/strong&gt; Ми використовуємо цільні смажені горіхи кеш'ю (49%), які мають унікальну м'яку текстуру та делікатний солодкуватий присмак.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Кремовий молочний шоколад:&lt;/strong&gt; Якісна шоколадна глазур (34% какао) огортає кожен горішок, створюючи ідеальну смакову композицію.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ідеально для всієї родини:&lt;/strong&gt; Завдяки своєму м'якому смаку, цей смаколик подобається як дорослим, так і найменшим ласунам.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Зроблено в Україні:&lt;/strong&gt; Свіжий та якісний продукт від українського виробника, виготовлений з дотриманням найвищих стандартів.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Детальні характеристики:&lt;/h2&gt; &lt;p&gt;Вся інформація, яка допоможе вам зробити вибір:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Склад:&lt;/strong&gt; шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро горіха кеш'ю цільне смажене (49%), глазуруючі агенти.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Енергетична цінність на 100 г:&lt;/strong&gt; 2293 кДж / 548 ккал.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Поживна цінність на 100 г:&lt;/strong&gt; білки - 12,1 г; жири - 38,3 г (з них насичені – 10,6 г); вуглеводи - 41,7 г (з них цукри – 25,9 г); сіль – 0,10 г.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Термін зберігання:&lt;/strong&gt; 7 місяців у сухому прохолодному місці.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Країна виробник:&lt;/strong&gt; Україна.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Вага:&lt;/strong&gt; 100 г.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Додайте ніжності у свій день! Замовляйте кеш'ю в молочному шоколаді та насолоджуйтесь кожним шматочком.&lt;/p&gt; &lt;h3&gt;Часті питання:&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Чому кеш'ю в шоколаді здається м'якшим за інші горіхи?&lt;/strong&gt;&lt;br /&gt; Горіх кеш'ю від природи має більш м'яку та маслянисту структуру порівняно з фундуком чи мигдалем . У поєднанні з ніжним молочним шоколадом це створює унікальну, майже кремову текстуру, що тане в роті.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Чи сильно виражений смак самого горіха?&lt;/strong&gt;&lt;br /&gt; Кеш'ю має делікатний, ледь солодкуватий вершковий смак, який не перебиває, а гармонійно доповнює смак молочного шоколаду. Разом вони створюють дуже ніжне поєднання.&lt;/p&gt; &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt; &lt;h2&gt;Кешью в молочном шоколаде — нежность, от которой невозможно оторваться&lt;/h2&gt; &lt;p&gt;Погрузитесь в мир кремового наслаждения с нашим кешью в молочном шоколаде. Мягкий, едва сладковатый вкус отборного ореха кешью идеально сочетается с бархатной текстурой нежного молочного шоколада (34% какао). Это не просто драже, а настоящий десерт, дающий ощущение уюта и тепла. Каждый кусочек просто тает во рту, оставляя приятное сливочно-ореховое послевкусие.&lt;/p&gt; &lt;h2&gt;Почему вы влюбитесь в наш кешью в шоколаде?&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Нежный вкус кешью:&lt;/strong&gt; Мы используем цельные жареные орехи кешью (49%), имеющие уникальную мягкую текстуру и деликатный сладковатый привкус.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Кремовый молочный шоколад:&lt;/strong&gt; Качественная шоколадная глазурь (34% какао) окутывает каждый орешек, создавая идеальную вкусовую композицию.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Идеально для всей семьи:&lt;/strong&gt; Благодаря своему мягкому вкусу, этот вкус нравится как взрослым, так и самым маленьким сладкоежкам.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Сделано в Украине:&lt;/strong&gt; Свежий и качественный продукт от украинского производителя, изготовленный с соблюдением самых высоких стандартов.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Подробные характеристики:&lt;/h2&gt; &lt;p&gt;Вся информация, которая поможет вам сделать выбор:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Состав:&lt;/strong&gt; шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4%), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), ядро   ореха кешью цельное жареное (49%), глазующие&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Энергетическая ценность на 100 г:&lt;/strong&gt; 2293 кДж / 548 ккал.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Питательная ценность на 100 г:&lt;/strong&gt; белки – 12,1 г; жиры – 38,3 г (из них насыщены – 10,6 г); углеводы – 41,7 г (из них сахара – 25,9 г); соль – 0,10 г.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Срок хранения:&lt;/strong&gt; 7 месяцев в сухом прохладном месте.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Страна производитель:&lt;/strong&gt; Украина.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Вес:&lt;/strong&gt; 100 г.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Добавьте нежности в свой день! Заказывайте кешью в молочном шоколаде и наслаждайтесь каждым кусочком.&lt;/p&gt; &lt;h3&gt;Частые вопросы:&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Почему кешью в шоколаде кажется мягче других орехов?&lt;/strong&gt;&lt;br /&gt; Орех кешью от природы имеет более мягкую и маслянистую структуру по сравнению с фундуком или миндалем. В сочетании с нежным молочным шоколадом это создает уникальную, почти кремовую текстуру, тающую во рту.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Сильно выражен вкус самого ореха?&lt;/strong&gt;&lt;br /&gt; Кешью имеет деликатный, чуть сладковатый сливочный вкус, не перебивающий, а гармонично дополняющий вкус молочного шоколада. Вместе они создают очень нежное соединение.&lt;/p&gt; &lt;/div&gt;</description_ru>
+        <price>248</price>
+        <categoryId>1137</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-37099403212891_+d95d31c2cc.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-60789240602408_+5d7fb26911.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью незбиране смажене (49%), глазуруючий агент (гуміарабік,</param>
+        <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">7</param>
+        <param name="Упаковка">Пластикова баночка</param>
+        <param name="Вага">100 г</param>
+      </offer>
       <offer id="NT-00001" available="false">
         <name_ua>Фісташка Каліфорнійська, 250г</name_ua>
         <name_ru>Фисташка Калифорнийская, 250г</name_ru>
@@ -6321,7 +6321,7 @@
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-83767011248221_+84887e2732.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
-        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе цільне, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
+        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе незбиране, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
         <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
