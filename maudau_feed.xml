@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-12 14:35">
+<yml_catalog date="2026-10-13 13:40">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -738,7 +738,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-86979828385143_+c008262385.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/23/83132188711919_+8c1875dba4.png</picture>
         <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-80262449714584_+242cf1d6d8.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-64293026862966_+b0ba39e18e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-plombir-15692194511920_+9df78a074c.jpg</picture>
@@ -2038,7 +2038,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/25/sublimovane-morozyvo-plombir724-91869562023341_+c59d7a098f.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/25/56206037293999_+5213e0030c.png</picture>
         <param name="Склад">морозиво «Пломбір» сублімоване 100% (молоко ультрапастеризоване 63,13%, цукор, вершки 10%, кокосова олія, молоко сухе знежирене, декстроза, глюкоза, стабілізуюча суміш (камедь ріжкового дерева, камедь гуарова, карагінан))</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 8,7-11,6 г / Жири: 34,8 г / Вуглеводи: 58-72,5 г</param>
@@ -2149,7 +2149,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-41859267717618_+1db5bf57ff.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/4/15449105741383_+832f8a06ea.png</picture>
         <picture>https://vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-74117217211637_+8de1ffd391.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-12233258165694_+5ba4b4c014.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/4/sublimovane-morozyvo-kivi-polunytsia-88975068628000_+54bc6276ac.jpg</picture>
@@ -2174,7 +2174,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/5/sublimovane-morozyvo-kivi-polunytsia1504-16276106768812_+5136a35eda.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/5/57949677656274_+5b39b26847.png</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Полуниця» 20% (ягоди 50%, сік, цукор, стабілізатор, ароматизатор), цукор, кокосове масло, вода, наповнювач «Ківі» 6% (пюре 40%, цукор, сироп, барвники, ароматизатор), сухе молоко, сироватка, стабілізатори.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 5,51 г / Жири: 17,4 г / Вуглеводи: 67,28 г</param>
@@ -2193,7 +2193,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-58801481300748_+766ca260bb.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/94600569724128_+08320d274f.png</picture>
         <picture>https://vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-50066339968965_+0fc35ec29d.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-79650215864422_+a4e6cb7010.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/10/sublimovane-morozyvo-tiramisu-81385170407752_+fb9556bed1.png</picture>
@@ -2216,7 +2216,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/11/sublimovane-morozyvo-tiramisu1510-48162274721054_+5d3841f866.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/11/65142420169877_+069b9c6aab.png</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Солона карамель» 15% (згущене молоко, сироп, сіль, арома-р, барвник), цукор, вода, кокосове масло, сухе молоко, печиво «Макарун» 3% (арахіс, мигдаль, борошно, цукор, арома-ри), основа «Тир.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 13,05 г / Жири: 24,65 г / Вуглеводи: 76,0 г</param>
@@ -2235,7 +2235,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-86169011642380_+3a5ee3d243.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/12/86141849661226_+96c228d1d6.png</picture>
         <picture>https://vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-94201873832796_+9836db6573.jpeg</picture>
         <picture>https://vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-81061705946020_+4e42f2ed1e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/12/sublimovane-morozyvo-vyshnia-73729119741039_+a59aff8649.jpg</picture>
@@ -2259,7 +2259,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/13/sublimovane-morozyvo-vyshnia1512-23843432539991_+4c51ac89c7.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/13/75548232074034_+2151367878.png</picture>
         <param name="Склад">Знежирене молоко, цукор, фруктовий наповнювач «Вишня» 13% (протерта вишня, цукор, стабілізатор, ароматизатор, барвники натуральні), вода, кокосова олія, сухе знежирене молоко, стабілізатори, ароматизатор «Ванілін».</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 8,99 г / Жири: 31,03 г / Вуглеводи: 68,73 г</param>
@@ -2278,7 +2278,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-78131407543262_+efac423d0d.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/16/80127506426238_+b84abc87fa.png</picture>
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-98398606092214_+f4bf3e22c4.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-17830138407639_+b4cad4500b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/16/sublimovane-morozyvo-fistashka-52572403477107_+e28bcf302a.jpg</picture>
@@ -2302,7 +2302,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/17/sublimovane-morozyvo-fistashka1516-48763348457806_+f272c32503.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/17/44647578447835_+22686d6639.png</picture>
         <param name="Склад">Знежирене молоко, цукор, кокосове масло, вода, карамелізований фундук 7%, сухе молоко, глюкозний сироп, фісташкова паста 2% (фісташка, горіхи, какао-масло, стабіліз-ри, барвник, арома-р), гліцерин, стабіліз-ри, арома-р «</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 11,6 г / Жири: 57,71 г / Вуглеводи: 92,8 г</param>
@@ -2321,7 +2321,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-71206733847119_+5a04ea72a3.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/30405772802525_+f80c4d1189.png</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-63833752226838_+f272eca9af.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-50157859398698_+533413252b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-36685529203340_+8b172ab989.jpg</picture>
@@ -2344,7 +2344,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-71206733847119_+5a04ea72a3.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/30405772802525_+f80c4d1189.png</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-63833752226838_+f272eca9af.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-50157859398698_+533413252b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/18/sublimovane-morozyvo-lisovi-yahody-36685529203340_+8b172ab989.jpg</picture>
@@ -2367,7 +2367,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-44488339028618_+38b2417ae3.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/69978133730421_+17a45ffff4.png</picture>
         <picture>https://vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-69136211349916_+76604bdde5.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-95855682631714_+d85a0b327d.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/20/sublimovane-morozyvo-shokolad-12319318635780_+c775041b3a.jpg</picture>
@@ -2391,7 +2391,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/21/sublimovane-morozyvo-shokolad1520-44476030046282_+4deafc65a5.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/63845696078703_+819ad7e0f8.png</picture>
         <param name="Склад">Знежирене молоко, вода, цукор, кокосове масло, чорна кондитерська глазур 6%, какао-порошок 3,3%, шоколадна маса 2,8%, сухе знежирене молоко, глюкозний сироп, гліцерин, стабілізатори, барвник «Шоколад».</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 11,31 г / Жири: 41,47 г / Вуглеводи: 83,81 г</param>
@@ -2410,7 +2410,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-24039565449385_+23de5a96fc.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/22/84060454429006_+3f83b25899.png</picture>
         <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-36834924076827_+462bd84a2a.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-97536164366390_+3e6be41827.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/22/sublimovane-morozyvo-polunytsia-23182877501737_+3c8ca4362a.jpg</picture>
@@ -2436,7 +2436,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/23/sublimovane-morozyvo-polunytsia1522-83162580614842_+45682b7542.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/23/76472752035484_+86c7908b1e.png</picture>
         <param name="Склад">Наповнювач «Полуниця» (ягоди, цукор, вода, стабілізатори, барвники, ароматизатор), кокосова олія, сухе знежирене молоко, глюкозний сироп, основа «Полуниця» (пюре, ароматизатори, барвники, антиоксидант), гліцерин, стабілізатори.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 0,58 г / Жири: 0,0 г / Вуглеводи: 96,86 г</param>
@@ -3368,25 +3368,6 @@
         <param name="Особливості">Без глютену, vegan friendly, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
         <param name="Термін зберігання, міс.">24</param>
       </offer>
-      <offer id="1565" available="true">
-        <name_ua>Сублімовані фрукти в білому шоколаді, Набір з 4 смаків</name_ua>
-        <name_ru>Сублимированные фрукты в белом шоколаде, Набор из 4 вкусов</name_ru>
-        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
-        <price>720</price>
-        <categoryId>1086</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-57101700146701_+f625b07cdc.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-99838760798473_+bd918e7ea2.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-44684238798787_+87309957d1.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-53599428388392_+7e9e985593.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-39296207232447_+60ecbdcfb5.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-21144264612072_+849828f382.jpg</picture>
-        <param name="Тип">Набір</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Вид шоколаду">Білий шоколад</param>
-      </offer>
       <offer id="SW-00001" available="true">
         <name_ua>Фундук в молочному шоколаді, 100 г</name_ua>
         <name_ru>Фундук в молочном шоколаде, 100 г</name_ru>
@@ -3567,6 +3548,7 @@
         <price>387</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/5/26856415638814_+57c910aa8a.png</picture>
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-30240063831922_+ec94d47234.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-66054012708915_+e5a99881dc.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/5/morozyvo-sublimovane-v-bilomu-shokoladi-vyshneve-100h-11802981829425_+5c821a88fe.jpg</picture>
@@ -3587,6 +3569,7 @@
         <price>387</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/13/61915549391415_+c5059112db.png</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-26607065639958_+8381072e96.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-61012243877770_+8a74b696ec.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/13/morozyvo-sublimovane-v-molochnomu-shokoladi-lisovi-yahody-100h-45450718137533_+373b8c01cd.jpg</picture>
@@ -3607,6 +3590,7 @@
         <price>387</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/17/26498602699926_+ed39182231.png</picture>
         <picture>https://vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-25590347936936_+2ea8011821.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-39197159888074_+35e146b703.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/17/morozyvo-sublimovane-v-molochnomu-shokoladi-vyshneve-100h-19106703718679_+636bcb04f5.jpg</picture>
@@ -3627,6 +3611,7 @@
         <price>387</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/21/19919026823882_+3644626be8.png</picture>
         <picture>https://vitberry.com.ua/content/images/21/morozyvo-sublimovane-v-molochnomu-shokoladi-polunychne-100h-74609690756758_+a90d44d968.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/morozyvo-sublimovane-v-molochnomu-shokoladi-polunychne-100h-51167646383158_+290b823751.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/morozyvo-sublimovane-v-molochnomu-shokoladi-polunychne-100h-47878471418311_+f4f19a1274.jpg</picture>
@@ -4448,7 +4433,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-90375185298263_+77d6fdff75.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/30/94020962771092_+f2c90b1e1d.png</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
@@ -4470,7 +4455,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-90375185298263_+77d6fdff75.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/30/94020962771092_+f2c90b1e1d.png</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-29229289837146_+174b338358.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-40534727029818_+07b9c00c38.png</picture>
         <picture>https://vitberry.com.ua/content/images/30/morozyvo-sublimovane-babl-ham-66241202534185_+f7aa2f8e13.png</picture>
@@ -4492,7 +4477,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-42022619111602_+f7178c9c37.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-17997106218642_+225b3fd76c.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-98900176701532_+b04a4dcfb5.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-67504535748583_+8373e64ce8.png</picture>
         <param name="Склад">Молоко знежирене, цукор, вода питна, наповнювач "Фісташка" 8% (цукор, вода питна, олія кокосова, паста фісташкова 2%, паста насіння соняшника, модифікований кукурудзяний крохмаль, ароматизатор "Фісташка", барвник бета комплекси хлорофіл</param>
@@ -4513,7 +4498,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/35/morozyvo-fistashka-shokolad2284-95210013864234_+9d31d36c6c.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/35/20114550117350_+e9573b249b.png</picture>
         <picture>https://vitberry.com.ua/content/images/34/morozyvo-fistashka-shokolad-67504535748583_+8373e64ce8.png</picture>
         <param name="Склад">Молоко знежирене, цукор, вода питна, наповнювач "Фісташка" 8% (цукор, вода питна, олія кокосова, паста фісташкова 2%, паста насіння соняшника, модифікований кукурудзяний крохмаль, ароматизатор "Фісташка", барвник бета комплекси хлорофіл</param>
         <param name="Вага">50 г</param>
@@ -5667,7 +5652,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-77395800436919_+42b7c60916.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/6/72467785900486_+801ecdc2d5.png</picture>
         <picture>https://vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-50297457608912_+cff65210af.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-14813277043331_+20d0c1b7e0.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/6/sublimovane-morozyvo-ananas-42967961631331_+e29ef6673f.jpg</picture>
@@ -5692,7 +5677,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/7/sublimovane-morozyvo-ananas1506-32731283403947_+8b4d90f286.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/7/78169871945405_+fbf645d490.png</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Ананас» 15% (ананас, цукор, стабілізатори, ароматизатор, барвник), цукор, вода, кокосова олія, основа «Ананас» 4% (сік, стабілізатори, ароматизатор), сухе молоко, гліцерин, глюкозний сироп, стабілізатори, барвник.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 4,93 г / Жири: 15,08 г / Вуглеводи: 77,14 г</param>
@@ -5711,7 +5696,7 @@
         <price>116</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-93181369008211_+20acd1eb25.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/8/47424146001249_+5252467b08.png</picture>
         <picture>https://vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-29212138482856_+103bf9d722.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-99900346487345_+b5a0cd1e30.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/8/sublimovane-morozyvo-abrykos-khurma-35688293754215_+e8ed1daffb.jpg</picture>
@@ -5736,7 +5721,7 @@
         <price>238</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/9/sublimovane-morozyvo-abrykos-khurma1508-47480593119682_+99b78998a4.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/9/22964078628121_+5e58f538e4.png</picture>
         <param name="Склад">Знежирене молоко, наповнювач «Хурма» 18,6% (сік, цукор, стабілізатори, ароматизатор, барвники), абрикос у сиропі 20,8%, печиво 7%, кокосове масло, вода, сухе молоко, патока, стабілізатори, ароматизатор «Абрикос», регулятор кислотності, барвники.</param>
         <param name="Вага">50 г</param>
         <param name="БЖВ">Білки: 6,96 г / Жири: 23,49 г / Вуглеводи: 82,07 г</param>
@@ -6234,6 +6219,25 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
+      <offer id="1565" available="false">
+        <name_ua>Сублімовані фрукти в білому шоколаді, Набір з 4 смаків</name_ua>
+        <name_ru>Сублимированные фрукты в белом шоколаде, Набор из 4 вкусов</name_ru>
+        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
+        <price>720</price>
+        <categoryId>1086</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-57101700146701_+f625b07cdc.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-99838760798473_+bd918e7ea2.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-44684238798787_+87309957d1.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-53599428388392_+7e9e985593.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-39296207232447_+60ecbdcfb5.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-21144264612072_+849828f382.jpg</picture>
+        <param name="Тип">Набір</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Вид шоколаду">Білий шоколад</param>
+      </offer>
       <offer id="SW-00017" available="false">
         <name_ua>Кеш'ю в молочному шоколаді, 100 г</name_ua>
         <name_ru>Кешью в молочном шоколаде, 100 г</name_ru>
@@ -6333,6 +6337,7 @@
         <price>387</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/1/65408496558175_+c7155fb826.png</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-83767011248221_+84887e2732.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
@@ -6353,6 +6358,7 @@
         <price>387</price>
         <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/9/40224822300519_+d2b9f69fe4.png</picture>
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-83790387914497_+78971692d3.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-30149572896763_+e151815faf.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-51936538339880_+4887e7473e.jpg</picture>
