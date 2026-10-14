@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-14 11:19">
+<yml_catalog date="2026-10-14 16:39">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -6383,7 +6383,7 @@
         <picture>https://vitberry.com.ua/content/images/30/syr-akkerman-iz-smazhenoiu-tsybuleiu-86155149661017_+cd874b4f70.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/syr-akkerman-iz-smazhenoiu-tsybuleiu-97077248502462_+3f660d98af.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/syr-akkerman-iz-smazhenoiu-tsybuleiu-60894412142794_+d2d771a234.jpg</picture>
-        <param name="Склад">Молоко коров'яче незбиране, цибуля смажена (5%), сіль харчова, закваска, фермент сичужний</param>
+        <param name="Склад">Молоко коровье цельное, лук жареный (5%), соль пищевая, закваска, фермент сычужный</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 28г, білки 23г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
