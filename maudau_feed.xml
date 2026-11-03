@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-03 00:36">
+<yml_catalog date="2026-11-03 22:57">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -1918,6 +1918,32 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
+      <offer id="1008" available="true">
+        <name_ua>Сублімована полуниця в чорному шоколаді, 50 г</name_ua>
+        <name_ru>Сублимированная клубника в черном шоколаде, 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98602939258263_+ae3bd50579.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98633069921362_+d613b00f90.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-42531166913791_+4b53c75127.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-65794939958026_+00a73c1913.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-33703146838670_+b2c58680e4.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-11177320917522_+1d4daea5bf.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-77039546906871_+8aaaffb6c6.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-95845308416807_+4cb9218359.jpg</picture>
+        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), полулімована полуниця.</param>
+        <param name="Тип">У чорному шоколаді</param>
+        <param name="БЖВ">білки – 5,6 г; жири – 33,2 г; їх насичені – 20,4 р; вуглеводи – 48,3 г, із них цукру – 44,1 г</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">532 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
       <offer id="1010" available="true">
         <name_ua>Сублімований ананас в чорному шоколаді, 50г</name_ua>
         <name_ru>Сублимированный ананас в черном шоколаде, 50г</name_ru>
@@ -1942,6 +1968,27 @@
         <param name="Термін зберігання, міс.">6</param>
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
+      </offer>
+      <offer id="1508" available="true">
+        <name_ua>Сублімовані фрукти в чорному шоколаді, Набір з 4 смаків</name_ua>
+        <name_ru>Сублимированные фрукты в чорном шоколаде, Набор с 4 вкусов</name_ru>
+        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
+        <price>720</price>
+        <categoryId>1086</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-55574817172618_+d9a02bac8e.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-56090416231272_+55ece9c6bd.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-64494467971811_+6dfc26d1f8.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-77675090047187_+1b36224c91.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-81970999485528_+385b6d2416.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-75757643193753_+a243ecc016.jpg</picture>
+        <param name="Тип">Набір</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Гарантія">3 міс.</param>
+        <param name="Вид шоколаду">Чорний шоколад</param>
+        <param name="Розмір набору">Середній (по 50г)</param>
       </offer>
       <offer id="4005" available="true">
         <name_ua>Сублімоване морозиво Пломбір, 50 г</name_ua>
@@ -2399,72 +2446,6 @@
         <param name="Термін зберігання, міс.">6</param>
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">250 г</param>
-      </offer>
-      <offer id="3045" available="true">
-        <name_ua>Сушений сир сулугуні Паприка Чилі - Палички, 250 г</name_ua>
-        <name_ru>Хрустящие палочки Сулугуни Паприка чили, 250 г</name_ru>
-        <description_ua>&lt;p&gt;Додайте вогню! Сирні палички Vitberry (Сулугуні) з Паприкою-Чилі   це вибір для поціновувачів пікантного. Насичений вершковий смак 100% натурального сиру поєднується з яскравою гостринкою чилі та димним ароматом паприки. Це ідеальна, багата на білок закуска до пива.&lt;/p&gt;&lt;p&gt;Неймовірно хрусткі палички з яскравим характером, що тануть у роті.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Високий вміст білка (25 г) робить їх ситним та поживним снеком, що чудово втамовує голод та ідеально поєднується з хмільними напоями.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 25 г, Жири: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Молоко коров'яче незбиране, сіль харчова, фермент мікробіального походження, молочнокислі бактерії, сушена паприка, перець чилі. Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ідеально для вечірок або для тих, хто любить гострі відчуття та натуральні снеки.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;p&gt;Добавьте огня! Сырные палочки Vitberry (сулугуни) с Паприкой и Чили   это выбор для тех, кто любит остренькое. Насыщенный сливочный вкус 100% натурального сыра сочетается с яркой остротой чили и лёгким дымным ароматом паприки. Это идеальная богатая белком закуска к пиву.&lt;/p&gt;&lt;p&gt;Невероятно хрустящие палочки с характером, которые тают во рту.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Высокое содержание белка (25 г) делает их сытным и питательным снеком, который отлично утоляет голод и идеально сочетается с хмельными напитками.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 25 г, Жиры: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Молоко коровье цельное, соль пищевая, фермент микробного происхождения, молочнокислые бактерии, сушёная паприка, перец чили. Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Идеально для вечеринок и для тех, кто любит острые ощущения и натуральные снеки.&lt;/p&gt;</description_ru>
-        <price>420</price>
-        <categoryId>1101</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-28837242233354_+958c1f7d9b.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-58283225556676_+40211143df.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-22006118550368_+4a77e2efc6.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-83502717158975_+6c24dc3d43.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-27353118833578_+43198716ab.jpg</picture>
-        <param name="Тип">Снеки</param>
-        <param name="БЖВ">жири: 26,8 г; білки: 25 г.</param>
-        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
-        <param name="Енергетична цінність, 100 г">342 ккал.</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">250 г</param>
-      </offer>
-      <offer id="3050" available="true">
-        <name_ua>Хрусткі сирні кульки Бекон - Сушений сир, 200 г</name_ua>
-        <name_ru>Хрустящие сырные шарики Бекон, 200 г</name_ru>
-        <description_ua>&lt;p&gt;Хрусткі сирні кульки Vitberry зі смаком бекону   це вишукана та водночас пікантна закуска. Повітряна, хрустка текстура 100% натурального сиру поєднується з насиченим димним ароматом бекону. Ідеально підходить до насичених червоних вин або як самостійний делікатес.&lt;/p&gt;&lt;p&gt;Дозвольте собі вибух смаку: ніжний сир, що тане в роті, з яскравою ноткою бекону.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Надзвичайно високий вміст білка (58 г) та 100% натуральний склад. Це корисний делікатес, який дає ситість та чисте задоволення смаком без штучних добавок.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 58 г, Жири: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Сир (молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій... фермент), натуральний ароматизатор "Бекон". Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Здивуйте гостей незвичайним доповненням до сирної тарілки або насолоджуйтесь самі.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;p&gt;Хрустящие сырные шарики Vitberry со вкусом бекона   это изысканная и одновременно пикантная закуска. Воздушная, хрустящая текстура 100% натурального сыра сочетается с насыщенным дымным ароматом бекона. Идеально подходит к насыщенным красным винам или как самостоятельный деликатес.&lt;/p&gt;&lt;p&gt;Позвольте себе взрыв вкуса: нежный сыр, который тает во рту, с яркой беконной ноткой.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Чрезвычайно высокое содержание белка (58 г) и 100% натуральный состав. Это полезный деликатес, который даёт сытость и чистое удовольствие от вкуса без искусственных добавок.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 58 г, Жиры: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий... фермент), натуральный ароматизатор  Бекон . Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Удивите гостей необычным дополнением к сырной тарелке или насладитесь сами.&lt;/p&gt;</description_ru>
-        <price>331</price>
-        <categoryId>1101</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-52687592663086_+9666bee21c.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-25177310545981_+3d5b8dd755.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-60619030997038_+06d56afd1a.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-67831890883395_+2623413042.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-26837503550369_+7f4c0da90a.jpg</picture>
-        <param name="Тип">Снеки</param>
-        <param name="БЖВ">жири: 50 г; білки: 58 ​​г.</param>
-        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
-        <param name="Енергетична цінність, 100 г">676 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-        <param name="Вага">200 г</param>
-      </offer>
-      <offer id="3055" available="true">
-        <name_ua>Хрусткі сирні кульки Васабі - Сушений сир, 200 г</name_ua>
-        <name_ru>Хрустящие сырные шарики Васаби, 200 г</name_ru>
-        <description_ua>&lt;p&gt;Хрусткі сирні кульки Vitberry з васабі   смілива закуска для ваших рецепторів! Легкі та повітряні кульки з 100% натурального сиру поєднуються з несподіваною, але приємною гостринкою японського васабі. Ідеально підкреслюють смак білого вина та дивують гостей.&lt;/p&gt;&lt;p&gt;Відчуйте, як класичний смак сиру поєднується з яскравою азійською ноткою в кожній хрусткій кульці.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Надзвичайно високий вміст білка (58 г) у поєднанні з 100% натуральним сиром. Це поживний та оригінальний делікатес без ГМО та консервантів.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 58 г, Жири: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Сир (молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій... фермент), натуральний ароматизатор "Васабі". Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ідеально для оригінальної закуски до вина, азійських вечірок або як самостійний гострий снек.&lt;/p&gt;</description_ua>
-        <description_ru>&lt;p&gt;Хрустящие сырные шарики Vitberry с васаби   смелая закуска для ваших вкусовых рецепторов! Лёгкие и воздушные шарики из 100% натурального сыра сочетаются с неожиданной, но приятной остринкой японского васаби. Идеально подчёркивают вкус белого вина и впечатляют гостей.&lt;/p&gt;&lt;p&gt;Почувствуйте, как классический вкус сыра встречается с яркой азиатской ноткой в каждом хрустящем шарике.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Чрезвычайно высокое содержание белка (58 г) в сочетании со 100% натуральным сыром. Это питательный и оригинальный деликатес без ГМО и консервантов.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 58 г, Жиры: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий... фермент), натуральный ароматизатор  Васабі . Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Идеально как оригинальная закуска к вину, для азиатских вечеринок или как самостоятельный острый снек.&lt;/p&gt;</description_ru>
-        <price>331</price>
-        <categoryId>1101</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-48954343001635_+933b20235d.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-82413711112550_+03858ec12d.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-60490117860348_+1a0a699a87.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-81761113897457_+ee544c39b0.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-75771583234484_+2e2ffe8185.jpg</picture>
-        <param name="Тип">Снеки</param>
-        <param name="БЖВ">жири: 50 г; білки: 58 ​​г.</param>
-        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
-        <param name="Енергетична цінність, 100 г">676 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Вакуумна упаковка</param>
-        <param name="Вага">200 г</param>
       </offer>
       <offer id="7100" available="true">
         <name_ua>Сублімована вишня, 10 г</name_ua>
@@ -3195,6 +3176,29 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
+      <offer id="1045" available="true">
+        <name_ua>Малина сублімована в білому шоколаді, 50 г</name_ua>
+        <name_ru>Малина сублимированная в белом шоколаде., 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-23602015476732_+7809f71b62.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-97631322807290_+80734f328b.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-87891927266574_+15d185f285.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-98135405061056_+c331df6c78.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-83024518149305_+03fde389e7.jpg</picture>
+        <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина. Може мати сліди горіхів.</param>
+        <param name="Тип">У білому шоколаді</param>
+        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; їх насичені — 11,0 р; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">1915 кДж/457 ккал;</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
       <offer id="1049" available="true">
         <name_ua>Манго сублімований в білому шоколаді, 50г</name_ua>
         <name_ru>Манго сублимированный в белом шоколаде, 50г.</name_ru>
@@ -3213,6 +3217,50 @@
         <param name="БЖВ">Білки-4,8 г; жирів-27,6 г; їх насичені —16,7 р; вуглеводи-44,0 г, з них цукру -40,3 г, сіль -0,16 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1852 кДж/442 ккал;</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
+      <offer id="1053" available="true">
+        <name_ua>Манго сублімований в молочному шоколаді, 50 г</name_ua>
+        <name_ru>Манго сублимированный в молочном шоколаде., 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-24771766173498_+bf16174156.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-92667248591081_+e7e60bdae7.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-27010446445217_+d5a8b1d33b.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-60392289604801_+5fbed18936.jpg</picture>
+        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), какао терте, емульгатор: соєвий лецитин, натуральна ваніль), сублімований манго.</param>
+        <param name="Тип">У молочному шоколаді</param>
+        <param name="БЖВ">Білки-5,3 г; жирів-26,1 г; їх насичені — 15,9 р; вуглеводи-43,1 г, з них цукру -38,8 г, сіль - 0,15 г.</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">1798 кДж/430 ккал;</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
+      <offer id="1057" available="true">
+        <name_ua>Ківі сублімований в молочному шоколаді, 50 г</name_ua>
+        <name_ru>Киви сублимированный в молочном шоколаде, 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-56694608682244_+7af2f326c4.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-68994162627030_+3a3ef5ab44.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32643978255527_+7c1ecaa4c9.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32024281224427_+715721ee09.jpg</picture>
+        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), терте какао, емульгатор: соєвий лецитин, натуральна ваніль), сублімований ківі. Може утримувати горіхи.</param>
+        <param name="Тип">У молочному шоколаді</param>
+        <param name="БЖВ">Білки-5,4 г; жирів-26,1 г; їх насичені — 15,9 р; вуглеводи-43,1 г, їх цукру —38,8 г, сіль — 0,15 г.</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">1799 кДж/430 ккал;</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">6</param>
         <param name="Упаковка">Дой-пак</param>
@@ -3254,6 +3302,27 @@
         <param name="Умови зберігання">Температура: від 0 C до 25 CВологість повітря: не більше 75%Зберігати в захищених від сонячних променів приміщеннях в оригінальній нерозкритій упаковці.Після відкриття продукту зберігати в холодильнику і використовувати протягом 7 днів.</param>
         <param name="Особливості">Без глютену, vegan friendly, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
         <param name="Термін зберігання, міс.">24</param>
+      </offer>
+      <offer id="1565" available="true">
+        <name_ua>Сублімовані фрукти в білому шоколаді, Набір з 4 смаків</name_ua>
+        <name_ru>Сублимированные фрукты в белом шоколаде, Набор из 4 вкусов</name_ru>
+        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
+        <price>720</price>
+        <categoryId>1086</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-57101700146701_+f625b07cdc.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-99838760798473_+bd918e7ea2.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-44684238798787_+87309957d1.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-53599428388392_+7e9e985593.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-39296207232447_+60ecbdcfb5.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-21144264612072_+849828f382.jpg</picture>
+        <param name="Тип">Набір</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Гарантія">3 міс.</param>
+        <param name="Вид шоколаду">Білий шоколад</param>
+        <param name="Розмір набору">Середній (по 50г)</param>
       </offer>
       <offer id="SW-00001" available="true">
         <name_ua>Фундук в молочному шоколаді, 100 г</name_ua>
@@ -3310,7 +3379,7 @@
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-41286830537782_+dce9ab5425.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/45/drazhe-myhdal-v-chornomu-shokoladi-100-h-tm-vitberry-38867492776965_+603326c5bb.jpg</picture>
         <param name="Склад">Склад: шоколад чорний (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха мигдалю цільне смажене (49%), глазующий агент (гуміарабік, сахароза, глюкозний сироп, рослинна пальма)</param>
-        <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, їх цукру – 22,0 г, сіль – 0,004 г.</param>
+        <param name="БЖВ">білків – 12,4 г; жирів – 45,0 г; їх насичені – 10,8 р; вуглеводів – 28,2 г, із них цукру – 22,0 г, сіль – 0,004 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2446 кДж/585 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -3450,6 +3519,27 @@
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">250</param>
       </offer>
+      <offer id="ic-00001" available="true">
+        <name_ua>Морозиво сублімоване в білому шоколаді пломбір, 100г</name_ua>
+        <name_ru>Мороженое сублимированное в белом шоколаде пломбир, 100г.</name_ru>
+        <description_ua>&lt;h2&gt;Хрусткий Пломбір у білому шоколаді (Сухе морозиво)&lt;/h2&gt; &lt;p&gt;Уявіть улюблений пломбір, який можна покласти в кишеню! Це не магія, це сухе (сублімоване) морозиво. Спочатку воно приємно хрумтить, як легке безе, а потім ніжно тане у роті, перетворюючись на класичний вершковий десерт. Білий шоколад ідеально підкреслює цю солодку мить.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Чому варто спробувати:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Не тане в руках — бери з собою на прогулянку.&lt;/li&gt; &lt;li&gt;Має насичений вершковий смак пломбіру.&lt;/li&gt; &lt;li&gt;Здивує текстурою: хрумтить, а потім тане.&lt;/li&gt; &lt;/ul&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Хрустящий пломбир в белом шоколаде (сухое мороженое)&lt;/h2&gt; &lt;p&gt;Представьте любимый пломбир, который можно положить в карман! Это не магия, это сухое (сублимированное) мороженое. Сначала оно приятно хрустит, как легкое безе, а затем нежно тает во рту, превращаясь в классический сливочный десерт. Белый шоколад идеально подчеркивает это сладкое мгновение.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Почему стоит попробовать:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Не тает в руках — бери с собой на прогулку.&lt;/li&gt; &lt;li&gt;Имеет насыщенный сливочный вкус пломбира.&lt;/li&gt; &lt;li&gt;Удивит текстурой: хрустит, а потом тает.&lt;/li&gt; &lt;/ul&gt;</description_ru>
+        <price>387</price>
+        <categoryId>1088</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/1/65408496558175_+c7155fb826.png</picture>
+        <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-83767011248221_+84887e2732.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
+        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе цільне, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
+        <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
+        <param name="Особливості">Не тане і готове до вживання</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">12</param>
+        <param name="Упаковка">Пластикова баночка</param>
+      </offer>
       <offer id="ic-00005" available="true">
         <name_ua>Морозиво сублімоване в білому шоколаді вишневе, 100г</name_ua>
         <name_ru>Мороженое сублимированное в белом шоколаде вишневое, 100г</name_ru>
@@ -3466,6 +3556,27 @@
         <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
+        <param name="Особливості">Не тане і готове до вживання</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">12</param>
+        <param name="Упаковка">Пластикова баночка</param>
+      </offer>
+      <offer id="ic-00009" available="true">
+        <name_ua>Морозиво сублімоване в молочному шоколаді пломбір, 100г</name_ua>
+        <name_ru>Мороженое сублимированное в молочном шоколаде пломбир, 100г</name_ru>
+        <description_ua>&lt;h2&gt;Класичний Пломбір у молочному шоколаді (Сухе морозиво)&lt;/h2&gt; &lt;p&gt;Стара добра класика у космічному форматі. Ніжний вершковий пломбір, огорнутий якісним молочним шоколадом. Це ідеальний перекус до кави: шматочок хрумтить на зубах, миттєво розкриваючи смак того самого морозива з дитинства. Жодних плям на одязі — воно не потече!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Чому варто спробувати:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Смак улюбленого ескімо, яке не боїться спеки.&lt;/li&gt; &lt;li&gt;Зручно їсти в машині, офісі чи в дорозі.&lt;/li&gt; &lt;li&gt;Дуже подобається дітям (і дорослим теж).&lt;/li&gt; &lt;/ul&gt;</description_ua>
+        <description_ru>&lt;h2&gt;Классический Пломбир в молочном шоколаде (Сухое мороженое)&lt;/h2&gt; &lt;p&gt;Старая хорошая классика в космическом формате. Нежный сливочный пломбир, окутанный качественным молочным шоколадом. Это идеальный перекус к кофе: кусочек хрустит на зубах, мгновенно раскрывая вкус того же мороженого с детства. Никаких пятен на одежде – оно не потечет!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Почему стоит попробовать:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Вкус любимого эскимо, которое не боится жары.&lt;/li&gt; &lt;li&gt;Удобно есть в машине, офисе или в дороге.&lt;/li&gt; &lt;li&gt;Очень нравится детям (и взрослым тоже).&lt;/li&gt; &lt;/ul&gt;</description_ru>
+        <price>387</price>
+        <categoryId>1088</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/9/40224822300519_+d2b9f69fe4.png</picture>
+        <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-83790387914497_+78971692d3.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-30149572896763_+e151815faf.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-51936538339880_+4887e7473e.jpg</picture>
+        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %)</param>
+        <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
         <param name="Особливості">Не тане і готове до вживання</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">12</param>
@@ -3599,6 +3710,31 @@
         <param name="Термін зберігання, міс.">10</param>
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">100 г</param>
+      </offer>
+      <offer id="fc-00001" available="true">
+        <name_ua>Сублімована малина в молочному шоколаді БЕЗ ЦУКРУ, 50 г</name_ua>
+        <name_ru>Сублимированная малина в молочном шоколаде БЕЗ САХАРА, 50 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>198</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/38/53461591932965_+5a947ce183.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/38/97641965235112_+f6c371f596.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/38/76879427607810_+49d2f6fba0.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/38/30728698451517_+0259849e39.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/38/44479612237430_+ba76919467.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/38/90096199988680_+fd8c0159b2.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/38/62930806457271_+0f048bd88b.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/38/30067262694502_+5d1c8e84e0.jpg</picture>
+        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), малина сублімована. Може утримувати</param>
+        <param name="Тип">У молочному шоколаді</param>
+        <param name="БЖВ">білків – 7,4 g (г); жирів – 27,3 g(г), їх насичені – 14,5 g(г); вуглеводів – 40,3 g(г), їх цукру – 16,4 g(г); сіль - 0,02 g (г).</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">1967 kJ(кДж)/470 kcal(ккал);</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
       </offer>
       <offer id="fc-00002" available="true">
         <name_ua>Сублімована полуниця в молочному шоколаді БЕЗ ЦУКРУ, 50 г</name_ua>
@@ -4567,6 +4703,32 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">50г</param>
       </offer>
+      <offer id="fc-00011" available="true">
+        <name_ua>Сублімована полуниця в чорному шоколаді, 150 г</name_ua>
+        <name_ru>Сублимированная клубника в черном шоколаде, 150 г</name_ru>
+        <description_ua></description_ua>
+        <description_ru></description_ru>
+        <price>531</price>
+        <categoryId>1098</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98602939258263_+ae3bd50579.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98633069921362_+d613b00f90.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-42531166913791_+4b53c75127.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-65794939958026_+00a73c1913.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-33703146838670_+b2c58680e4.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-11177320917522_+1d4daea5bf.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-77039546906871_+8aaaffb6c6.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-95845308416807_+4cb9218359.jpg</picture>
+        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), полулімована полуниця.</param>
+        <param name="Тип">У чорному шоколаді</param>
+        <param name="БЖВ">білки – 5,6 г; жири – 33,2 г; їх насичені – 20,4 р; вуглеводи – 48,3 г, із них цукру – 44,1 г</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Енергетична цінність, 100 г">532 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">50г</param>
+      </offer>
       <offer id="fc-00012" available="true">
         <name_ua>Полуниця сублімована в білому шоколаді, 150 г</name_ua>
         <name_ru>Сублимированная клубника в белом шоколаде, 150 г</name_ru>
@@ -4605,7 +4767,7 @@
         <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-83024518149305_+03fde389e7.jpg</picture>
         <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина. Може мати сліди горіхів.</param>
         <param name="Тип">У білому шоколаді</param>
-        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; з них насичені - 11,0 г; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
+        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; їх насичені — 11,0 р; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1915 кДж/457 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -5387,8 +5549,30 @@
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Термін зберігання, міс.">6</param>
         <param name="Гарантія">3 міс.</param>
-        <param name="Розмір набору">Великий (по 150г)</param>
         <param name="Вид шоколаду">Молочний шоколад</param>
+        <param name="Розмір набору">Великий (по 150г)</param>
+      </offer>
+      <offer id="mx-00033" available="true">
+        <name_ua>Сублімовані фрукти в чорному шоколаді, Набір з 4 смаків</name_ua>
+        <name_ru>Сублимированные фрукты в чорном шоколаде, Набор с 4 вкусов</name_ru>
+        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
+        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
+        <price>2041</price>
+        <categoryId>1086</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-68489957414034_+94e0fa4a09.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-74226390957741_+10ed1b7cb3.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-56639895201224_+ea75a5d51f.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-55347080252580_+a9368447d9.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-81191513769522_+d289533a9d.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-57236033635478_+1116b502a9.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-17851295330518_+2f9421ab1d.jpg</picture>
+        <param name="Тип">Набір</param>
+        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Гарантія">3 міс.</param>
+        <param name="Вид шоколаду">Чорний шоколад</param>
+        <param name="Розмір набору">Великий (по 150г)</param>
       </offer>
       <offer id="mx-00034" available="true">
         <name_ua>Сублімовані фрукти в білому шоколаді, Набір з 4 смаків</name_ua>
@@ -5409,8 +5593,8 @@
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Термін зберігання, міс.">6</param>
         <param name="Гарантія">3 міс.</param>
-        <param name="Розмір набору">Великий (по 150г)</param>
         <param name="Вид шоколаду">Білий шоколад</param>
+        <param name="Розмір набору">Великий (по 150г)</param>
       </offer>
       <offer id="sf-00023" available="true">
         <name_ua>Маракуя сублімована, кубики, 10 г</name_ua>
@@ -5645,55 +5829,8 @@
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Термін зберігання, міс.">6</param>
         <param name="Гарантія">3 міс.</param>
-        <param name="Розмір набору">Середній (по 50г)</param>
         <param name="Вид шоколаду">Молочний шоколад</param>
-      </offer>
-      <offer id="1008" available="false">
-        <name_ua>Сублімована полуниця в чорному шоколаді, 50 г</name_ua>
-        <name_ru>Сублимированная клубника в черном шоколаде, 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98602939258263_+ae3bd50579.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98633069921362_+d613b00f90.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-42531166913791_+4b53c75127.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-65794939958026_+00a73c1913.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-33703146838670_+b2c58680e4.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-11177320917522_+1d4daea5bf.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-77039546906871_+8aaaffb6c6.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-95845308416807_+4cb9218359.jpg</picture>
-        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), полулімована полуниця.</param>
-        <param name="Тип">У чорному шоколаді</param>
-        <param name="БЖВ">білки – 5,6 г; жири – 33,2 г; їх насичені – 20,4 р; вуглеводи – 48,3 г, із них цукру – 44,1 г</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">532 ккал</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
-      </offer>
-      <offer id="1508" available="false">
-        <name_ua>Сублімовані фрукти в чорному шоколаді, Набір з 4 смаків</name_ua>
-        <name_ru>Сублимированные фрукты в чорном шоколаде, Набор с 4 вкусов</name_ru>
-        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
-        <price>720</price>
-        <categoryId>1086</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-55574817172618_+d9a02bac8e.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-56090416231272_+55ece9c6bd.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-64494467971811_+6dfc26d1f8.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-77675090047187_+1b36224c91.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-81970999485528_+385b6d2416.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/3/nabir-sublimovanykh-fruktiv-v-chornomu-shokoladi-75757643193753_+a243ecc016.jpg</picture>
-        <param name="Тип">Набір</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Гарантія">3 міс.</param>
         <param name="Розмір набору">Середній (по 50г)</param>
-        <param name="Вид шоколаду">Чорний шоколад</param>
       </offer>
       <offer id="2010" available="false">
         <name_ua>М’ясні та сирні снеки, 8 смаків, 320 г</name_ua>
@@ -5712,7 +5849,7 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
-        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка по Закарпатськи" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
+        <param name="Смаки">яловичина "Соломка Ultimate" 45г, свинина "Соломка Пепа Вишнева" 45г, курка "Соломка Джек Деніелс" 45г, свинина "Соломка Закарпатською" 45г, курка "Соломка Гриль" 45г, курка "Соломка папри5 сир Original 30г</param>
       </offer>
       <offer id="2015" available="false">
         <name_ua>Джерки з яловичини "Ultimate" 250 г</name_ua>
@@ -5989,6 +6126,28 @@
         <param name="Упаковка">Дой-пак</param>
         <param name="Вага">250 г</param>
       </offer>
+      <offer id="3045" available="false">
+        <name_ua>Сушений сир сулугуні Паприка Чилі - Палички, 250 г</name_ua>
+        <name_ru>Хрустящие палочки Сулугуни Паприка чили, 250 г</name_ru>
+        <description_ua>&lt;p&gt;Додайте вогню! Сирні палички Vitberry (Сулугуні) з Паприкою-Чилі   це вибір для поціновувачів пікантного. Насичений вершковий смак 100% натурального сиру поєднується з яскравою гостринкою чилі та димним ароматом паприки. Це ідеальна, багата на білок закуска до пива.&lt;/p&gt;&lt;p&gt;Неймовірно хрусткі палички з яскравим характером, що тануть у роті.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Високий вміст білка (25 г) робить їх ситним та поживним снеком, що чудово втамовує голод та ідеально поєднується з хмільними напоями.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 25 г, Жири: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Молоко коров'яче незбиране, сіль харчова, фермент мікробіального походження, молочнокислі бактерії, сушена паприка, перець чилі. Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ідеально для вечірок або для тих, хто любить гострі відчуття та натуральні снеки.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;p&gt;Добавьте огня! Сырные палочки Vitberry (сулугуни) с Паприкой и Чили   это выбор для тех, кто любит остренькое. Насыщенный сливочный вкус 100% натурального сыра сочетается с яркой остротой чили и лёгким дымным ароматом паприки. Это идеальная богатая белком закуска к пиву.&lt;/p&gt;&lt;p&gt;Невероятно хрустящие палочки с характером, которые тают во рту.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Высокое содержание белка (25 г) делает их сытным и питательным снеком, который отлично утоляет голод и идеально сочетается с хмельными напитками.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 25 г, Жиры: 26,8 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Молоко коровье цельное, соль пищевая, фермент микробного происхождения, молочнокислые бактерии, сушёная паприка, перец чили. Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Идеально для вечеринок и для тех, кто любит острые ощущения и натуральные снеки.&lt;/p&gt;</description_ru>
+        <price>420</price>
+        <categoryId>1101</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-28837242233354_+958c1f7d9b.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-58283225556676_+40211143df.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-22006118550368_+4a77e2efc6.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-83502717158975_+6c24dc3d43.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/19/khrustki-palychky-suluhuni-papryka-chyli-250-h-27353118833578_+43198716ab.jpg</picture>
+        <param name="Тип">Снеки</param>
+        <param name="БЖВ">жири: 26,8 г; білки: 25 г.</param>
+        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
+        <param name="Енергетична цінність, 100 г">342 ккал.</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Дой-пак</param>
+        <param name="Вага">250 г</param>
+      </offer>
       <offer id="2055" available="false">
         <name_ua>М'ясо яловичини сушене "Соломка Ultimate" 250 г</name_ua>
         <name_ru>Мясо говядины сушеное «Соломка Ultimate» 250 г</name_ru>
@@ -6068,6 +6227,50 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">3</param>
         <param name="Упаковка">Вакуумна упаковка</param>
+      </offer>
+      <offer id="3050" available="false">
+        <name_ua>Хрусткі сирні кульки Бекон - Сушений сир, 200 г</name_ua>
+        <name_ru>Хрустящие сырные шарики Бекон, 200 г</name_ru>
+        <description_ua>&lt;p&gt;Хрусткі сирні кульки Vitberry зі смаком бекону   це вишукана та водночас пікантна закуска. Повітряна, хрустка текстура 100% натурального сиру поєднується з насиченим димним ароматом бекону. Ідеально підходить до насичених червоних вин або як самостійний делікатес.&lt;/p&gt;&lt;p&gt;Дозвольте собі вибух смаку: ніжний сир, що тане в роті, з яскравою ноткою бекону.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Надзвичайно високий вміст білка (58 г) та 100% натуральний склад. Це корисний делікатес, який дає ситість та чисте задоволення смаком без штучних добавок.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 58 г, Жири: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Сир (молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій... фермент), натуральний ароматизатор "Бекон". Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Здивуйте гостей незвичайним доповненням до сирної тарілки або насолоджуйтесь самі.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;p&gt;Хрустящие сырные шарики Vitberry со вкусом бекона   это изысканная и одновременно пикантная закуска. Воздушная, хрустящая текстура 100% натурального сыра сочетается с насыщенным дымным ароматом бекона. Идеально подходит к насыщенным красным винам или как самостоятельный деликатес.&lt;/p&gt;&lt;p&gt;Позвольте себе взрыв вкуса: нежный сыр, который тает во рту, с яркой беконной ноткой.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Чрезвычайно высокое содержание белка (58 г) и 100% натуральный состав. Это полезный деликатес, который даёт сытость и чистое удовольствие от вкуса без искусственных добавок.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 58 г, Жиры: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий... фермент), натуральный ароматизатор  Бекон . Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Удивите гостей необычным дополнением к сырной тарелке или насладитесь сами.&lt;/p&gt;</description_ru>
+        <price>331</price>
+        <categoryId>1101</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-52687592663086_+9666bee21c.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-25177310545981_+3d5b8dd755.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-60619030997038_+06d56afd1a.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-67831890883395_+2623413042.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/18/khrustki-syrni-kulky-bekon-200-h-26837503550369_+7f4c0da90a.jpg</picture>
+        <param name="Тип">Снеки</param>
+        <param name="БЖВ">жири: 50 г; білки: 58 ​​г.</param>
+        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
+        <param name="Енергетична цінність, 100 г">676 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+        <param name="Вага">200 г</param>
+      </offer>
+      <offer id="3055" available="false">
+        <name_ua>Хрусткі сирні кульки Васабі - Сушений сир, 200 г</name_ua>
+        <name_ru>Хрустящие сырные шарики Васаби, 200 г</name_ru>
+        <description_ua>&lt;p&gt;Хрусткі сирні кульки Vitberry з васабі   смілива закуска для ваших рецепторів! Легкі та повітряні кульки з 100% натурального сиру поєднуються з несподіваною, але приємною гостринкою японського васабі. Ідеально підкреслюють смак білого вина та дивують гостей.&lt;/p&gt;&lt;p&gt;Відчуйте, як класичний смак сиру поєднується з яскравою азійською ноткою в кожній хрусткій кульці.&lt;/p&gt;&lt;h2&gt;Головна перевага:&lt;/h2&gt;&lt;p&gt;Надзвичайно високий вміст білка (58 г) у поєднанні з 100% натуральним сиром. Це поживний та оригінальний делікатес без ГМО та консервантів.&lt;/p&gt;&lt;h2&gt;Деталі продукту:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Харчова цінність (БЖВ на 100 г):&lt;/b&gt; Білки: 58 г, Жири: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Склад:&lt;/b&gt; Сир (молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій... фермент), натуральний ароматизатор "Васабі". Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Зберігання:&lt;/b&gt; 6 місяців при температурі не вище 25 С та вологості не більше 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ідеально для оригінальної закуски до вина, азійських вечірок або як самостійний гострий снек.&lt;/p&gt;</description_ua>
+        <description_ru>&lt;p&gt;Хрустящие сырные шарики Vitberry с васаби   смелая закуска для ваших вкусовых рецепторов! Лёгкие и воздушные шарики из 100% натурального сыра сочетаются с неожиданной, но приятной остринкой японского васаби. Идеально подчёркивают вкус белого вина и впечатляют гостей.&lt;/p&gt;&lt;p&gt;Почувствуйте, как классический вкус сыра встречается с яркой азиатской ноткой в каждом хрустящем шарике.&lt;/p&gt;&lt;h2&gt;Главное преимущество:&lt;/h2&gt;&lt;p&gt;Чрезвычайно высокое содержание белка (58 г) в сочетании со 100% натуральным сыром. Это питательный и оригинальный деликатес без ГМО и консервантов.&lt;/p&gt;&lt;h2&gt;Детали продукта:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Пищевая ценность (БЖУ на 100 г):&lt;/b&gt; Белки: 58 г, Жиры: 50 г.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Состав:&lt;/b&gt; Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий... фермент), натуральный ароматизатор  Васабі . Без ГМО.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Хранение:&lt;/b&gt; 6 месяцев при температуре не выше 25  C и влажности не более 75%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Идеально как оригинальная закуска к вину, для азиатских вечеринок или как самостоятельный острый снек.&lt;/p&gt;</description_ru>
+        <price>331</price>
+        <categoryId>1101</categoryId>
+        <vendor>Vitberry</vendor>
+        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-48954343001635_+933b20235d.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-82413711112550_+03858ec12d.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-60490117860348_+1a0a699a87.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-81761113897457_+ee544c39b0.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/21/khrustki-syrni-kulky-vasabi-200-h-75771583234484_+2e2ffe8185.jpg</picture>
+        <param name="Тип">Снеки</param>
+        <param name="БЖВ">жири: 50 г; білки: 58 ​​г.</param>
+        <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
+        <param name="Енергетична цінність, 100 г">676 ккал</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Термін зберігання, міс.">6</param>
+        <param name="Упаковка">Вакуумна упаковка</param>
+        <param name="Вага">200 г</param>
       </offer>
       <offer id="2060" available="false">
         <name_ua>Джерки курячі "Часник" 250 г</name_ua>
@@ -6431,94 +6634,6 @@
         <param name="Вага">40г</param>
         <param name="Вміст цукру">Без доданого цукру</param>
       </offer>
-      <offer id="1045" available="false">
-        <name_ua>Малина сублімована в білому шоколаді, 50 г</name_ua>
-        <name_ru>Малина сублимированная в белом шоколаде., 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-23602015476732_+7809f71b62.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-97631322807290_+80734f328b.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-87891927266574_+15d185f285.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-98135405061056_+c331df6c78.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/48/malyna-sublimovana-v-bilomu-shokoladi-50h-83024518149305_+03fde389e7.jpg</picture>
-        <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімована малина. Може мати сліди горіхів.</param>
-        <param name="Тип">У білому шоколаді</param>
-        <param name="БЖВ">Білки-3,2 г; жирів-18,3 г; з них насичені - 11,0 г; вуглеводи-68,0 г, з них цукру -66,5 г, сіль -0,11 г.</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">1915 кДж/457 ккал;</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
-      </offer>
-      <offer id="1053" available="false">
-        <name_ua>Манго сублімований в молочному шоколаді, 50 г</name_ua>
-        <name_ru>Манго сублимированный в молочном шоколаде., 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-24771766173498_+bf16174156.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-92667248591081_+e7e60bdae7.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-27010446445217_+d5a8b1d33b.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/6/manho-sublimovanyi-v-molochnomu-shokoladi-50h-60392289604801_+5fbed18936.jpg</picture>
-        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), какао терте, емульгатор: соєвий лецитин, натуральна ваніль), сублімований манго.</param>
-        <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">Білки-5,3 г; жирів-26,1 г; їх насичені — 15,9 р; вуглеводи-43,1 г, з них цукру -38,8 г, сіль - 0,15 г.</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">1798 кДж/430 ккал;</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
-      </offer>
-      <offer id="1057" available="false">
-        <name_ua>Ківі сублімований в молочному шоколаді, 50 г</name_ua>
-        <name_ru>Киви сублимированный в молочном шоколаде, 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-56694608682244_+7af2f326c4.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-68994162627030_+3a3ef5ab44.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32643978255527_+7c1ecaa4c9.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/10/kivi-sublimovanyi-v-molochnomu-shokoladi-50h-32024281224427_+715721ee09.jpg</picture>
-        <param name="Склад">Молочний шоколад (цукор, какао-масло, сухе незбиране молоко (22,4%), терте какао, емульгатор: соєвий лецитин, натуральна ваніль), сублімований ківі. Може утримувати горіхи.</param>
-        <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">Білки-5,4 г; жирів-26,1 г; їх насичені — 15,9 р; вуглеводи-43,1 г, їх цукру —38,8 г, сіль — 0,15 г.</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">1799 кДж/430 ккал;</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
-      </offer>
-      <offer id="1565" available="false">
-        <name_ua>Сублімовані фрукти в білому шоколаді, Набір з 4 смаків</name_ua>
-        <name_ru>Сублимированные фрукты в белом шоколаде, Набор из 4 вкусов</name_ru>
-        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
-        <price>720</price>
-        <categoryId>1086</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-57101700146701_+f625b07cdc.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-99838760798473_+bd918e7ea2.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-44684238798787_+87309957d1.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-53599428388392_+7e9e985593.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-39296207232447_+60ecbdcfb5.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/20/nabir-sublimovanykh-fruktiv-v-bilomu-shokoladi-4-smaky-kh-50-h-21144264612072_+849828f382.jpg</picture>
-        <param name="Тип">Набір</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Гарантія">3 міс.</param>
-        <param name="Розмір набору">Середній (по 50г)</param>
-        <param name="Вид шоколаду">Білий шоколад</param>
-      </offer>
       <offer id="SW-00017" available="false">
         <name_ua>Кеш'ю в молочному шоколаді, 100 г</name_ua>
         <name_ru>Кешью в молочном шоколаде, 100 г</name_ru>
@@ -6531,7 +6646,7 @@
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-60789240602408_+5d7fb26911.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
-        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью незбиране смажене (49%), глазуруючий агент (гуміарабік,</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
         <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
@@ -6609,48 +6724,6 @@
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">250</param>
-      </offer>
-      <offer id="ic-00001" available="false">
-        <name_ua>Морозиво сублімоване в білому шоколаді пломбір, 100г</name_ua>
-        <name_ru>Мороженое сублимированное в белом шоколаде пломбир, 100г.</name_ru>
-        <description_ua>&lt;h2&gt;Хрусткий Пломбір у білому шоколаді (Сухе морозиво)&lt;/h2&gt; &lt;p&gt;Уявіть улюблений пломбір, який можна покласти в кишеню! Це не магія, це сухе (сублімоване) морозиво. Спочатку воно приємно хрумтить, як легке безе, а потім ніжно тане у роті, перетворюючись на класичний вершковий десерт. Білий шоколад ідеально підкреслює цю солодку мить.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Чому варто спробувати:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Не тане в руках — бери з собою на прогулянку.&lt;/li&gt; &lt;li&gt;Має насичений вершковий смак пломбіру.&lt;/li&gt; &lt;li&gt;Здивує текстурою: хрумтить, а потім тане.&lt;/li&gt; &lt;/ul&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Хрустящий пломбир в белом шоколаде (сухое мороженое)&lt;/h2&gt; &lt;p&gt;Представьте любимый пломбир, который можно положить в карман! Это не магия, это сухое (сублимированное) мороженое. Сначала оно приятно хрустит, как легкое безе, а затем нежно тает во рту, превращаясь в классический сливочный десерт. Белый шоколад идеально подчеркивает это сладкое мгновение.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Почему стоит попробовать:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Не тает в руках — бери с собой на прогулку.&lt;/li&gt; &lt;li&gt;Имеет насыщенный сливочный вкус пломбира.&lt;/li&gt; &lt;li&gt;Удивит текстурой: хрустит, а потом тает.&lt;/li&gt; &lt;/ul&gt;</description_ru>
-        <price>387</price>
-        <categoryId>1088</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/1/65408496558175_+c7155fb826.png</picture>
-        <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-83767011248221_+84887e2732.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-62715684624648_+3bbbc7178e.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/1/morozyvo-sublimovane-v-bilomu-shokoladi-plombir-100h-71495445901153_+b177dd1336.jpg</picture>
-        <param name="Склад">шоколад білий (цукор, какао-масло, молоко сухе цільне, емульгатор: соєвий лецитин, ваніль натуральна), сублімоване морозиво «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %), кокосове масло, молоко сухе знежирене</param>
-        <param name="БЖВ">білків -5,3 g(г); жирів –25,8 g(г), їх насичені –11,4 g(г); вуглеводів –41,1 g(г), їх цукру –27,4 g(г); сіль -0,11 g (г).</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">1748 kJ(кДж)/418 kcal(ккал);</param>
-        <param name="Особливості">Не тане і готове до вживання</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Упаковка">Пластикова баночка</param>
-      </offer>
-      <offer id="ic-00009" available="false">
-        <name_ua>Морозиво сублімоване в молочному шоколаді пломбір, 100г</name_ua>
-        <name_ru>Мороженое сублимированное в молочном шоколаде пломбир, 100г</name_ru>
-        <description_ua>&lt;h2&gt;Класичний Пломбір у молочному шоколаді (Сухе морозиво)&lt;/h2&gt; &lt;p&gt;Стара добра класика у космічному форматі. Ніжний вершковий пломбір, огорнутий якісним молочним шоколадом. Це ідеальний перекус до кави: шматочок хрумтить на зубах, миттєво розкриваючи смак того самого морозива з дитинства. Жодних плям на одязі — воно не потече!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Чому варто спробувати:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Смак улюбленого ескімо, яке не боїться спеки.&lt;/li&gt; &lt;li&gt;Зручно їсти в машині, офісі чи в дорозі.&lt;/li&gt; &lt;li&gt;Дуже подобається дітям (і дорослим теж).&lt;/li&gt; &lt;/ul&gt;</description_ua>
-        <description_ru>&lt;h2&gt;Классический Пломбир в молочном шоколаде (Сухое мороженое)&lt;/h2&gt; &lt;p&gt;Старая хорошая классика в космическом формате. Нежный сливочный пломбир, окутанный качественным молочным шоколадом. Это идеальный перекус к кофе: кусочек хрустит на зубах, мгновенно раскрывая вкус того же мороженого с детства. Никаких пятен на одежде – оно не потечет!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Почему стоит попробовать:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Вкус любимого эскимо, которое не боится жары.&lt;/li&gt; &lt;li&gt;Удобно есть в машине, офисе или в дороге.&lt;/li&gt; &lt;li&gt;Очень нравится детям (и взрослым тоже).&lt;/li&gt; &lt;/ul&gt;</description_ru>
-        <price>387</price>
-        <categoryId>1088</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/9/40224822300519_+d2b9f69fe4.png</picture>
-        <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-83790387914497_+78971692d3.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-30149572896763_+e151815faf.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/9/morozyvo-sublimovane-v-molochnomu-shokoladi-plombir-100h-51936538339880_+4887e7473e.jpg</picture>
-        <param name="Склад">шоколад молочний (цукор, какао-масло, молоко сухе незбиране (22,4 %), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), морозиво сублімоване «Пломбір» (молоко ультрапастеризоване (63,13 %), цукор, вершки (10 %)</param>
-        <param name="БЖВ">білків -5,6 g (г); жирів –24,8 g(г), їх насичені –10,8 g(г); вуглеводів –40,5 g(г), їх цукру –26,4 g(г); сіль -0,10 g (г).</param>
-        <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">1712 kJ(кДж)/409 kcal(ккал);</param>
-        <param name="Особливості">Не тане і готове до вживання</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">12</param>
-        <param name="Упаковка">Пластикова баночка</param>
       </offer>
       <offer id="cz-00009" available="false">
         <name_ua>Хрусткі сирні кульки з холодцем та хріном - Сир сушений, 100 г</name_ua>
@@ -6750,31 +6823,6 @@
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">350</param>
       </offer>
-      <offer id="fc-00001" available="false">
-        <name_ua>Сублімована малина в молочному шоколаді БЕЗ ЦУКРУ, 50 г</name_ua>
-        <name_ru>Сублимированная малина в молочном шоколаде БЕЗ САХАРА, 50 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>198</price>
-        <categoryId>1098</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/38/53461591932965_+5a947ce183.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/38/97641965235112_+f6c371f596.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/38/76879427607810_+49d2f6fba0.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/38/30728698451517_+0259849e39.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/38/44479612237430_+ba76919467.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/38/90096199988680_+fd8c0159b2.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/38/62930806457271_+0f048bd88b.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/38/30067262694502_+5d1c8e84e0.jpg</picture>
-        <param name="Склад">шоколад молочний (харчові волокна (олігофруктоза), какао-масло, молоко сухе цільне, молоко знежирене сухе, какао терте, емульгатор соняшниковий лецитин, ароматизатор «Ваніль», підсолоджувач глікозиди стевіолу), малина сублімована. Може утримувати</param>
-        <param name="Тип">У молочному шоколаді</param>
-        <param name="БЖВ">білків – 7,4 g (г); жирів – 27,3 g(г), їх насичені – 14,5 g(г); вуглеводів – 40,3 g(г), їх цукру – 16,4 g(г); сіль - 0,02 g (г).</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">1967 kJ(кДж)/470 kcal(ккал);</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-      </offer>
       <offer id="nt-00027" available="false">
         <name_ua>Макадамія очищена, 100 г</name_ua>
         <name_ru>Макадамия очищенная, 100 г</name_ru>
@@ -6847,31 +6895,28 @@
         <param name="Термін зберігання, міс.">24</param>
         <param name="Упаковка">Пластикова баночка</param>
       </offer>
-      <offer id="fc-00011" available="false">
-        <name_ua>Сублімована полуниця в чорному шоколаді, 150 г</name_ua>
-        <name_ru>Сублимированная клубника в черном шоколаде, 150 г</name_ru>
-        <description_ua></description_ua>
-        <description_ru></description_ru>
-        <price>531</price>
-        <categoryId>1098</categoryId>
+      <offer id="ic-00032" available="false">
+        <name_ua>Морозиво сублімоване Cолодка вата, 40 г</name_ua>
+        <name_ru>Мороженое сублимированное Cладкая вата, 40 г</name_ru>
+        <description_ua>&lt;p&gt;Морозиво сублімоване Cолодка вата&lt;/p&gt;</description_ua>
+        <description_ru>&lt;p&gt;Мороженое сублимированное Cладкая вата&lt;/p&gt;</description_ru>
+        <price>176</price>
+        <categoryId>1088</categoryId>
         <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98602939258263_+ae3bd50579.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-98633069921362_+d613b00f90.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-42531166913791_+4b53c75127.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-65794939958026_+00a73c1913.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-33703146838670_+b2c58680e4.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-11177320917522_+1d4daea5bf.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-77039546906871_+8aaaffb6c6.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/50/polunytsia-sublimovana-v-chornomu-shokoladi-95845308416807_+4cb9218359.jpg</picture>
-        <param name="Склад">темний шоколад (какао терте, цукор, какао-масло, емульгатор: соєвий лецитин, натуральна ваніль), полулімована полуниця.</param>
-        <param name="Тип">У чорному шоколаді</param>
-        <param name="БЖВ">білки – 5,6 г; жири – 33,2 г; їх насичені – 20,4 р; вуглеводи – 48,3 г, із них цукру – 44,1 г</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Енергетична цінність, 100 г">532 ккал</param>
+        <picture>https://vitberry.com.ua/content/images/17/49228080660450_+f2ab153469.png</picture>
+        <picture>https://vitberry.com.ua/content/images/16/38020553167079_+9c132c909e.jpg</picture>
+        <picture>https://vitberry.com.ua/content/images/16/82504614904214_+090bcc37cf.png</picture>
+        <picture>https://vitberry.com.ua/content/images/16/36367684035630_+3e544b2ca3.png</picture>
+        <picture>https://vitberry.com.ua/content/images/16/11147359912762_+870850c813.jpg</picture>
+        <param name="Склад">Молоко знежирене, цукор, олія кокосова, вода питна, вода питна, крохмаль, декстроза, желатин, ароматизатори-барвники (кармін, куркумін), кислота винна харчова, молоко знежирене сухе, сироп глюкозно-фруктозний, емульгатор моно- та дигліцериди</param>
+        <param name="Вага">40 г</param>
+        <param name="БЖВ">Жири 30 гБілки 12,0 гВуглеводи 75 г</param>
+        <param name="Умови зберігання">У прохолодному та сухому місці</param>
+        <param name="Енергетична цінність, 100 г">2538,0 кДж / 606,0 ккал</param>
+        <param name="Особливості">Не тане і готове до вживання</param>
         <param name="Країна виробник">Україна</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Упаковка">Дой-пак</param>
-        <param name="Вага">50г</param>
+        <param name="Термін зберігання, міс.">24</param>
+        <param name="Упаковка">Пластикова баночка</param>
       </offer>
       <offer id="ic-00036" available="false">
         <name_ua>Сублімоване морозиво Абрикос-хурма, 100 г</name_ua>
@@ -6959,28 +7004,6 @@
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">24</param>
         <param name="Упаковка">Пластикова баночка</param>
-      </offer>
-      <offer id="mx-00033" available="false">
-        <name_ua>Сублімовані фрукти в чорному шоколаді, Набір з 4 смаків</name_ua>
-        <name_ru>Сублимированные фрукты в чорном шоколаде, Набор с 4 вкусов</name_ru>
-        <description_ua>&lt;div&gt;  &lt;h2&gt;Набори сублімованих фруктів та ягід у шоколаді Vitberry&lt;/h2&gt;    &lt;p&gt;Ці набори створені для тих, хто шукає зрозумілу та натуральну альтернативу традиційним кондитерським виробам. Основна ідея &lt;strong&gt;Vitberry&lt;/strong&gt; — поєднати природну кислинку справжніх фруктів із солодкістю якісного шоколаду. Завдяки методу сублімації (freeze-drying), з плодів видаляється лише волога, при цьому справжній натуральний смак, колір та до 95% вітамінів залишаються всередині. Ви отримуєте легкий, хрусткий фрукт, який не містить добавок чи консервантів.&lt;/p&gt;    &lt;p&gt;Ми розділили асортимент на три варіації за типом шоколаду, щоб кожен міг підібрати поєднання під свій смак. Кожен набір має свій унікальний перелік інгредієнтів, які найкраще розкриваються саме в цій палітрі.&lt;/p&gt;    &lt;h3&gt;Склад наборів за типом шоколаду:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Варіація шоколаду&lt;/th&gt;     &lt;th&gt;Cклад набору&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, манго, персик, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Чорний шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;полуниця, ананас, черешня та малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Білий шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;ківі, полуниця, малина та манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технічні характеристики та чесні факти про продукт:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Якість глазурі:&lt;/strong&gt; Ми використовуємо справжній шоколад. У чорному шоколаді вміст какао-продуктів (тертого какао та масла) становить 55%, у молочному — 34%. У білому шоколаді ми використовуємо натуральне масло какао, що забезпечує ніжний вершковий смак без рослинних замінників жиру.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технологія сушки:&lt;/strong&gt; Фрукти проходять цикл заморожування та висушування у вакуумі при низьких температурах. Це робить їх хрусткими, але не твердими, на відміну від звичайних цукатів чи сухофруктів.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Відсутність зайвого:&lt;/strong&gt; У складі немає барвників, штучних підсилювачів смаку чи воску. Для надання природного блиску драже використовується натуральний гуміарабік.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Поживна цінність:&lt;/strong&gt; Сублімація зберігає природну фруктозу, тому продукт дає швидкий заряд енергії. Це зручний варіант для перекусу на роботі, після тренування або як доповнення до чаювання.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Як використовувати?&lt;/h3&gt;    &lt;p&gt;Ці набори часто купують як невеликий, але естетичний подарунок, коли хочеться здивувати чимось новим. Крім того, драже зручно використовувати у домашній кулінарії — вони не розмокають миттєво, тому підходять для декорування торів, додавання у каші чи домашні йогурти.&lt;/p&gt;    &lt;p&gt;Ми рекомендуємо зберігати продукт у щільно закритій упаковці в сухому місці. Сублімовані фрукти дуже гігроскопічні (швидко вбирають вологу), тому, якщо залишити пакунок відкритим, вони можуть втратити свою фірмову хрусткість, хоча й залишаться безпечними для вживання.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Обирайте свій варіант шоколаду та насолоджуйтесь чесним смаком справжніх фруктів.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ua>
-        <description_ru>&lt;div&gt;  &lt;h2&gt;Наборы сублимированных фруктов и ягод в шоколаде Vitberry&lt;/h2&gt;    &lt;p&gt;Эти наборы созданы для тех, кто ищет понятную и натуральную альтернативу традиционным кондитерским изделиям. Основная идея &lt;strong&gt;Vitberry&lt;/strong&gt; — объединить природную кислинку настоящих фруктов со сладостью качественного шоколада. Благодаря методу сублимации (freeze-drying), из плодов удаляется только влага, при этом настоящий натуральный вкус, цвет и до 95% витаминов остаются внутри. Вы получаете легкий, хрустящий фрукт, который не содержит добавок или консервантов.&lt;/p&gt;    &lt;p&gt;Мы разделили ассортимент на три вариации по типу шоколада, чтобы каждый мог подобрать сочетание под свой вкус. Каждый набор имеет свой уникальный список ингредиентов, которые лучше всего раскрываются именно в этой палитре.&lt;/p&gt;    &lt;h3&gt;Состав наборов по типу шоколада:&lt;/h3&gt;    &lt;table&gt;   &lt;thead&gt;    &lt;tr&gt;     &lt;th&gt;Вариация шоколада&lt;/th&gt;     &lt;th&gt;Состав набора&lt;/th&gt;    &lt;/tr&gt;   &lt;/thead&gt;   &lt;tbody&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Молочный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, манго, персик, черешня, ананас и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Черный шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;клубника, ананас, черешня и малина.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;    &lt;tr&gt;     &lt;td&gt;&lt;strong&gt;Белый шоколад&lt;/strong&gt;&lt;/td&gt;     &lt;td&gt;&lt;strong&gt;киви, клубника, малина и манго.&lt;/strong&gt;&lt;/td&gt;    &lt;/tr&gt;   &lt;/tbody&gt;  &lt;/table&gt;    &lt;h3&gt;Технические характеристики и честные факты о продукте:&lt;/h3&gt;    &lt;ul&gt;   &lt;li&gt;&lt;strong&gt;Качество глазури:&lt;/strong&gt; Мы используем настоящий шоколад. В черном шоколаде содержание какао-продуктов (тертого какао и масла) составляет 55%, в молочном — 34%. В белом шоколаде мы используем натуральное масло какао, что обеспечивает нежный сливочный вкус без растительных заменителей жира.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Технология сушки:&lt;/strong&gt; Фрукты проходят цикл заморозки и высушивания в вакууме при низких температурах. Это делает их хрустящими, но не твердыми, в отличие от обычных цукатов или сухофруктов.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Отсутствие лишнего:&lt;/strong&gt; В составе нет красителей, искусственных усилителей вкуса или воска. Для придания природного блеска драже используется натуральный гуммиарабик.&lt;/li&gt;   &lt;li&gt;&lt;strong&gt;Пищевая ценность:&lt;/strong&gt; Сублимация сохраняет природную фруктозу, поэтому продукт дает быстрый заряд энергии. Это удобный вариант для перекуса на работе, после тренировки или как дополнение к чаепитию.&lt;/li&gt;  &lt;/ul&gt;    &lt;h3&gt;Как использовать?&lt;/h3&gt;    &lt;p&gt;Эти наборы часто покупают как небольшой, но эстетичный подарок, когда хочется удивить чем-то новым. Кроме того, драже удобно использовать в домашней кулинарии — они не размокают мгновенно, поэтому подходят для декорирования тортов, добавления в каши или домашние йогурты.&lt;/p&gt;    &lt;p&gt;Мы рекомендуем хранить продукт в плотно закрытой упаковке в сухом месте. Сублимированные фрукты очень гигроскопичны (быстро впитывают влагу), поэтому, если оставить пакет открытым, они могут потерять свою фирменную хрусткость, хотя и останутся безопасными для употребления.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Выбирайте свой вариант шоколада и наслаждайтесь честным вкусом настоящих фруктов.&lt;/strong&gt;&lt;/p&gt;  &lt;/div&gt;</description_ru>
-        <price>2041</price>
-        <categoryId>1086</categoryId>
-        <vendor>Vitberry</vendor>
-        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-68489957414034_+94e0fa4a09.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-74226390957741_+10ed1b7cb3.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-56639895201224_+ea75a5d51f.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-55347080252580_+a9368447d9.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-81191513769522_+d289533a9d.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-57236033635478_+1116b502a9.jpg</picture>
-        <picture>https://vitberry.com.ua/content/images/44/nabir-sublimovanykh-fruktiv-v-shokoladi-17851295330518_+2f9421ab1d.jpg</picture>
-        <param name="Тип">Набір</param>
-        <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
-        <param name="Термін зберігання, міс.">6</param>
-        <param name="Гарантія">3 міс.</param>
-        <param name="Розмір набору">Великий (по 150г)</param>
-        <param name="Вид шоколаду">Чорний шоколад</param>
       </offer>
     </offers>
   </shop>
