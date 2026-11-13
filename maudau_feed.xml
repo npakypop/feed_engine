@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-13 14:00">
+<yml_catalog date="2026-11-13 23:17">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -6020,7 +6020,7 @@
         <picture>https://vitberry.com.ua/content/images/24/khrustkyi-syr-kulky-22598366164093_+3a9f88fdd4.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/24/khrustkyi-syr-kulky-86979925097607_+2528e0e463.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/24/khrustkyi-syr-kulky-84330495503759_+3905ef180c.jpg</picture>
-        <param name="Склад">сыр (нормализованное пастеризованное коровье молоко, соль, хлористый калий гранулят 94-97% пищевой, натуральный краситель аннато, бактериальная закваска и культура, молокосвертывающий фермент). Без ГМО.</param>
+        <param name="Склад">сир (нормалізоване пастеризоване коров'яче молоко, сіль, хлористий калій гранулят 94-97% харчовий, натуральний барвник аннато, бактеріальна закваска та культура, молокозгортаючий фермент). Без ГМО.</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">жири: 50 г; білки: 58 ​​г.</param>
         <param name="Умови зберігання">Зберігати у сухому та темному місці при температурі не вище 25 °C та відносній вологості повітря не більше 75%</param>
@@ -6487,10 +6487,10 @@
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
-        <param name="Склад">Черника</param>
+        <param name="Склад">Чорниця</param>
         <param name="Тип">Ягоди</param>
         <param name="Вага">10 г</param>
-        <param name="БЖВ">Белки: 5 г / Жиры: 1 г / Углеводы: 88 г</param>
+        <param name="БЖВ">Білки: 5 г / Жири: 1 г / Вуглеводи: 88 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">371 Ккал</param>
         <param name="Особливості">Без глютену, vegan friendly, без доданого цукру, без консервантів, без штучних барвників та ароматизаторів, без алергенів, 100% натуральні фрукти, підходить для дітей</param>
@@ -6508,7 +6508,7 @@
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
-        <param name="Склад">Черника</param>
+        <param name="Склад">Чорниця</param>
         <param name="Тип">Ягоди</param>
         <param name="Вага">30 г</param>
         <param name="БЖВ">Білки: 5 г / Жири: 1 г / Вуглеводи: 88 г</param>
@@ -6529,7 +6529,7 @@
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
-        <param name="Склад">Черника</param>
+        <param name="Склад">Чорниця</param>
         <param name="Тип">Ягоди</param>
         <param name="Вага">100 г</param>
         <param name="БЖВ">Білки: 5 г / Жири: 1 г / Вуглеводи: 88 г</param>
@@ -6550,7 +6550,7 @@
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-24709299261912_+e944d72159.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-14771826297531_+7f25b16b12.png</picture>
         <picture>https://vitberry.com.ua/content/images/21/sublimovana-chornytsia-50614429932139_+cbcef4ad26.jpg</picture>
-        <param name="Склад">Черника</param>
+        <param name="Склад">Чорниця</param>
         <param name="Тип">Ягоди</param>
         <param name="Вага">500 г</param>
         <param name="БЖВ">Білки: 5 г / Жири: 1 г / Вуглеводи: 88 г</param>
@@ -6571,7 +6571,7 @@
         <picture>https://vitberry.com.ua/content/images/46/adzhyka-tradytsiina-215-h-50785101261333_+6d00c3c27d.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/46/adzhyka-tradytsiina-215-h-14898444610803_+e61e531ba6.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/46/adzhyka-tradytsiina-215-h-67920723921634_+620bfdb950.jpg</picture>
-        <param name="Склад">Томат, свежий красный сладкий перец, свежий красный острый перец, чеснок, сахар, соль, рафинированное подсолнечное растительное масло, уксус</param>
+        <param name="Склад">Томат, свіжий червоний солодкий перець, свіжий червоний гострий перець, часник, цукор, сіль, рафінована соняшникова олія, оцет</param>
         <param name="Тип">Соус</param>
         <param name="БЖВ">Білки: 2 г / Жири: 4 г / Вуглеводи: 12,00 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -6595,9 +6595,9 @@
         <picture>https://vitberry.com.ua/content/images/28/batonchyk-proteinovyi-smak-yabluko-korytsia-40-h-98691477622171_+34dc035a9b.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/28/batonchyk-proteinovyi-smak-yabluko-korytsia-40-h-42889334965996_+6932382aa1.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/28/batonchyk-proteinovyi-smak-yabluko-korytsia-40-h-80271708931811_+a63fb76087.jpg</picture>
-        <param name="Склад">Финик, сывороточный протеин, сублимированное яблоко, миндаль, корица</param>
+        <param name="Склад">Фінік, сироватковий протеїн, сублімоване яблуко, мигдаль, кориця</param>
         <param name="Тип">Батончик</param>
-        <param name="БЖВ">Белки, г – 6,46 Жиры, г – 1,53 Насыщенные Жиры, г – 0,18 Углеводы, г – 20,35 Клетчатка, г – 2,51 Сахара, г – 19,15.</param>
+        <param name="БЖВ">Білки, г – 6,46 Жири, г – 1,53 Насичені Жири, г – 0,18 Вуглеводи, г – 20,35 Клітковина, г – 2,51 Сахара, г – 19,15.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал – 117,25 кДж – 493,39</param>
         <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
@@ -6621,7 +6621,7 @@
         <picture>https://vitberry.com.ua/content/images/32/batonchyk-proteinovyi-smak-banan-40-h-47787335372606_+d3599b291f.jpg</picture>
         <param name="Склад">Фінік, сироватковий протеїн, сублімований банан, волоський горіх</param>
         <param name="Тип">Батончик</param>
-        <param name="БЖВ">Белки, г – 6,87 Жиры, г – 1,69 Насыщенные Жиры, г – 0,21 Углеводы, г – 19,98 Клетчатка, г – 2,22 Сахара, г – 19,28.</param>
+        <param name="БЖВ">Білки, г – 6,87 Жири, г – 1,69 Насичені Жири, г – 0,21 Вуглеводи, г – 19,98 Клітковина, г – 2,22 Сахара, г – 19,28.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">ккал – 118,93 кДж – 500,59</param>
         <param name="Особливості">Тільки натуральні інгредієнти – без штучних барвників, ароматизаторів та підсилювачів смаку.</param>
@@ -6642,10 +6642,10 @@
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-60789240602408_+5d7fb26911.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-93614841258669_+03de432495.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/3/drazhe-keshiu-v-molochnomu-shokoladi-100-h-tm-vitberry-52385145581716_+7847587861.jpg</picture>
-        <param name="Склад">Состав: шоколад молочный (сахар, какао-масло, молоко сухое цельное (22,4%), какао тертое, эмульгатор: соевый лецитин, ваниль натуральная), ядро ​​ореха кешью цельное жареное (49%), глазурирующий агент (гумиарабик, сахароза, сахароза лимонная кислота, сорб</param>
+        <param name="Склад">Склад: шоколад молочний (цукор, какао-масло, молоко сухе цільне (22,4%), какао терте, емульгатор: соєвий лецитин, ваніль натуральна), ядро ​​горіха кешью цільне смажене (49%), глазуруючий агент (гуміарабік,</param>
         <param name="БЖВ">білків – 12,1 г; жирів – 38,3 г; їх насичені – 10,6 р; вуглеводів – 41,7 г, їх цукру – 25,9 г, сіль – 0,10 г.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">2293 кДж /548 ккал;</param>
+        <param name="Енергетична цінність, 100 г">2293 кДж/548 ккал;</param>
         <param name="Країна виробник">Україна</param>
         <param name="Термін зберігання, міс.">7</param>
         <param name="Упаковка">Пластикова баночка</param>
@@ -6733,7 +6733,7 @@
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-88885924189299_+f04de41608.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-61518537819363_+be1d30e25f.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/26/syr-sushenyi-z-kholodtsem-ta-khrinom-99818768526741_+a8d35d70c7.jpg</picture>
-        <param name="Склад">Молоко коровье нормализованное пастеризованное, соль, хлористый калий гранулянт 94-97%, пищевой краситель натуральный аннато, бактериальная закваска и культура</param>
+        <param name="Склад">Молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій гранулянт 94-97%, харчовий барвник натуральний аннато, бактеріальна закваска та культура</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 28г, білки 23г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -6755,7 +6755,7 @@
         <picture>https://vitberry.com.ua/content/images/30/syr-akkerman-iz-smazhenoiu-tsybuleiu-86155149661017_+cd874b4f70.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/syr-akkerman-iz-smazhenoiu-tsybuleiu-97077248502462_+3f660d98af.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/30/syr-akkerman-iz-smazhenoiu-tsybuleiu-60894412142794_+d2d771a234.jpg</picture>
-        <param name="Склад">Молоко коровье цельное, лук жареный (5%), соль пищевая, закваска, фермент сычужный</param>
+        <param name="Склад">Молоко коров'яче незбиране, цибуля смажена (5%), сіль харчова, закваска, фермент сичужний</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 28г, білки 23г, вуглеводи 1,5г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -6777,7 +6777,7 @@
         <picture>https://vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-87064701029278_+3059ba15f5.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-24954441200708_+2987feae83.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/34/syr-sushenyi-iz-krevetkoiu-43425763616063_+ca6de11584.jpg</picture>
-        <param name="Склад">Сыр (молоко коровье нормализованное пастеризованное, соль, хлористый калий, гранулянт 94-97% пищевой, краситель натуральный аннато, бактериальная закваска и культура, молокоосаждающий фермент)</param>
+        <param name="Склад">Сир (молоко коров'яче нормалізоване пастеризоване, сіль, хлористий калій, гранулянт 94-97% харчовий, барвник натуральний аннато, бактеріальна закваска та культура, молокоосаджувальний фермент)</param>
         <param name="Тип">Снеки</param>
         <param name="БЖВ">Жири 50г, білки 58г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -6797,7 +6797,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/36/voloskyihorikh-200h-35140365175275_+94c87f6f3b.png</picture>
         <picture>https://vitberry.com.ua/content/images/36/voloskyihorikh-200h-99837696264056_+7dfad801c7.jpg</picture>
-        <param name="БЖВ">Жиры: 60-65,2 г Белки: 15–16,2 г Углеводы: 7-13,7 г Клетчатка: ~6,7 г</param>
+        <param name="БЖВ">Жири: 60-65,2 г Білки: 15-16,2 г Вуглеводи: 7-13,7 г Клітковина: ~6,7 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">Калорійність: 650–680 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
@@ -6813,9 +6813,9 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/37/nasinnia-chia-350h-36652579855667_+045a67916e.png</picture>
         <picture>https://vitberry.com.ua/content/images/37/nasinnia-chia-350h-47025153736543_+b878b062a3.jpg</picture>
-        <param name="БЖВ">Белки: 16,5 – 23,1 г Жиры: 30,7 – 31,9 г</param>
+        <param name="БЖВ">Білки: 16,5 – 23,1 г Жири: 30,7 – 31,9 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
-        <param name="Енергетична цінність, 100 г">Калорийность: 379 – 512 ккал</param>
+        <param name="Енергетична цінність, 100 г">Калорійність: 379 – 512 ккал</param>
         <param name="Термін зберігання, міс.">12</param>
         <param name="Вага">350</param>
       </offer>
@@ -6953,7 +6953,7 @@
         <vendor>Vitberry</vendor>
         <picture>https://vitberry.com.ua/content/images/14/sublimovane-morozyvo-taiemnyi-smak-smak-vitberry-35065275058657_+06c9601363.jpg</picture>
         <param name="Вага">100 г</param>
-        <param name="БЖВ">Белки: 4,20 г / Жиры: 14,04 г / Углеводы: 27,00 г</param>
+        <param name="БЖВ">Білки: 4,20 г / Жири: 14,04 г / Вуглеводи: 27,00 г</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
         <param name="Енергетична цінність, 100 г">375 Ккал</param>
         <param name="Особливості">Не тане і готове до вживання</param>
