@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-15 05:05">
+<yml_catalog date="2026-11-15 13:30">
   <shop>
     <categories>
       <category id="1085" portal_id="1776">Фрукти Сублімовані</category>
@@ -3019,7 +3019,7 @@
         <picture>https://vitberry.com.ua/content/images/16/batonchyk-horikhovo-fruktovyi-smak-malyna-40-h-37610308632490_+98730b50f1.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/16/batonchyk-horikhovo-fruktovyi-smak-malyna-40-h-40951400471860_+82f1678dc3.jpg</picture>
         <picture>https://vitberry.com.ua/content/images/16/batonchyk-horikhovo-fruktovyi-smak-malyna-40-h-48146185660281_+3919d4b6cd.jpg</picture>
-        <param name="Склад">Фініки, ліофілізована малина, кокос, мигдаль, м'ята</param>
+        <param name="Склад">Фінік, сублімована малина, кокосова стружка, мигдаль, м'ята</param>
         <param name="Тип">Батончик</param>
         <param name="БЖВ">Білки, г – 1,54 Жири, г – 2,31 Насичені Жири, г – 0,90 Вуглеводи, г – 21,69 Клітковина, г – 2,98 Сахара, г – 21,63.</param>
         <param name="Умови зберігання">У прохолодному та сухому місці</param>
@@ -3254,7 +3254,7 @@
         <picture>https://vitberry.com.ua/content/images/14/kivi-sublimovanyi-v-bilomu-shokoladi-50h-27603903437968_+96f8382eca.jpg</picture>
         <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімований ківі.</param>
         <param name="Тип">У білому шоколаді</param>
-        <param name="БЖВ">Білки - 4,9 г; жири - 27,7 г; з них насичених - 16,7 г; вуглеводів - 44,0 г, з них цукру - 40,3 г, солі - 0,16 г.</param>
+        <param name="БЖВ">Білки-4,9 г; жирів-27,7 г; їх насичені — 16,7 р; вуглеводи-44,0 г, з них цукру -40,3 г, сіль -0,16 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1853 кДж/443 ккал;</param>
         <param name="Країна виробник">Україна</param>
@@ -4785,7 +4785,7 @@
         <picture>https://vitberry.com.ua/content/images/14/kivi-sublimovanyi-v-bilomu-shokoladi-50h-27603903437968_+96f8382eca.jpg</picture>
         <param name="Склад">Білий шоколад (цукор, какао-масло, сухе незбиране молоко, емульгатор: соєвий лецитин, натуральна ваніль), сублімований ківі.</param>
         <param name="Тип">У білому шоколаді</param>
-        <param name="БЖВ">Білки - 4,9 г; жири - 27,7 г; з них насичених - 16,7 г; вуглеводів - 44,0 г, з них цукру - 40,3 г, солі - 0,16 г.</param>
+        <param name="БЖВ">Білки-4,9 г; жирів-27,7 г; їх насичені — 16,7 р; вуглеводи-44,0 г, з них цукру -40,3 г, сіль -0,16 г.</param>
         <param name="Умови зберігання">Зберігати при температурі (18±3)°С та відносній вологості повітря не більше 75%.</param>
         <param name="Енергетична цінність, 100 г">1853 кДж/443 ккал;</param>
         <param name="Країна виробник">Україна</param>
